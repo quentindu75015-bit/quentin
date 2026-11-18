@@ -1,0 +1,492 @@
+{
+  "cards": [
+    {
+      "id": "jingle",
+      "lines": "LE MESSIE\nEN RETARD ?",
+      "title": "ROUND 2",
+      "tpl": "titre"
+    },
+    {
+      "book": "bible",
+      "hebrew": "יִכָּרֵת מָשִׁיחַ",
+      "id": "dan9",
+      "lines": "V.24 · SOIXANTE-DIX SEMAINES ONT ÉTÉ FIXÉES\nSUR TON PEUPLE ET SUR TA VILLE SAINTE\nV.26 · APRÈS LES SOIXANTE-DEUX SEMAINES,\nUN OINT SERA RETRANCHÉ…\nLE PEUPLE D'UN CHEF QUI VIENDRA\nDÉTRUIRA LA VILLE ET LE SANCTUAIRE",
+      "refDetail": "Louis Segond 1910",
+      "refName": "Daniel",
+      "refNum": "9:24-26",
+      "title": "DANIEL 9 · VERSETS 24 ET 26",
+      "tpl": "livre",
+      "url": "lueur.org · Daniel 9:24-27"
+    },
+    {
+      "id": "ordre",
+      "lines": "① UN OINT SERA RETRANCHÉ\n↓\n② LA VILLE ET LE SANCTUAIRE DÉTRUITS",
+      "title": "L'ORDRE DE DANIEL 9:26",
+      "tpl": "fiche"
+    },
+    {
+      "id": "agrippa",
+      "lines": "RACHI : « AGRIPPA… SERA TUÉ »\nHISTOIRE : ROI DE JUDÉE, NÉ EN 27\nALLIÉ DE ROME PENDANT LA GUERRE\nMORT VERS 93",
+      "refDetail": "Britannica",
+      "refName": "Rachi sur Daniel 9:26 · Agrippa II",
+      "refNum": "",
+      "sub": "L'« OINT » SELON RACHI",
+      "title": "AGRIPPA II",
+      "tpl": "fiche",
+      "url": "sefaria.org · britannica.com"
+    },
+    {
+      "hebrew": "כָּלוּ כׇּל הַקִּיצִּין וְאֵין הַדָּבָר תָּלוּי אֶלָּא בִּתְשׁוּבָה וּמַעֲשִׂים טוֹבִים",
+      "id": "sn97b",
+      "lines": "« TOUTES LES ÉCHÉANCES SONT PASSÉES,\nET LA CHOSE NE DÉPEND QUE\nDU REPENTIR ET DES BONNES ŒUVRES »",
+      "refDetail": "Rav",
+      "refName": "Talmud de Babylone",
+      "refNum": "Sanhédrin 97b",
+      "sub": "SANHÉDRIN 97B · RAV",
+      "title": "TALMUD DE BABYLONE",
+      "tpl": "parchemin",
+      "url": "sefaria.org/Sanhedrin.97b"
+    },
+    {
+      "id": "tacite",
+      "lines": "« CHRIST, À L'ORIGINE DE CE NOM,\nAVAIT ÉTÉ LIVRÉ AU SUPPLICE SOUS TIBÈRE\nPAR LE PROCURATEUR PONCE PILATE »",
+      "refDetail": "traduit du latin",
+      "refName": "Tacite",
+      "refNum": "Annales XV, 44",
+      "sub": "HISTORIEN ROMAIN · ANNALES XV, 44 (VERS 116)",
+      "title": "TACITE",
+      "tpl": "parchemin",
+      "url": "Annales XV, 44"
+    },
+    {
+      "id": "choix",
+      "left": "LE MESSIE VIENDRA PLUS TARD\nTobias",
+      "right": "L'OINT RETRANCHÉ AVANT 70\nDaniel 9 · Sanhédrin 97b · Tacite",
+      "tpl": "balance"
+    }
+  ],
+  "cast": [
+    {
+      "key": "tobias",
+      "name": "Tobias"
+    },
+    {
+      "key": "sissagodson",
+      "name": "Sissagodson"
+    }
+  ],
+  "end1": "DANIEL 9:24-26 · SANHÉDRIN 97B",
+  "end2": "RACHI · TACITE, ANNALES XV, 44",
+  "endNote": "",
+  "endRefs": "Bible Segond 1910 · Talmud (Sefaria) · Rachi sur Daniel 9:26 · Tacite",
+  "endTitle": "LE MESSIE EN RETARD ?",
+  "hook": {
+    "badge": "TOBIAS ET SES ARGUMENTS 2.0",
+    "lines": [
+      {
+        "dur": 4.24,
+        "durFor": "[firm] Le Messie n'est pas encore venu ! [emphatic] Il viendra quand Israël se repentira.",
+        "expr": "assure",
+        "fx": [
+          {
+            "t": "zoom",
+            "word": "repentira"
+          }
+        ],
+        "id": "h1",
+        "plan": "cu",
+        "rec": true,
+        "text": "[firm] Le Messie n'est pas encore venu ! [emphatic] Il viendra quand Israël se repentira.",
+        "who": "tobias"
+      },
+      {
+        "dur": 5.14,
+        "durFor": "[amused] Ah bon ? [pointed] Pourtant, Daniel avait fixé une date limite : avant la destruction du Temple.",
+        "expr": "amuse",
+        "fx": [
+          {
+            "t": "stamp",
+            "text": "AVANT 70",
+            "word": "Temple"
+          }
+        ],
+        "id": "h2",
+        "plan": "cu",
+        "rec": true,
+        "text": "[amused] Ah bon ? [pointed] Pourtant, le prophète Daniel avait fixé une date limite : avant la destruction du Temple.",
+        "who": "sham"
+      },
+      {
+        "dur": 6.29,
+        "durFor": "[chuckles] Voici Tobias, ses sophismes… et son cinéma !",
+        "fx": [],
+        "id": "j1",
+        "plan": "card:jingle",
+        "rec": false,
+        "text": "[chuckles] Voici Tobias, ses sophismes… et son cinéma !",
+        "who": "vo"
+      }
+    ],
+    "text1": "LE MESSIE",
+    "text2": "EN RETARD ?"
+  },
+  "jingle": false,
+  "jingleNew": {
+    "file": "jingle_tobias_cartoon.mp4",
+    "line": "j1",
+    "style": "écran VS jeu de combat rétro, ROUND 2 « LE MESSIE EN RETARD ? » / FIGHT !, musique cartoon (6,3 s)",
+    "text": "Voici Tobias, ses sophismes… et son cinéma !",
+    "voice": "Little Dude II – Cartoon Character"
+  },
+  "lines": [
+    {
+      "dur": 3.64,
+      "durFor": "[amused] Une date limite pour le Messie ? [laughs] Ça commence fort !",
+      "expr": "amuse",
+      "fx": [],
+      "id": "l1",
+      "plan": "cu",
+      "rec": true,
+      "text": "[amused] Une date limite pour le Messie ? [laughs] Ça commence fort !",
+      "who": "sissagodson"
+    },
+    {
+      "dur": 5.14,
+      "durFor": "[dismissive] Aucune date ! [firm] Le Talmud le dit : maudits soient ceux qui calculent la fin !",
+      "expr": "enerve",
+      "fx": [
+        {
+          "expr": "enerve",
+          "plan": "cu",
+          "t": "cut",
+          "word": "maudits"
+        },
+        {
+          "t": "texte",
+          "text": "SANHÉDRIN 97B",
+          "word": "Talmud"
+        }
+      ],
+      "id": "l2",
+      "plan": "wide",
+      "pose": "livre",
+      "rec": true,
+      "text": "[dismissive] Aucune date ! [firm] Le Talmud le dit : maudits soient ceux qui calculent la fin !",
+      "who": "tobias"
+    },
+    {
+      "dur": 2.45,
+      "durFor": "[calm] Je calcule rien. Je lis Daniel 9.",
+      "expr": "sur",
+      "fx": [],
+      "id": "l3",
+      "plan": "cu",
+      "rec": true,
+      "text": "Toi en fait, c'est toujours talmud, talmud, talmud. Calm down... [confident] la Bible est plus importante. [calm] Je lis Daniel 9.",
+      "who": "sham"
+    },
+    {
+      "dur": 10.83,
+      "durFor": "[reading] « Soixante-dix semaines ont été fixées sur ton peuple et sur ta ville sainte… [short pause] Après les soixante-deux semaines, un Oint sera retranché… [serious] Le peuple d'un chef qui viendra détruira la ville et le sanctuaire. »",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "SOIXANTE-DIX SEMAINES ONT ÉTÉ FIXÉES",
+          "word": "fixées"
+        },
+        {
+          "t": "souligne",
+          "target": "UN OINT SERA RETRANCHÉ",
+          "word": "retranché"
+        },
+        {
+          "after": true,
+          "expr": "hesitant",
+          "plan": "cu:tobias",
+          "t": "cut",
+          "word": "retranché"
+        },
+        {
+          "plan": "card:dan9",
+          "t": "cut",
+          "word": "peuple"
+        },
+        {
+          "t": "souligne",
+          "target": "DÉTRUIRA LA VILLE ET LE SANCTUAIRE",
+          "word": "détruira"
+        }
+      ],
+      "id": "l4",
+      "plan": "card:dan9",
+      "rec": true,
+      "text": "[reading] « Soixante-dix semaines ont été fixées sur ton peuple et sur ta ville sainte… [short pause] Après les soixante-deux semaines, un Oint sera retranché… [serious] Le peuple d'un chef qui viendra détruira la ville et le sanctuaire. »",
+      "who": "sham"
+    },
+    {
+      "dur": 5.14,
+      "durFor": "[pointed] L'ordre est clair : d'abord l'Oint est retranché… [emphatic] ensuite la ville et le Temple sont détruits.",
+      "expr": "sur",
+      "fx": [],
+      "id": "l5",
+      "plan": "card:ordre",
+      "rec": true,
+      "text": "[pointed] L'ordre est clair : d'abord l'Oint est retranché… [emphatic] ensuite la ville et le Temple sont détruits.",
+      "who": "sham"
+    },
+    {
+      "dur": 6.04,
+      "durFor": "[reluctant] Le Temple… détruit en 70 par les Romains, oui. [sighs] Rachi le dit : le chef qui vient, c'est Titus.",
+      "expr": "hesitant",
+      "fx": [],
+      "id": "l7",
+      "plan": "cu",
+      "rec": true,
+      "text": "[reluctant] Le Temple… détruit en 70 par les Romains, oui. [sighs] Rachi le dit : le chef qui vient, c'est Titus.",
+      "who": "tobias"
+    },
+    {
+      "dur": 2.75,
+      "durFor": "[satisfied] Merci. Donc l'Oint devait être retranché avant 70.",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "stamp",
+          "text": "AVANT 70",
+          "word": "70"
+        }
+      ],
+      "id": "l8",
+      "plan": "cu",
+      "rec": true,
+      "text": "[satisfied] Merci. Donc l'Oint devait être retranché avant 70.",
+      "who": "sham"
+    },
+    {
+      "dur": 3.64,
+      "durFor": "[confident] Justement ! Rachi dit que cet Oint, c'est le roi Agrippa.",
+      "expr": "assure",
+      "fx": [],
+      "id": "l9",
+      "plan": "cu",
+      "rec": true,
+      "text": "[confident] Justement ! Rachi dit que cet Oint, c'est le roi Agrippa.",
+      "who": "tobias"
+    },
+    {
+      "dur": 6.64,
+      "durFor": "[amused] Agrippa ? Il était du côté de Rome… [pointed] et il est mort vers l'an 93. Retranché avant la destruction ? Raté.",
+      "expr": "amuse",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "ALLIÉ DE ROME PENDANT LA GUERRE",
+          "word": "Rome"
+        },
+        {
+          "t": "souligne",
+          "target": "MORT VERS 93",
+          "word": "93"
+        },
+        {
+          "expr": "amuse",
+          "plan": "cu",
+          "t": "cut",
+          "word": "Retranché"
+        }
+      ],
+      "id": "l10",
+      "plan": "card:agrippa",
+      "rec": true,
+      "text": "[amused] Agrippa ? Il était du côté de Rome… [pointed] et il est mort vers l'an 93. Retranché avant la destruction ? Raté.",
+      "who": "sham"
+    },
+    {
+      "dur": 4.54,
+      "durFor": "[laughs] Mort plus de vingt ans après la guerre… drôle de « retranché » !",
+      "expr": "rire",
+      "fx": [],
+      "id": "l11",
+      "plan": "cu",
+      "rec": true,
+      "text": "[laughs] Mort plus de vingt ans après la guerre… drôle de « retranché » !",
+      "who": "sissagodson"
+    },
+    {
+      "dur": 3.34,
+      "durFor": "[defensive] Peu importe ! Le Messie viendra quand Israël fera techouva.",
+      "expr": "enerve",
+      "fx": [],
+      "id": "l12",
+      "plan": "cu",
+      "rec": true,
+      "text": "[defensive] Peu importe ! Le Messie viendra quand Israël fera techouva.",
+      "who": "tobias"
+    },
+    {
+      "dur": 8.43,
+      "durFor": "[serious] Ton Talmud, Sanhédrin 97 b. Rav dit : [reading] « Toutes les échéances sont passées, et la chose ne dépend que du repentir et des bonnes œuvres. »",
+      "expr": "sceptique",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "TOUTES LES ÉCHÉANCES SONT PASSÉES",
+          "word": "passées"
+        }
+      ],
+      "id": "l13",
+      "plan": "card:sn97b",
+      "rec": true,
+      "subText": "Ton Talmud, Sanhédrin 97b. Rav dit :  « Toutes les échéances sont passées, et la chose ne dépend que du repentir et des bonnes œuvres. »",
+      "text": "[serious] Ton Talmud, Sanhédrin 97 b. Rav dit : [reading] « Toutes les échéances sont passées, et la chose ne dépend que du repentir et des bonnes œuvres. »",
+      "who": "sham"
+    },
+    {
+      "dur": 5.74,
+      "durFor": "[pointed] Passées ! Mais Daniel dit « fixées ». [emphatic] Où est-ce qu'il dit que ça dépend du repentir ?",
+      "expr": "curieux",
+      "fx": [
+        {
+          "t": "zoom",
+          "word": "repentir"
+        }
+      ],
+      "id": "l14",
+      "plan": "cu",
+      "rec": true,
+      "text": "[pointed] Passées donc Da ! Mais Daniel dit « fixées ». [emphatic] Où est-ce qu'il dit que ça dépend du repentir ?",
+      "who": "sham"
+    },
+    {
+      "dur": 0.65,
+      "durFor": "[hesitant] Euuuh…",
+      "expr": "hesitant",
+      "fx": [
+        {
+          "t": "sueur",
+          "word": "Euuuh"
+        }
+      ],
+      "id": "l15",
+      "pause": 0.5,
+      "plan": "cu",
+      "rec": true,
+      "text": "[hesitant] Euuuh…",
+      "who": "tobias"
+    },
+    {
+      "dur": 5.14,
+      "durFor": "[serious] Alors, la vraie question : qui est cet Oint retranché avant la destruction du Temple ?",
+      "expr": "sur",
+      "fx": [],
+      "id": "l16",
+      "plan": "wide",
+      "pose": "explique",
+      "rec": true,
+      "text": "[serious] Alors, la vraie question : qui est cet Oint retranché avant la destruction du Temple ?",
+      "who": "sham"
+    },
+    {
+      "dur": 7.24,
+      "durFor": "[calm] Un homme reconnu comme Messie, mis à mort sous Ponce Pilate… [pointed] même Tacite, un historien romain, le confirme. Une quarantaine d'années avant 70.",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "PAR LE PROCURATEUR PONCE PILATE",
+          "word": "Pilate"
+        }
+      ],
+      "id": "l17",
+      "plan": "card:tacite",
+      "rec": true,
+      "text": "[calm] Un homme reconnu comme Messie, mis à mort sous Ponce Pilate… [pointed] même Tacite, un historien romain, le confirme. Une quarantaine d'années avant 70.",
+      "who": "sham"
+    },
+    {
+      "dur": 2.15,
+      "durFor": "[uneasy] Tu vas me dire… Jésus ?",
+      "expr": "choque",
+      "fx": [
+        {
+          "t": "qmark",
+          "word": "Jésus"
+        }
+      ],
+      "id": "l18",
+      "plan": "cu",
+      "rec": true,
+      "text": "[uneasy] Tu vas me dire… Jésus ?",
+      "who": "tobias"
+    },
+    {
+      "dur": 4.54,
+      "durFor": "[firm] Si c'est pas lui, donne-moi un autre candidat qui colle à Daniel. [short pause] Je t'écoute.",
+      "expr": "sur",
+      "fx": [
+        {
+          "plan": "card:choix",
+          "t": "cut",
+          "word": "candidat"
+        }
+      ],
+      "id": "l19",
+      "plan": "cu",
+      "rec": true,
+      "text": "[firm] Si c'est pas lui, donne-moi un autre candidat qui colle à Daniel. [short pause] Je t'écoute.",
+      "who": "sham"
+    },
+    {
+      "dur": 2.45,
+      "durFor": "[sulking] Bon… je vais demander à mon rabbin.",
+      "expr": "boude",
+      "fx": [],
+      "id": "l20",
+      "pause": 0.4,
+      "plan": "cu",
+      "rec": true,
+      "text": "[sulking] Bon… je vais demander à mon rabbin.",
+      "who": "tobias"
+    },
+    {
+      "dur": 3.64,
+      "durFor": "[laughing] Encore ?! Il a son rabbin en appel rapide, lui !",
+      "expr": "rire",
+      "fx": [],
+      "id": "l21",
+      "plan": "wide",
+      "rec": true,
+      "text": "[laughing] Encore ?! Il a son rabbin en appel rapide, lui !",
+      "who": "sissagodson"
+    },
+    {
+      "dur": 3.94,
+      "durFor": "[smiling] Le Messie n'est pas en retard, Tobias… [emphatic] il est venu à l'heure.",
+      "expr": "amuse",
+      "fx": [],
+      "id": "l22",
+      "pause": 0.6,
+      "plan": "cu",
+      "rec": true,
+      "text": "[smiling] Le Messie n'est pas en retard, Tobias… [emphatic] il est venu à l'heure.",
+      "who": "sham"
+    }
+  ],
+  "moment": "crepuscule",
+  "order": 7,
+  "outro": {
+    "file": "outro_abonne_littledude.mp3",
+    "style": "écran ABONNE-TOI animé, seul à la fin (pas d’écran des sources)",
+    "text": "[chuckles] Et surtout, si vous avez aimé, abonnez-vous pour ne pas manquer les prochaines publications !",
+    "voice": "Little Dude II – Cartoon Character"
+  },
+  "title": "Le Messie en retard ?",
+  "univers": "rue",
+  "updated": "2026-10-29T19:20:08.781Z",
+  "voices": {
+    "sissagodson": "Sisagodson (clone)",
+    "tobias": "Steeve – Reflective Old and Emotional",
+    "vo": "Little Dude II – Cartoon Character"
+  }
+}

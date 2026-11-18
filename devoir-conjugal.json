@@ -1,0 +1,442 @@
+{
+  "cards": [
+    {
+      "arabic": "إِذَا دَعَا الرَّجُلُ امْرَأَتَهُ إِلَى فِرَاشِهِ فَأَبَتْ فَبَاتَ غَضْبَانَ عَلَيْهَا لَعَنَتْهَا الْمَلاَئِكَةُ حَتَّى تُصْبِحَ",
+      "id": "bukhari",
+      "lines": "« SI UN HOMME APPELLE SON ÉPOUSE À SA COUCHE,\nQU'ELLE REFUSE ET QU'IL PASSE LA NUIT EN COLÈRE,\nLES ANGES LA MAUDISSENT JUSQU'AU MATIN »",
+      "refDetail": "livre 59",
+      "refName": "Ṣaḥīḥ al-Bukhārī",
+      "refNum": "n° 3237",
+      "sub": "KITAB BAD' AL-KHALQ",
+      "title": "SAHIH AL-BUKHARI",
+      "tpl": "parchemin",
+      "url": "sunnah.com/bukhari:3237"
+    },
+    {
+      "arabic": "وجوب طاعة الزوج على الزوجة إذا دعاها إلى الفراش",
+      "id": "kasani",
+      "lines": "« L'ÉPOUSE DOIT OBÉIR À SON MARI\nLORSQU'IL L'APPELLE À LA COUCHE »",
+      "refDetail": "al-Kāsānī",
+      "refName": "Badāʾiʿ al-ṣanāʾiʿ",
+      "refNum": "II, p. 334",
+      "sub": "JURISTE HANAFITE",
+      "title": "AL-KASANI",
+      "tpl": "parchemin",
+      "url": "ablibrary.net · Badāʾiʿ 2/334"
+    },
+    {
+      "arabic": "فلو دعت المرأة زوجها إلى ذلك لم يجب عليه إجابتها … فهو المالك للبضع",
+      "id": "qurtubi",
+      "lines": "« SI L'ÉPOUSE INVITE SON MARI À CELA,\nIL N'EST PAS OBLIGÉ DE LUI RÉPONDRE »\n« C'EST LUI QUI DÉTIENT LE DROIT SUR L'ACCÈS SEXUEL »",
+      "refDetail": "Abū al-ʿAbbās al-Qurṭubī",
+      "refName": "al-Mufhim",
+      "refNum": "IV, p. 160-161",
+      "sub": "COMMENTAIRE DE SAHIH MUSLIM",
+      "title": "AL-QURTUBI",
+      "tpl": "parchemin",
+      "url": "islamweb.net · al-Mufhim 4/160"
+    },
+    {
+      "arabic": "نعم له وطؤها جبرا إذا امتنعت بلا مانع شرعي",
+      "id": "ibnabidin",
+      "lines": "« OUI, IL PEUT AVOIR UN RAPPORT AVEC ELLE DE FORCE\nSI ELLE REFUSE SANS EMPÊCHEMENT RELIGIEUX »",
+      "refDetail": "Ibn ʿĀbidīn",
+      "refName": "Radd al-muḥtār",
+      "refNum": "III, p. 4",
+      "sub": "RÉFÉRENCE DU MADHHAB HANAFITE",
+      "title": "IBN ABIDIN",
+      "tpl": "parchemin",
+      "url": "shamela.ws/book/21613/1286"
+    },
+    {
+      "arabic": "ومجرد الإرهاق، أو العمل ليس بعذر شرعي، ما لم يترتب عليها منه ضرر",
+      "id": "islamweb",
+      "lines": "« LA SIMPLE FATIGUE OU LE TRAVAIL\nNE SONT PAS UNE EXCUSE RELIGIEUSE,\nSAUF SI CELA LUI CAUSE UN PRÉJUDICE »",
+      "refDetail": "centre de fatwa",
+      "refName": "Islamweb",
+      "refNum": "fatwa n° 208924",
+      "sub": "« MA FEMME REFUSE À CAUSE DE LA FATIGUE OU DU TRAVAIL »",
+      "title": "ISLAMWEB · FATWA 208924",
+      "tpl": "ecran",
+      "url": "islamweb.net/ar/fatwa/208924"
+    },
+    {
+      "arabic": "فمتى امتنعت عن إجابته إلى الفراش كانت عاصية ناشزة وكان ذلك يبيح له ضربها",
+      "id": "taymiyya",
+      "lines": "« DÈS QU'ELLE REFUSE DE RÉPONDRE À SON APPEL À LA COUCHE,\nELLE EST DÉSOBÉISSANTE, EN ÉTAT DE NUSHŪZ,\nET CELA LUI PERMET DE LA FRAPPER »",
+      "refDetail": "Ibn Taymiyya",
+      "refName": "Majmūʿ al-fatāwā",
+      "refNum": "XXXII, p. 275",
+      "sub": "RÉPONSE SUR UNE ÉPOUSE QUI PRÉFÈRE LE JEÛNE ET LA PRIÈRE SURÉROGATOIRES",
+      "title": "IBN TAYMIYYA",
+      "tpl": "parchemin",
+      "url": "islamweb.net · Majmūʿ 32/274-275"
+    }
+  ],
+  "cast": [
+    {
+      "key": "mari",
+      "name": "Le mari"
+    },
+    {
+      "key": "epouse",
+      "name": "L'épouse"
+    },
+    {
+      "key": "sham",
+      "name": "Sham"
+    },
+    {
+      "key": "ichtus",
+      "name": "JMS"
+    }
+  ],
+  "end1": "BUKHARI · AL-KĀSĀNĪ · AL-QURṬUBĪ",
+  "end2": "IBN ʿĀBIDĪN · ISLAMWEB · IBN TAYMIYYA",
+  "endNote": "Avis contraire : Darul Ifta Birmingham, fatwa 05278 (fatigue reconnue comme excuse, contrainte refusée)",
+  "endRefs": "Ṣaḥīḥ al-Bukhārī 3237 · Badāʾiʿ al-ṣanāʾiʿ 2/334 · al-Mufhim 4/160-161 · Radd al-muḥtār 3/4 · Islamweb fatwa 208924 · Majmūʿ al-fatāwā 32/274-275",
+  "endTitle": "LE DEVOIR CONJUGAL",
+  "hook": {
+    "badge": "SHAM ET JMS · ON OUVRE LES SOURCES",
+    "lines": [
+      {
+        "dur": 3.29,
+        "durFor": "[tendre, à voix basse] Tu viens te coucher, hbiba ? J'ai envie de toi.",
+        "expr": "neutre",
+        "fx": [],
+        "id": "h1",
+        "plan": "wide",
+        "rec": true,
+        "text": "[tendre, à voix basse] Tu viens te coucher, hbiba ? J'ai envie de toi.",
+        "who": "mari"
+      },
+      {
+        "dur": 10.08,
+        "durFor": "[fatiguée, douce] Je viens, mais pas pour ça ce soir. J'ai travaillé toute la journée, puis je me suis occupée de la maison. [soupir] Je suis épuisée et demain, je me lève à six heures.",
+        "expr": "neutre",
+        "fx": [],
+        "id": "h2",
+        "plan": "wide",
+        "rec": true,
+        "text": "[fatiguée, douce] Je viens, mais pas pour ça ce soir. J'ai travaillé toute la journée, puis je me suis occupée de la maison. [soupir] Je suis épuisée et demain, je me lève à six heures.",
+        "who": "epouse"
+      },
+      {
+        "dur": 1.43,
+        "durFor": "[contrarié] Donc tu refuses ?",
+        "expr": "neutre",
+        "fx": [],
+        "id": "h3",
+        "plan": "cu",
+        "rec": true,
+        "text": "[contrarié] Donc tu refuses ?",
+        "who": "mari"
+      },
+      {
+        "dur": 2.67,
+        "durFor": "[calme, ferme] Ce soir, oui. J'ai juste besoin de dormir.",
+        "expr": "neutre",
+        "fx": [],
+        "id": "h4",
+        "plan": "cu",
+        "rec": true,
+        "text": "[calme, ferme] Ce soir, oui. J'ai juste besoin de dormir.",
+        "who": "epouse"
+      },
+      {
+        "dur": 9.46,
+        "durFor": "[choqué] Eh, mais attends là ! [indigné] Selon un hadith rapporté de Muhammad, si elle refuse et que son mari passe la nuit en colère, [appuyé] les anges la maudissent jusqu'au matin !",
+        "expr": "choque",
+        "fx": [
+          {
+            "t": "stamp",
+            "text": "MAUDITE ?!",
+            "word": "maudissent"
+          }
+        ],
+        "id": "h5",
+        "plan": "cu",
+        "rec": true,
+        "text": "[choqué] Eh, mais attends là ! [indigné] Selon un hadith rapporté de Muhammad, si elle refuse et que son mari passe la nuit en colère, [appuyé] les anges la maudissent jusqu'au matin !",
+        "who": "sham"
+      }
+    ],
+    "text1": "ELLE EST ÉPUISÉE…",
+    "text2": "LES ANGES LA MAUDISSENT ?"
+  },
+  "jingle": true,
+  "lines": [
+    {
+      "dur": 2.98,
+      "durFor": "[curieux] Ouvre le livre. Qu'est-ce qui est écrit exactement ?",
+      "expr": "insistant",
+      "fx": [],
+      "id": "l1",
+      "plan": "auto",
+      "rec": true,
+      "text": "[curieux] Ouvre le livre. Qu'est-ce qui est écrit exactement ?",
+      "who": "ichtus"
+    },
+    {
+      "dur": 10.39,
+      "durFor": "[posé] Ṣaḥīḥ al-Bukhārī, hadith 3237 : [lisant] « Si un homme appelle son épouse à sa couche, qu'elle refuse et qu'il passe la nuit en colère contre elle, les anges la maudissent jusqu'au matin. »",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "LES ANGES LA MAUDISSENT",
+          "word": "maudissent"
+        }
+      ],
+      "id": "l2",
+      "plan": "card:bukhari",
+      "rec": true,
+      "text": "[posé] Ṣaḥīḥ al-Bukhārī, hadith 3237 : [lisant] « Si un homme appelle son épouse à sa couche, qu'elle refuse et qu'il passe la nuit en colère contre elle, les anges la maudissent jusqu'au matin. »",
+      "who": "sham"
+    },
+    {
+      "dur": 9.15,
+      "durFor": "[choqué] Attends, donc une femme est obligée d'avoir un motif pour ne pas avoir de rapport ? Juste le fait qu'elle ne veuille pas, c'est pas assez ?! [stupéfait] WHAT ?!",
+      "expr": "incredule",
+      "fx": [
+        {
+          "t": "qmark",
+          "word": "WHAT"
+        }
+      ],
+      "id": "l3",
+      "plan": "cu:ichtus",
+      "rec": true,
+      "text": "[choqué] Attends, donc une femme est obligée d'avoir un motif pour ne pas avoir de rapport ? Juste le fait qu'elle ne veuille pas, c'est pas assez ?! [stupéfait] WHAT ?!",
+      "who": "ichtus"
+    },
+    {
+      "dur": 7.3,
+      "durFor": "[blasé] Oui… Sincèrement, je ne sais même pas s'il faut en rire ou en pleurer. [sérieux] Mais c'est pas tout… Continuons à explorer ce sujet.",
+      "expr": "blase",
+      "fx": [],
+      "id": "lyp7vq6p",
+      "plan": "cu:sham",
+      "rec": true,
+      "text": "[blasé] Oui… Sincèrement, je ne sais même pas s'il faut en rire ou en pleurer. [sérieux] Mais c'est pas tout… Continuons à explorer ce sujet.",
+      "who": "sham"
+    },
+    {
+      "dur": 9.15,
+      "durFor": "[posé] Regarde ce que dit al-Kāsānī : [lisant] « L'épouse doit obéir à son mari lorsqu'il l'appelle à la couche. » [appuyé] Elle doit lui obéir lorsqu'elle est appelée au lit !",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "DOIT OBÉIR",
+          "word": "obéir"
+        }
+      ],
+      "id": "l4",
+      "plan": "card:kasani",
+      "rec": true,
+      "text": "[posé] Regarde ce que dit al-Kāsānī : [lisant] « L'épouse doit obéir à son mari lorsqu'il l'appelle à la couche. » [appuyé] Elle doit lui obéir lorsqu'elle est appelée au lit !",
+      "who": "sham"
+    },
+    {
+      "dur": 4.21,
+      "durFor": "[intrigué] Et si c'est elle qui demande un rapport et que lui refuse ?",
+      "expr": "pensif",
+      "fx": [],
+      "id": "l5",
+      "plan": "auto",
+      "rec": true,
+      "text": "[intrigué] Et si c'est elle qui demande un rapport et que lui refuse ?",
+      "who": "ichtus"
+    },
+    {
+      "dur": 21.8,
+      "durFor": "[laughs] Ha ha, bonne question, j'avoue ! [malicieux] Bah devine ce que dit Abū al-ʿAbbās al-Qurṭubī : [lisant] « Si l'épouse invite son mari à cela, il n'est pas obligé de lui répondre, sauf s'il cherche par son refus à lui nuire. » [appuyé] Il ajoute : [lisant] « C'est lui qui détient le droit sur l'accès sexuel. » [posé] Donc ici la femme est obligée, mais l'homme non, car c'est lui qui paye la dot.",
+      "expr": "rire",
+      "fx": [
+        {
+          "expr": "sur",
+          "plan": "card:qurtubi",
+          "t": "cut",
+          "word": "Abū"
+        },
+        {
+          "t": "souligne",
+          "target": "PAS OBLIGÉ",
+          "word": "obligé"
+        },
+        {
+          "t": "souligne",
+          "target": "C'EST LUI QUI DÉTIENT LE DROIT",
+          "word": "détient"
+        },
+        {
+          "t": "balance",
+          "word": "Donc"
+        }
+      ],
+      "id": "l6",
+      "plan": "cu:sham",
+      "rec": true,
+      "text": "[laughs] Ha ha, bonne question, j'avoue ! [malicieux] Bah devine ce que dit Abū al-ʿAbbās al-Qurṭubī : [lisant] « Si l'épouse invite son mari à cela, il n'est pas obligé de lui répondre, sauf s'il cherche par son refus à lui nuire. » [appuyé] Il ajoute : [lisant] « C'est lui qui détient le droit sur l'accès sexuel. » [posé] Donc ici la femme est obligée, mais l'homme non, car c'est lui qui paye la dot.",
+      "who": "sham"
+    },
+    {
+      "dur": 4.21,
+      "durFor": "[insistant] Mais elle, dans notre scène, a travaillé toute la journée. Elle est épuisée.",
+      "expr": "insistant",
+      "fx": [],
+      "id": "l7",
+      "plan": "auto",
+      "rec": true,
+      "text": "[insistant] Mais elle, dans notre scène, a travaillé toute la journée. Elle est épuisée.",
+      "who": "ichtus"
+    },
+    {
+      "dur": 11,
+      "durFor": "[agacé] Bah en fait, JMS. [posé] Islamweb a reçu presque cette question mot pour mot : [lisant] « La simple fatigue ou le travail ne constituent pas une excuse religieuse, sauf si cela lui cause un préjudice. »",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "PAS UNE EXCUSE",
+          "word": "fatigue"
+        }
+      ],
+      "id": "l9",
+      "plan": "card:islamweb",
+      "rec": true,
+      "text": "[agacé] Bah en fait, JMS. [posé] Islamweb a reçu presque cette question mot pour mot : [lisant] « La simple fatigue ou le travail ne constituent pas une excuse religieuse, sauf si cela lui cause un préjudice. »",
+      "who": "sham"
+    },
+    {
+      "dur": 5.14,
+      "durFor": "[inquiet] Mais si son refus est jugé sans excuse, cela s'arrête à la malédiction des anges ?",
+      "expr": "incredule",
+      "fx": [],
+      "id": "l10",
+      "plan": "auto",
+      "rec": true,
+      "text": "[inquiet] Mais si son refus est jugé sans excuse, cela s'arrête à la malédiction des anges ?",
+      "who": "ichtus"
+    },
+    {
+      "dur": 4.21,
+      "durFor": "[soupir] Si seulement ça s'arrêtait là, JMS… [triste] Vraiment, c'est tellement triste pour ces femmes…",
+      "expr": "pensif",
+      "fx": [],
+      "id": "l8",
+      "plan": "cu:sham",
+      "rec": true,
+      "text": "[soupir] Si seulement ça s'arrêtait là, JMS… [triste] Vraiment, c'est tellement triste pour ces femmes…",
+      "who": "sham"
+    },
+    {
+      "dur": 8.53,
+      "durFor": "[grave] Écoute ce que dit le savant Ibn ʿĀbidīn : [lisant, lent] « Oui, il peut avoir un rapport avec elle de force si elle refuse sans empêchement religieux. »",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "DE FORCE",
+          "word": "force"
+        },
+        {
+          "t": "zoom",
+          "word": "force"
+        }
+      ],
+      "id": "l52k4ypj",
+      "plan": "card:ibnabidin",
+      "rec": true,
+      "text": "[grave] Écoute ce que dit le savant Ibn ʿĀbidīn : [lisant, lent] « Oui, il peut avoir un rapport avec elle de force si elle refuse sans empêchement religieux. »",
+      "who": "sham"
+    },
+    {
+      "dur": 4.21,
+      "durFor": "[choqué, criant] HEIN ?! L'homme peut la forcer à avoir un rapport ?! [incrédule] QUOI ?!",
+      "expr": "incredule",
+      "fx": [
+        {
+          "t": "shake",
+          "word": "HEIN"
+        },
+        {
+          "t": "qmark",
+          "word": "QUOI"
+        }
+      ],
+      "id": "ldrwe0df",
+      "plan": "cu:ichtus",
+      "rec": true,
+      "text": "[choqué, criant] HEIN ?! L'homme peut la forcer à avoir un rapport ?! [incrédule] QUOI ?!",
+      "who": "ichtus"
+    },
+    {
+      "dur": 15.01,
+      "durFor": "[sérieux] Oui… Tu as bien lu, JMS. Regarde ce que dit Ibn Taymiyya, qui est considéré comme le Cheikh al-Islam : [lisant, grave] « Dès lors qu'elle refuse de répondre à son appel à la couche, elle est désobéissante, en état de nushūz, et cela lui permet de la frapper. »",
+      "expr": "sur",
+      "fx": [
+        {
+          "plan": "card:taymiyya",
+          "t": "cut",
+          "word": "Ibn"
+        },
+        {
+          "t": "souligne",
+          "target": "LUI PERMET DE LA FRAPPER",
+          "word": "frapper"
+        },
+        {
+          "t": "shake",
+          "word": "frapper"
+        }
+      ],
+      "id": "l11",
+      "plan": "cu:sham",
+      "rec": true,
+      "text": "[sérieux] Oui… Tu as bien lu, JMS. Regarde ce que dit Ibn Taymiyya, qui est considéré comme le Cheikh al-Islam : [lisant, grave] « Dès lors qu'elle refuse de répondre à son appel à la couche, elle est désobéissante, en état de nushūz, et cela lui permet de la frapper. »",
+      "who": "sham"
+    },
+    {
+      "dur": 5.45,
+      "durFor": "[incrédule] Non, ce n'est pas possible ! C'est bien Ibn Taymiyya lui-même qui a écrit cette phrase ?",
+      "expr": "incredule",
+      "fx": [],
+      "id": "l12",
+      "plan": "cu:ichtus",
+      "rec": true,
+      "text": "[incrédule] Non, ce n'est pas possible ! C'est bien Ibn Taymiyya lui-même qui a écrit cette phrase ?",
+      "who": "ichtus"
+    },
+    {
+      "dur": 2.98,
+      "durFor": "[ferme] Oui, c'est bien lui. Tu peux vérifier la source.",
+      "expr": "sur",
+      "fx": [
+        {
+          "color": "corail",
+          "t": "texte",
+          "text": "VÉRIFIEZ LA SOURCE",
+          "word": "vérifier"
+        }
+      ],
+      "id": "l13",
+      "plan": "wide",
+      "rec": true,
+      "text": "[ferme] Oui, c'est bien lui. Tu peux vérifier la source.",
+      "who": "sham"
+    }
+  ],
+  "moment": "nuit",
+  "order": 13,
+  "title": "Le devoir conjugal",
+  "univers": "rue",
+  "updated": "2026-11-16T17:10:00Z",
+  "voices": {
+    "epouse": "(voix bibliothèque, femme — à choisir)",
+    "ichtus": "JMS",
+    "mari": "(voix bibliothèque, homme — à choisir)",
+    "sham": "Quentin – Clone"
+  }
+}

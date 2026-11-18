@@ -1,0 +1,482 @@
+{
+  "cards": [
+    {
+      "arabic": "وَكَانَ امْرَأً تَنَصَّرَ فِي الْجَاهِلِيَّةِ",
+      "grade": "Authentique (sahih)",
+      "id": "bukhari3",
+      "lines": "« IL AVAIT EMBRASSÉ LE CHRISTIANISME\nAUX TEMPS ANTÉISLAMIQUES »\n« IL AVAIT COPIÉ EN HÉBREU\nUNE PARTIE DE L'ÉVANGILE »",
+      "refBook": "Le début de la Révélation",
+      "refDetail": "récit d'Aïcha",
+      "refName": "Sahih al-Boukhari",
+      "refNum": "n° 3",
+      "sub": "COUSIN DE KHADIJA · ARABE DE QURAYCH",
+      "title": "WARAQA IBN NAWFAL",
+      "tpl": "parchemin",
+      "url": "sunnah.com/bukhari:3"
+    },
+    {
+      "arabic": "وكان لقي من بقي من الرهبان على دين عيسى ولم يبدل",
+      "id": "ibnhajar",
+      "lines": "« IL AVAIT RENCONTRÉ CEUX DES MOINES\nRESTÉS FIDÈLES À LA RELIGION DE JÉSUS,\nSANS L'AVOIR ALTÉRÉE »",
+      "refBook": "Le début de la Révélation",
+      "refDetail": "commentaire du hadith n° 3",
+      "refName": "Ibn Hajar al-ʿAsqalânî",
+      "refNum": "Fath al-Bârî, t. I",
+      "sub": "COMMENTAIRE DE BOUKHARI · SUR WARAQA",
+      "title": "IBN HAJAR · FATH AL-BÂRÎ",
+      "tpl": "parchemin",
+      "url": "islamweb.org · Fath al-Bârî, Bad’ al-wahy"
+    },
+    {
+      "arabic": "هَذَا النَّامُوسُ الَّذِي نَزَّلَ اللَّهُ عَلَى مُوسَى",
+      "grade": "Authentique (sahih)",
+      "id": "namous",
+      "lines": "« CET ANGE, C'EST LE CONFIDENT\nQUE DIEU A ENVOYÉ AUTREFOIS À MOÏSE »",
+      "refBook": "Le début de la Révélation",
+      "refDetail": "récit d'Aïcha",
+      "refName": "Sahih al-Boukhari",
+      "refNum": "n° 3",
+      "sub": "APRÈS LA PREMIÈRE RÉVÉLATION",
+      "title": "WARAQA RASSURE LE PROPHÈTE",
+      "tpl": "parchemin",
+      "url": "sunnah.com/bukhari:3"
+    },
+    {
+      "arabic": "إن الله نظر إلى أهل الأرض فمقتهم عربهم وعجمهم إلا بقايا من أهل الكتاب",
+      "grade": "Authentique (sahih)",
+      "id": "muslim2865",
+      "lines": "« DIEU REGARDA LES HABITANTS DE LA TERRE\nET LES RÉPROUVA, ARABES ET NON-ARABES,\nSAUF DES SURVIVANTS DES GENS DU LIVRE »",
+      "refName": "Sahih Muslim",
+      "refNum": "n° 2865",
+      "sub": "HADITH DE ʿIYÂD IBN HIMÂR",
+      "title": "SAHIH MUSLIM 2865",
+      "tpl": "parchemin",
+      "url": "sunnah.com/muslim:2865"
+    },
+    {
+      "arabic": "والمراد ببقايا أهل الكتاب الباقون على التمسك بدينهم الحق من غير تبديل",
+      "id": "nawawi",
+      "lines": "« CE SONT CEUX RESTÉS ATTACHÉS\nÀ LEUR VRAIE RELIGION,\nSANS L'AVOIR ALTÉRÉE »",
+      "refDetail": "commentaire du n° 2865",
+      "refName": "al-Nawawî",
+      "refNum": "Sharh Sahîh Muslim",
+      "sub": "QUI SONT CES « SURVIVANTS » ?",
+      "title": "AL-NAWAWÎ · SHARH SAHÎH MUSLIM",
+      "tpl": "parchemin",
+      "url": "cité dans Islamweb, fatwa 355720"
+    },
+    {
+      "arabic": "وقد كان يجب على الناس جميعًا أن يتابعوا هذه الطائفة",
+      "id": "islamweb",
+      "lines": "« IL INCOMBAIT À TOUS LES HOMMES\nDE SUIVRE CE GROUPE »\n(CEUX RESTÉS FIDÈLES\nÀ LA RELIGION DE JÉSUS)",
+      "refDetail": "6 juillet 2017",
+      "refName": "Islamweb",
+      "refNum": "fatwa n° 355720",
+      "sub": "QUELLE RELIGION SUIVRE AVANT MOHAMMED ? · 6 JUILLET 2017",
+      "title": "ISLAMWEB · FATWA N° 355720",
+      "tpl": "parchemin",
+      "url": "islamweb.net/ar/fatwa/355720"
+    },
+    {
+      "id": "recap",
+      "lines": "IBN HAJAR · FATH AL-BÂRÎ\nAL-NAWAWÎ · SHARH SAHÎH MUSLIM\nISLAMWEB · FATWA N° 355720",
+      "stamp": "TOUS LES HOMMES",
+      "sub": "LA RELIGION DE JÉSUS\nCONCERNAIT TOUS LES HOMMES",
+      "title": "TROIS SOURCES MUSULMANES",
+      "tpl": "fiche"
+    }
+  ],
+  "cast": [
+    {
+      "key": "tariq",
+      "name": "Tariq"
+    },
+    {
+      "key": "sham",
+      "name": "Sham"
+    },
+    {
+      "key": "ichtus",
+      "name": "Ichtus"
+    }
+  ],
+  "end1": "IBN HAJAR · AL-NAWAWÎ · ISLAMWEB",
+  "end2": "« TOUS LES HOMMES »",
+  "endNote": "",
+  "endRefs": "Sahih al-Boukhari n° 3 · Ibn Hajar, Fath al-Bârî (t. I, Le début de la Révélation) · Sahih Muslim n° 2865 · al-Nawawî, Sharh Sahîh Muslim · Islamweb, fatwa n° 355720 (6 juillet 2017)",
+  "endTitle": "LE CHRÉTIEN DE LA MECQUE",
+  "hook": {
+    "badge": "TARIQ ET SES ARGUMENTS 2.0",
+    "lines": [
+      {
+        "dur": 3.89,
+        "durFor": "[confident] Jésus n'a été envoyé qu'aux Juifs ! Les autres ne sont pas concernés.",
+        "expr": "fier",
+        "fx": [],
+        "id": "h1",
+        "plan": "cu",
+        "rec": true,
+        "text": "[confident] Jésus n'a été envoyé qu'aux Juifs ! Les autres ne sont pas concernés.",
+        "who": "tariq"
+      },
+      {
+        "dur": 3.29,
+        "durFor": "[teasing] Alors pourquoi ton Prophète a demandé conseil… à un chrétien ?",
+        "expr": "sceptique",
+        "fx": [
+          {
+            "t": "zoom",
+            "word": "chrétien"
+          }
+        ],
+        "id": "h2",
+        "plan": "cu",
+        "rec": true,
+        "text": "[teasing] Alors pourquoi ton Prophète a demandé conseil… à un chrétien ?",
+        "who": "sham"
+      },
+      {
+        "dur": 0.6,
+        "durFor": "[shocked] …Quoi ?",
+        "expr": "choque",
+        "fx": [
+          {
+            "t": "qmark",
+            "word": "Quoi"
+          }
+        ],
+        "id": "h3",
+        "plan": "cu",
+        "rec": true,
+        "text": "[shocked] …Quoi ?",
+        "who": "tariq"
+      }
+    ],
+    "text1": "JÉSUS ENVOYÉ QU'AUX JUIFS ?",
+    "text2": "ALORS POURQUOI CE CHRÉTIEN ?"
+  },
+  "jingle": true,
+  "lines": [
+    {
+      "dur": 6.89,
+      "durFor": "[calm] Tu dis que son message ne concerne que les Juifs ? [curious] Donc un non-Juif qui se fait chrétien… se trompe de chemin ?",
+      "expr": "pensif",
+      "fx": [],
+      "id": "l2",
+      "plan": "cu",
+      "rec": true,
+      "text": "[calm] Tu dis que son message ne concerne que les Juifs ? [curious] Donc un non-Juif qui se fait chrétien… se trompe de chemin ?",
+      "who": "ichtus"
+    },
+    {
+      "dur": 0.3,
+      "durFor": "[confident] Évidemment.",
+      "expr": "assure",
+      "fx": [],
+      "id": "l3",
+      "plan": "cu",
+      "rec": true,
+      "text": "[confident] Évidemment.",
+      "who": "tariq"
+    },
+    {
+      "dur": 4.79,
+      "durFor": "[calm] Tariq, prenons Waraqa ibn Nawfal, le cousin de la première épouse de Mohammed. [curious] Était-il juif ?",
+      "expr": "bienveillant",
+      "fx": [
+        {
+          "t": "nuit",
+          "word": "Waraqa"
+        }
+      ],
+      "id": "l4",
+      "plan": "cu",
+      "rec": true,
+      "text": "[calm] Tariq, prenons Waraqa ibn Nawfal, le cousin de la première épouse de Mohammed. [curious] Était-il juif ?",
+      "who": "ichtus"
+    },
+    {
+      "dur": 3.59,
+      "durFor": "Non. C'était un Arabe, de la tribu de Quraych, à La Mecque.",
+      "expr": "neutre",
+      "fx": [],
+      "id": "l5",
+      "plan": "cu",
+      "rec": true,
+      "text": "Non. C'était un Arabe, de la tribu de Quraych, à La Mecque.",
+      "who": "tariq"
+    },
+    {
+      "dur": 3.59,
+      "durFor": "[curious] Et quelle religion avait-il choisie avant l'islam, selon le Sahih al-Boukhari ?",
+      "expr": "insistant",
+      "fx": [
+        {
+          "plan": "card:bukhari3",
+          "t": "cut",
+          "word": "Boukhari"
+        }
+      ],
+      "id": "l6",
+      "plan": "cu",
+      "rec": true,
+      "text": "[curious] Et quelle religion avait-il choisie avant l'islam, selon le Sahih al-Boukhari ?",
+      "who": "ichtus"
+    },
+    {
+      "dur": 2.69,
+      "durFor": "[hesitant] Il s'était converti au christianisme, et il lisait l'Évangile.",
+      "expr": "hesitant",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "CHRISTIANISME",
+          "word": "christianisme"
+        }
+      ],
+      "id": "l7",
+      "pause": 1.2,
+      "plan": "card:bukhari3",
+      "rec": true,
+      "src": "bukhari3",
+      "text": "[hesitant] Il s'était converti au christianisme, et il lisait l'Évangile.",
+      "who": "tariq"
+    },
+    {
+      "dur": 7.19,
+      "durFor": "[pointed] Et Ibn Hajar précise, dans Fath al-Bârî, qu'il avait rencontré des moines « restés fidèles à la religion de Jésus, sans l'avoir altérée ».",
+      "expr": "insistant",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "FIDÈLES À LA RELIGION DE JÉSUS",
+          "word": "fidèles"
+        }
+      ],
+      "id": "l7b",
+      "pause": 1.2,
+      "plan": "card:ibnhajar",
+      "rec": true,
+      "text": "[pointed] Et Ibn Hajar précise, dans Fath al-Bârî, qu'il avait rencontré des moines « restés fidèles à la religion de Jésus, sans l'avoir altérée ».",
+      "who": "ichtus"
+    },
+    {
+      "dur": 5.69,
+      "durFor": "[proud] C'était un homme pieux et clairvoyant. C'est même lui qui a rassuré le Prophète lors de sa première révélation.",
+      "expr": "fier",
+      "fx": [
+        {
+          "plan": "card:namous",
+          "t": "cut",
+          "word": "rassuré"
+        }
+      ],
+      "id": "l9",
+      "plan": "cu",
+      "rec": true,
+      "text": "[proud] C'était un homme pieux et clairvoyant. C'est même lui qui a rassuré le Prophète lors de sa première révélation.",
+      "who": "tariq"
+    },
+    {
+      "dur": 13.17,
+      "durFor": "[serious] Si le message de Jésus était strictement réservé aux Juifs, Waraqa aurait commis une grave erreur en s'y convertissant. [incredulous] Ça veut dire que Mohammed va voir un homme égaré, qui a mal choisi sa religion, pour recevoir des conseils sur sa prétendue révélation ?",
+      "expr": "incredule",
+      "fx": [
+        {
+          "expr": "hesitant",
+          "plan": "cu:tariq",
+          "t": "cut",
+          "word": "Ça"
+        },
+        {
+          "t": "zoom",
+          "word": "égaré"
+        },
+        {
+          "expr": "incredule",
+          "plan": "cu:ichtus",
+          "t": "cut",
+          "word": "recevoir"
+        }
+      ],
+      "id": "l10",
+      "plan": "cu",
+      "rec": true,
+      "text": "[serious] Si le message de Jésus était strictement réservé aux Juifs, Waraqa aurait commis une grave erreur en s'y convertissant. [incredulous] Ça veut dire que Mohammed va voir un homme égaré, qui a mal choisi sa religion, pour recevoir des conseils sur sa prétendue révélation ?",
+      "who": "ichtus"
+    },
+    {
+      "dur": 7.19,
+      "durFor": "[hesitant] Je… [short pause] c'est vrai que s'il s'était trompé de voie à ce point, son discernement n'aurait eu aucune valeur. Et Khadija ne l'aurait pas consulté.",
+      "expr": "hesitant",
+      "fx": [
+        {
+          "t": "zoom",
+          "word": "valeur"
+        },
+        {
+          "t": "sueur",
+          "word": "Khadija"
+        }
+      ],
+      "id": "l11",
+      "plan": "cu",
+      "rec": true,
+      "text": "[hesitant] Je… [short pause] c'est vrai que s'il s'était trompé de voie à ce point, son discernement n'aurait eu aucune valeur. Et Khadija ne l'aurait pas consulté.",
+      "who": "tariq"
+    },
+    {
+      "dur": 9.88,
+      "durFor": "[calm] Et ce n'est pas un cas isolé, Tariq. Dans Sahih Muslim, Dieu regarde les habitants de la Terre, Arabes et non-Arabes, et les réprouve… [pointed] sauf « des survivants des gens du Livre ».",
+      "expr": "sur",
+      "fx": [
+        {
+          "plan": "card:muslim2865",
+          "t": "cut",
+          "word": "Muslim"
+        }
+      ],
+      "id": "n1",
+      "pause": 1,
+      "plan": "cu",
+      "rec": true,
+      "text": "[calm] Et ce n'est pas un cas isolé, Tariq. Dans Sahih Muslim, Dieu regarde les habitants de la Terre, Arabes et non-Arabes, et les réprouve… [pointed] sauf « des survivants des gens du Livre ».",
+      "who": "sham"
+    },
+    {
+      "dur": 5.39,
+      "durFor": "[serious] Et al-Nawawi explique : ce sont « ceux restés attachés à leur vraie religion, sans l'avoir altérée ».",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "VRAIE RELIGION",
+          "word": "vraie"
+        }
+      ],
+      "id": "n2",
+      "pause": 1.2,
+      "plan": "card:nawawi",
+      "rec": true,
+      "text": "[serious] Et al-Nawawi explique : ce sont « ceux restés attachés à leur vraie religion, sans l'avoir altérée ».",
+      "who": "sham"
+    },
+    {
+      "dur": 1.8,
+      "durFor": "[hesitant] Des Arabes… et des non-Arabes ?",
+      "expr": "hesitant",
+      "fx": [
+        {
+          "t": "qmark",
+          "word": "non-Arabes"
+        }
+      ],
+      "id": "n3",
+      "plan": "cu",
+      "rec": true,
+      "text": "[hesitant] Des Arabes… et des non-Arabes ?",
+      "who": "tariq"
+    },
+    {
+      "dur": 6.59,
+      "durFor": "[pointed] Et Islamweb le dit noir sur blanc, fatwa 355720 : [reading] « Il incombait à tous les hommes de suivre ce groupe. »",
+      "expr": "solennel",
+      "fx": [
+        {
+          "plan": "card:islamweb",
+          "t": "cut",
+          "word": "Islamweb"
+        },
+        {
+          "t": "souligne",
+          "target": "TOUS LES HOMMES",
+          "word": "tous"
+        },
+        {
+          "color": "rouge",
+          "t": "stamp",
+          "text": "TOUS LES HOMMES",
+          "word": "hommes"
+        }
+      ],
+      "id": "w1",
+      "pause": 1.4,
+      "plan": "cu",
+      "rec": true,
+      "text": "[pointed] Et Islamweb le dit noir sur blanc, fatwa 355720 : [reading] « Il incombait à tous les hommes de suivre ce groupe. »",
+      "who": "ichtus"
+    },
+    {
+      "dur": 2.69,
+      "durFor": "[shocked] Tous les hommes ?! [hesitant] …Bon. Ça, c'est un problème.",
+      "expr": "choque",
+      "fx": [
+        {
+          "t": "sueur",
+          "word": "problème"
+        }
+      ],
+      "id": "w2",
+      "plan": "cu",
+      "rec": true,
+      "text": "[shocked] Tous les hommes ?! [hesitant] …Bon. Ça, c'est un problème.",
+      "who": "tariq"
+    },
+    {
+      "dur": 9.58,
+      "durFor": "[confident] Si la tradition islamique reconnaît et utilise la sagesse d'un Arabe devenu chrétien, c'est que le message du Christ n'a jamais été limité à une seule frontière, [firm] ou à un seul peuple.",
+      "expr": "sur",
+      "fx": [
+        {
+          "plan": "card:recap",
+          "t": "cut",
+          "word": "frontière"
+        }
+      ],
+      "id": "l13",
+      "plan": "cu",
+      "rec": true,
+      "text": "[confident] Si la tradition islamique reconnaît et utilise la sagesse d'un Arabe devenu chrétien, c'est que le message du Christ n'a jamais été limité à une seule frontière, [firm] ou à un seul peuple.",
+      "who": "sham"
+    },
+    {
+      "dur": 4.19,
+      "durFor": "[teasing] Donc, Tariq, faut arrêter ces arguments 2.0. [short pause] Et il faut se mettre à lire.",
+      "expr": "clin",
+      "fx": [
+        {
+          "t": "zoom",
+          "word": "lire"
+        }
+      ],
+      "id": "l14",
+      "plan": "cu",
+      "rec": true,
+      "text": "[teasing] Donc, Tariq, faut arrêter ces arguments 2.0. [short pause] Et il faut se mettre à lire.",
+      "who": "sham"
+    },
+    {
+      "dur": 4.79,
+      "durFor": "[annoyed] Bien joué pour cette fois-ci, je reviendrai avec un autre argument… [confident] celui-là, il sera imbattable !",
+      "expr": "boude",
+      "fx": [],
+      "id": "l16",
+      "plan": "wide",
+      "pose": "bras_croises",
+      "rec": true,
+      "text": "[annoyed] Bien joué pour cette fois-ci, je reviendrai avec un autre argument… [confident] celui-là, il sera imbattable !",
+      "who": "tariq"
+    }
+  ],
+  "moment": "crepuscule",
+  "order": 10,
+  "reglages": "v3 + design sonore v4 : lumière chaude (accroche), bleu nuit dès Waraqa, verdict dès « Tous les hommes » ; pas plus de 8 s sans changement de plan",
+  "title": "Le chrétien de La Mecque",
+  "univers": "rue",
+  "updated": "2026-11-07T00:30:00Z",
+  "voices": {
+    "ichtus": "JMS",
+    "sham": "Quentin – Clone",
+    "tariq": "Mouhcine – French"
+  }
+}

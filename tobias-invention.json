@@ -1,0 +1,594 @@
+{
+  "cards": [
+    {
+      "id": "jingle",
+      "lines": "UNE INVENTION\nCHRÉTIENNE ?",
+      "title": "ROUND 3",
+      "tpl": "titre"
+    },
+    {
+      "hebrew": "אַף כָּךְ הַקָּדוֹשׁ בָּרוּךְ הוּא מְיַיסֵּר אֶת יְחֶזְקֵאל כְּדֵי לְמָרֵק עֲוֹנוֹתֵיהֶם שֶׁל יִשְׂרָאֵל",
+      "id": "sn39a",
+      "lines": "« DE MÊME, LE SAINT, BÉNI SOIT-IL,\nFAIT SOUFFRIR ÉZÉCHIEL\nAFIN DE PURIFIER LES PÉCHÉS D'ISRAËL »",
+      "refDetail": "Rabbi Abbahou",
+      "refName": "Talmud de Babylone",
+      "refNum": "Sanhédrin 39a",
+      "sub": "SANHÉDRIN 39A · RABBI ABBAHOU",
+      "title": "TALMUD DE BABYLONE",
+      "tpl": "parchemin",
+      "url": "sefaria.org/Sanhedrin.39a"
+    },
+    {
+      "id": "zach1210",
+      "lines": "« ILS TOURNERONT LES REGARDS VERS MOI,\nCELUI QU'ILS ONT PERCÉ.\nILS PLEURERONT SUR LUI\nCOMME ON PLEURE SUR UN FILS UNIQUE »",
+      "refDetail": "Louis Segond 1910",
+      "refName": "Zacharie",
+      "refNum": "12:10",
+      "sub": "BIBLE · LOUIS SEGOND 1910",
+      "title": "ZACHARIE 12:10",
+      "tpl": "parchemin",
+      "url": "bible.audio · Zacharie 12:10"
+    },
+    {
+      "id": "choix",
+      "left": "UN HOMME QUI MEURT POUR LES PÉCHÉS ?\nUNE INVENTION · Tobias",
+      "right": "SOUFFRANCE ET MORT QUI EXPIENT\nSanhédrin 39a · R. Yossef Hayyim",
+      "tpl": "balance"
+    },
+    {
+      "cine": "perce",
+      "id": "cine1",
+      "lines": "DESSIN OMBRÉ · LE MESSIE CLOUÉ\nZacharie 12:10 « celui qu'ils ont percé »\nSur « Non ! » : Tobias en incrustation + tampon NON !",
+      "title": "① PERCÉ",
+      "tpl": "titre"
+    },
+    {
+      "cine": "souffre",
+      "id": "cine2",
+      "lines": "DESSIN OMBRÉ · LE MESSIE COURBÉ SOUS LE POIDS\nSanhédrin 39a « afin de purifier les péchés »\nSur « Non ! » : Tobias se cache les yeux + tampon NON !",
+      "title": "② IL SOUFFRE POUR LES PÉCHÉS",
+      "tpl": "titre"
+    },
+    {
+      "cine": "meurt",
+      "id": "cine3",
+      "lines": "DESSIN OMBRÉ · LES FAUTES MONTENT VERS LUI ET S'EFFACENT\nR. Yossef Hayyim « leurs fautes ont causé sa mort »\nSur « Non ! Je refuse » : yeux cachés, l'image se brouille + tampons NON ! / JE REFUSE",
+      "title": "③ IL MEURT POUR LES FAUTES D'ISRAËL",
+      "tpl": "titre"
+    },
+    {
+      "cine": "ombre_tobias",
+      "id": "ombre",
+      "lines": "Tobias devant le mur : derrière lui, l'ombre de la croix\n« ça ne ressemble à personne » (ironie)",
+      "title": "LE DÉNI",
+      "tpl": "titre"
+    },
+    {
+      "hebrew": "כי על מספד של משיח בן יוסף כתיב את אשר דקרו. והכונה שמספדין על אשר עונותיהם גרמו לו ליהרג, כמ״ש והוא מחולל מפשעינו",
+      "id": "yhayyim",
+      "image": "ep13/assets/yossef_hayyim_pixel.png",
+      "lines": "« AU SUJET DU DEUIL POUR LE MESSIE FILS DE JOSEPH,\nIL EST ÉCRIT : “CELUI QU'ILS ONT PERCÉ”.\nLE SENS EST QU'ILS SE LAMENTENT PARCE QUE\nLEURS FAUTES ONT CAUSÉ SA MISE À MORT,\nCOMME IL EST DIT : “IL A ÉTÉ TRANSPERCÉ\nÀ CAUSE DE NOS TRANSGRESSIONS” »",
+      "refDetail": "cite Zacharie 12:10 et Ésaïe 53:5",
+      "refName": "Rabbi Yossef Hayyim",
+      "refNum": "Ben Yehoyada, Méguila 3a",
+      "sub": "BEN ISH HAÏ · BAGDAD (1835-1909)",
+      "title": "RABBI YOSSEF HAYYIM",
+      "tpl": "parchemin",
+      "url": "he.wikisource.org · בן יהוידע מגילה"
+    },
+    {
+      "hebrew": "כי על מספד של משיח בן יוסף כתיב את אשר דקרו. והכונה שמספדין על אשר עונותיהם גרמו לו ליהרג, כמ״ש והוא מחולל מפשעינו",
+      "id": "yhayyim2",
+      "image": "ep13/assets/yossef_hayyim_pixel.png",
+      "lines": "« AU SUJET DU DEUIL POUR LE MESSIE FILS DE JOSEPH,\nIL EST ÉCRIT : “CELUI QU'ILS ONT PERCÉ”.\nLE SENS EST QU'ILS SE LAMENTENT PARCE QUE\nLEURS FAUTES ONT CAUSÉ SA MISE À MORT,\nCOMME IL EST DIT : “IL A ÉTÉ TRANSPERCÉ\nÀ CAUSE DE NOS TRANSGRESSIONS” »",
+      "refDetail": "cite Zacharie 12:10 et Ésaïe 53:5",
+      "refName": "Rabbi Yossef Hayyim",
+      "refNum": "Ben Yehoyada, Méguila 3a",
+      "stamp": "= ZACHARIE 12:10 · = ÉSAÏE 53:5",
+      "sub": "CITE ZACHARIE 12:10 ET ÉSAÏE 53:5",
+      "title": "RABBI YOSSEF HAYYIM",
+      "tpl": "parchemin",
+      "url": "he.wikisource.org · בן יהוידע מגילה"
+    }
+  ],
+  "cast": [
+    {
+      "key": "tobias",
+      "name": "Tobias"
+    },
+    {
+      "key": "sissagodson",
+      "name": "Sissagodson"
+    }
+  ],
+  "end1": "SANHÉDRIN 39A · ZACHARIE 12:10",
+  "end2": "R. YOSSEF HAYYIM · BEN YEHOYADA",
+  "endNote": "",
+  "endRefs": "Talmud (Sefaria) · Bible Segond 1910 · Ben Yehoyada sur Méguila 3a",
+  "endTitle": "UNE INVENTION CHRÉTIENNE ?",
+  "hook": {
+    "badge": "TOBIAS ET SES ARGUMENTS 2.0",
+    "lines": [
+      {
+        "dur": 6.04,
+        "durFor": "[firm] On n'a jamais attendu un Messie qui doit mourir pour les péchés du peuple ! [emphatic] C'est une invention !",
+        "expr": "assure",
+        "fx": [
+          {
+            "t": "shake",
+            "word": "invention"
+          }
+        ],
+        "id": "h1",
+        "plan": "cu",
+        "rec": true,
+        "text": "[firm] On n'a jamais attendu un Messie qui doit mourir pour les péchés du peuple ! [emphatic] C'est une invention !",
+        "who": "tobias"
+      },
+      {
+        "dur": 4.24,
+        "durFor": "[amused] Une invention ? [pointed] Tobias, fais un effort : faut lire la BIBLE !",
+        "expr": "amuse",
+        "fx": [
+          {
+            "t": "zoom",
+            "word": "rabbins"
+          }
+        ],
+        "id": "h2",
+        "plan": "cu",
+        "rec": true,
+        "text": "[amused] Une invention ? [pointed] Tobias, fais un effort : faut lire la BIBLE !",
+        "who": "sham"
+      },
+      {
+        "dur": 6.29,
+        "durFor": "[chuckles] Voici Tobias, ses sophismes… et son cinéma !",
+        "fx": [],
+        "id": "j1",
+        "plan": "card:jingle",
+        "rec": false,
+        "text": "[chuckles] Voici Tobias, ses sophismes… et son cinéma !",
+        "who": "vo"
+      }
+    ],
+    "text1": "UNE INVENTION",
+    "text2": "CHRÉTIENNE ?"
+  },
+  "jingle": false,
+  "jingleNew": {
+    "file": "jingle_r3.mov (ROUND 3 · UNE INVENTION CHRÉTIENNE ?)",
+    "line": "j1",
+    "style": "écran VS, ROUND 3 « UNE INVENTION CHRÉTIENNE ? » / FIGHT !, musique turbo 177 bpm (6,3 s)",
+    "text": "Voici Tobias, ses sophismes… et son cinéma !",
+    "voice": "Little Dude II – Cartoon Character"
+  },
+  "lines": [
+    {
+      "dur": 3.04,
+      "durFor": "[amused] Round 3 ! [laughs] J'espère qu'il a révisé cette fois…",
+      "expr": "amuse",
+      "fx": [],
+      "id": "l1",
+      "plan": "cu",
+      "rec": true,
+      "text": "[amused] Round 3 ! [laughs] J'espère qu'il a révisé cette fois…",
+      "who": "sissagodson"
+    },
+    {
+      "dur": 7.84,
+      "durFor": "[firm] Nous, on a les sacrifices d'animaux dans la Torah pour les péchés ! [dismissive] L'histoire d'un homme qui meurt pour les péchés des autres… c'est inventé.",
+      "expr": "enerve",
+      "fx": [
+        {
+          "expr": "enerve",
+          "plan": "cu",
+          "t": "cut",
+          "word": "homme"
+        }
+      ],
+      "id": "l2",
+      "plan": "wide",
+      "pose": "livre",
+      "rec": true,
+      "text": "[firm] Nous, on a les sacrifices d'animaux dans la Torah pour les péchés ! [dismissive] L'histoire d'un homme qui meurt pour les péchés des autres… c'est inventé.",
+      "who": "tobias"
+    },
+    {
+      "dur": 3.64,
+      "durFor": "[calm] Ah oui ? Alors ouvre ton Talmud : Sanhédrin 39 a.",
+      "expr": "sur",
+      "fx": [],
+      "id": "l3",
+      "plan": "cu",
+      "rec": true,
+      "subText": "Ah oui ? Alors ouvre ton Talmud : Sanhédrin 39a.",
+      "text": "[calm] Ah oui ? Alors ouvre ton Talmud : Sanhédrin 39 a.",
+      "who": "sham"
+    },
+    {
+      "dur": 5.44,
+      "durFor": "[reading] « De même, le Saint, béni soit-Il, fait souffrir Ézéchiel… [emphatic] afin de purifier les péchés d'Israël. »",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "FAIT SOUFFRIR ÉZÉCHIEL",
+          "word": "Ézéchiel"
+        },
+        {
+          "t": "souligne",
+          "target": "AFIN DE PURIFIER LES PÉCHÉS D'ISRAËL",
+          "word": "purifier"
+        }
+      ],
+      "id": "l4",
+      "plan": "card:sn39a",
+      "rec": true,
+      "text": "[reading] « De même, le Saint, béni soit-Il, fait souffrir Ézéchiel… [emphatic] afin de purifier les péchés d'Israël. »",
+      "who": "sham"
+    },
+    {
+      "dur": 5.44,
+      "durFor": "[pointed] Donc là, comme tu peux le voir… un homme souffre, [emphatic] et ça purifie les péchés des autres.",
+      "expr": "sceptique",
+      "fx": [
+        {
+          "t": "zoom",
+          "word": "autres"
+        }
+      ],
+      "id": "l5",
+      "plan": "cu",
+      "rec": true,
+      "text": "[pointed] Donc là, comme tu peux le voir… un homme souffre, [emphatic] et ça purifie les péchés des autres.",
+      "who": "sham"
+    },
+    {
+      "dur": 9.03,
+      "durFor": "[hesitant] Euhhh… [sheepish] Oui, j'ai parlé un peu trop vite… la souffrance d'un juste peut purifier les péchés des autres, tu as raison… [firm] Mais ce n'est toujours pas sa mort !",
+      "expr": "hesitant",
+      "fx": [
+        {
+          "t": "sueur",
+          "word": "vite"
+        }
+      ],
+      "id": "lwh2hgzz",
+      "plan": "cu",
+      "rec": true,
+      "text": "[hesitant] Euhhh… [sheepish] Oui, j'ai parlé un peu trop vite… la souffrance d'un juste peut purifier les péchés des autres, tu as raison… [firm] Mais ce n'est toujours pas sa mort !",
+      "who": "tobias"
+    },
+    {
+      "dur": 3.04,
+      "durFor": "[defensive] C'est pas pareil ! Ézéchiel souffre, [emphatic] il meurt pas.",
+      "expr": "enerve",
+      "fx": [],
+      "id": "l6",
+      "plan": "cu",
+      "rec": true,
+      "text": "[defensive] C'est pas pareil ! Ézéchiel souffre, [emphatic] il meurt pas.",
+      "who": "tobias"
+    },
+    {
+      "dur": 9.33,
+      "durFor": "[calm] D'accord, continuons. Zacharie 12, verset 10 : [reading] « Ils tourneront les regards vers moi, celui qu'ils ont percé. Ils pleureront sur lui comme on pleure sur un fils unique. »",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "CELUI QU'ILS ONT PERCÉ",
+          "word": "percé"
+        },
+        {
+          "t": "souligne",
+          "target": "COMME ON PLEURE SUR UN FILS UNIQUE",
+          "word": "unique"
+        }
+      ],
+      "id": "l7",
+      "plan": "card:zach1210",
+      "rec": true,
+      "text": "[calm] D'accord, continuons. Zacharie 12, verset 10 : [reading] « Ils tourneront les regards vers moi, celui qu'ils ont percé. Ils pleureront sur lui comme on pleure sur un fils unique. »",
+      "who": "sham"
+    },
+    {
+      "dur": 3.64,
+      "durFor": "[confident] Celui qu'ils ont percé… [dismissive] rien ne dit que c'est le Messie.",
+      "expr": "assure",
+      "fx": [],
+      "id": "l8",
+      "plan": "cu",
+      "rec": true,
+      "text": "[confident] Celui qu'ils ont percé… [dismissive] rien ne dit que c'est le Messie.",
+      "who": "tobias"
+    },
+    {
+      "dur": 4.84,
+      "durFor": "[excited] Bégaye pas, Tobias ! [shouting] Tiens : Rabbi Yossef Haïm de Bagdad, ton propre rabbin !",
+      "expr": "insistant",
+      "fx": [],
+      "id": "l9",
+      "plan": "cu",
+      "rec": true,
+      "subText": "Bégaye pas, Tobias ! Tiens : Rabbi Yossef Hayyim de Bagdad, ton propre rabbin !",
+      "text": "[excited] Bégaye pas, Tobias ! [shouting] Tiens : Rabbi Yossef Haïm de Bagdad, ton propre rabbin !",
+      "who": "sissagodson"
+    },
+    {
+      "dur": 15.32,
+      "durFor": "[reading] « Au sujet du deuil pour le Messie fils de Joseph, il est écrit : celui qu'ils ont percé. [serious] Le sens est qu'ils se lamentent parce que leurs fautes ont causé sa mise à mort, [emphatic] comme il est dit : il a été transpercé à cause de nos transgressions. »",
+      "expr": "insistant",
+      "fx": [],
+      "id": "l10",
+      "plan": "card:yhayyim",
+      "rec": true,
+      "text": "[reading] « Au sujet du deuil pour le Messie fils de Joseph, il est écrit : celui qu'ils ont percé. [serious] Le sens est qu'ils se lamentent parce que leurs fautes ont causé sa mise à mort, [emphatic] comme il est dit : il a été transpercé à cause de nos transgressions. »",
+      "who": "sissagodson"
+    },
+    {
+      "dur": 0.65,
+      "durFor": "[nervous] Euhhh…",
+      "expr": "choque",
+      "fx": [
+        {
+          "t": "sueur",
+          "word": "Euhhh"
+        }
+      ],
+      "id": "l11",
+      "pause": 0.5,
+      "plan": "cu",
+      "rec": true,
+      "text": "[nervous] Euhhh…",
+      "who": "tobias"
+    },
+    {
+      "dur": 1.85,
+      "durFor": "[serious] Un Messie qui est percé…",
+      "expr": "sur",
+      "fx": [],
+      "id": "l12a",
+      "plan": "card:cine1",
+      "rec": true,
+      "text": "[serious] Un Messie qui est percé…",
+      "who": "sham"
+    },
+    {
+      "dur": 0.95,
+      "durFor": "[defensive] Non !",
+      "expr": "choque",
+      "fx": [
+        {
+          "t": "stamp",
+          "text": "NON !",
+          "word": "Non"
+        },
+        {
+          "t": "shake",
+          "word": "Non"
+        }
+      ],
+      "id": "l13",
+      "plan": "card:cine1",
+      "rec": true,
+      "text": "[defensive] Non !",
+      "who": "tobias"
+    },
+    {
+      "dur": 2.45,
+      "durFor": "[serious] Un Messie qui souffre pour les péchés…",
+      "expr": "sur",
+      "fx": [],
+      "id": "l12b",
+      "plan": "card:cine2",
+      "rec": true,
+      "text": "[serious] Un Messie qui souffre pour les péchés…",
+      "who": "sham"
+    },
+    {
+      "dur": 0.95,
+      "durFor": "[panicked] Non !",
+      "expr": "choque",
+      "fx": [
+        {
+          "t": "stamp",
+          "text": "NON !",
+          "word": "Non"
+        },
+        {
+          "t": "shake",
+          "word": "Non"
+        }
+      ],
+      "id": "l3iaf1pp",
+      "plan": "card:cine2",
+      "rec": true,
+      "text": "[panicked] Non !",
+      "who": "tobias"
+    },
+    {
+      "dur": 2.75,
+      "durFor": "[emphatic] Un Messie qui meurt pour les fautes d'Israël…",
+      "expr": "sur",
+      "fx": [],
+      "id": "l12c",
+      "plan": "card:cine3",
+      "rec": true,
+      "text": "[emphatic] Un Messie qui meurt pour les fautes d'Israël…",
+      "who": "sham"
+    },
+    {
+      "dur": 2.75,
+      "durFor": "[outraged] Non ! [panicked] Je refuse, c'est pas possible !",
+      "expr": "enerve",
+      "fx": [
+        {
+          "t": "stamp",
+          "text": "NON !",
+          "word": "Non"
+        },
+        {
+          "t": "stamp",
+          "text": "JE REFUSE",
+          "word": "refuse"
+        },
+        {
+          "t": "shake",
+          "word": "possible"
+        }
+      ],
+      "id": "lnyo3taq",
+      "plan": "card:cine3",
+      "rec": true,
+      "text": "[outraged] Non ! [panicked] Je refuse, c'est pas possible !",
+      "who": "tobias"
+    },
+    {
+      "dur": 2.15,
+      "durFor": "[amused] Ça te rappelle pas quelqu'un ?",
+      "expr": "amuse",
+      "fx": [
+        {
+          "t": "qmark",
+          "word": "quelqu"
+        }
+      ],
+      "id": "l12d",
+      "plan": "cu",
+      "rec": true,
+      "text": "[amused] Ça te rappelle pas quelqu'un ?",
+      "who": "sham"
+    },
+    {
+      "dur": 2.45,
+      "durFor": "[laughs nervously] Non, non… [unconvincing] ça ne ressemble à personne.",
+      "expr": "hesitant",
+      "fx": [
+        {
+          "t": "sueur",
+          "word": "personne"
+        }
+      ],
+      "id": "ln47g89s",
+      "plan": "card:ombre",
+      "rec": true,
+      "text": "[laughs nervously] Non, non… [unconvincing] ça ne ressemble à personne.",
+      "who": "tobias"
+    },
+    {
+      "dur": 4.24,
+      "durFor": "[whispers] Il sait que c'est le Christ ! [amused whisper] Mais il est dans le déni.",
+      "expr": "insistant",
+      "fx": [
+        {
+          "t": "stamp",
+          "text": "DÉNI : 100 %",
+          "word": "déni"
+        }
+      ],
+      "id": "lbb2cfnn",
+      "plan": "cu",
+      "rec": true,
+      "text": "[whispers] Il sait que c'est le Christ ! [amused whisper] Mais il est dans le déni.",
+      "who": "sissagodson"
+    },
+    {
+      "dur": 4.24,
+      "durFor": "[outraged] Ce n'est pas vrai ça ! [angry] Les rabbins ne l'ont pas dit !",
+      "expr": "enerve",
+      "fx": [
+        {
+          "t": "shake",
+          "word": "rabbins"
+        }
+      ],
+      "id": "l7j6o5ok",
+      "plan": "cu",
+      "rec": true,
+      "text": "[outraged] Ce n'est pas vrai ça ! [angry] Les rabbins ne l'ont pas dit !",
+      "who": "tobias"
+    },
+    {
+      "dur": 6.04,
+      "durFor": "[pointed] Et tu as vu ? [emphatic] Il cite Zacharie 12 et Ésaïe 53 pour le Messie fils de Joseph !",
+      "expr": "sur",
+      "fx": [],
+      "id": "l14",
+      "plan": "card:yhayyim2",
+      "rec": true,
+      "text": "[pointed] Et tu as vu ? [emphatic] Il cite Zacharie 12 et Ésaïe 53 pour le Messie fils de Joseph !",
+      "who": "sham"
+    },
+    {
+      "dur": 6.34,
+      "durFor": "[firm] Donc un homme qui meurt pour les péchés des autres… c'est pas une invention chrétienne. [emphatic] C'est chez tes propres rabbins.",
+      "expr": "sur",
+      "fx": [
+        {
+          "plan": "card:choix",
+          "t": "cut",
+          "word": "rabbins"
+        }
+      ],
+      "id": "l15",
+      "plan": "wide",
+      "pose": "explique",
+      "rec": true,
+      "text": "[firm] Donc un homme qui meurt pour les péchés des autres… c'est pas une invention chrétienne. [emphatic] C'est chez tes propres rabbins.",
+      "who": "sham"
+    },
+    {
+      "dur": 2.15,
+      "durFor": "[in disbelief] Non… ce n'est pas possible !",
+      "expr": "choque",
+      "fx": [],
+      "id": "l16",
+      "plan": "cu",
+      "rec": true,
+      "text": "[in disbelief] Non… ce n'est pas possible !",
+      "who": "tobias"
+    },
+    {
+      "dur": 3.64,
+      "durFor": "[panicked] Ce n'est pas possible ! [sulking] Je vais demander à mon rabbin.",
+      "expr": "boude",
+      "fx": [],
+      "id": "lv5gpp7t",
+      "pause": 0.4,
+      "plan": "cu",
+      "rec": true,
+      "text": "[panicked] Ce n'est pas possible ! [sulking] Je vais demander à mon rabbin.",
+      "who": "tobias"
+    },
+    {
+      "dur": 4.24,
+      "durFor": "[laughing] Encore ?! Tobias, ton rabbin va finir par te facturer les consultations !",
+      "expr": "rire",
+      "fx": [],
+      "id": "l17",
+      "pause": 0.6,
+      "plan": "wide",
+      "rec": true,
+      "text": "[laughing] Encore ?! Tobias, ton rabbin va finir par te facturer les consultations !",
+      "who": "sissagodson"
+    }
+  ],
+  "moment": "crepuscule",
+  "order": 8,
+  "outro": {
+    "file": "outro_abonne_littledude.mp3",
+    "style": "écran ABONNE-TOI animé, seul à la fin",
+    "text": "[chuckles] Et surtout, si vous avez aimé, abonnez-vous pour ne pas manquer les prochaines publications !",
+    "voice": "Little Dude II – Cartoon Character"
+  },
+  "title": "Une invention chrétienne ?",
+  "univers": "rue",
+  "updated": "2026-10-30T08:25:00Z",
+  "voices": {
+    "sissagodson": "Sisagodson (clone)",
+    "tobias": "Steeve – Reflective Old and Emotional",
+    "vo": "Little Dude II – Cartoon Character"
+  }
+}

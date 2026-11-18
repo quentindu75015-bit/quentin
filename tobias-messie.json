@@ -1,0 +1,478 @@
+{
+  "cards": [
+    {
+      "id": "jingle",
+      "lines": "TOBIAS\nET SES ARGUMENTS 2.0",
+      "title": "OH NON !",
+      "tpl": "titre"
+    },
+    {
+      "book": "bible",
+      "id": "e53a",
+      "lines": "V.8 · RETRANCHÉ DE LA TERRE DES VIVANTS\nFRAPPÉ POUR LES PÉCHÉS DE MON PEUPLE\nV.9 · SON SÉPULCRE PARMI LES MÉCHANTS",
+      "refDetail": "Louis Segond 1910",
+      "refName": "Ésaïe",
+      "refNum": "53:8-9",
+      "title": "ÉSAÏE 53 · VERSETS 8-9",
+      "tpl": "livre",
+      "url": "bible.audio · Ésaïe 53"
+    },
+    {
+      "book": "bible",
+      "id": "e53b",
+      "lines": "V.10 · LIVRÉ SA VIE EN SACRIFICE…\n… IL PROLONGERA SES JOURS\nV.11 · IL JUSTIFIERA BEAUCOUP D'HOMMES\nV.12 · LIVRÉ LUI-MÊME À LA MORT",
+      "refDetail": "Louis Segond 1910",
+      "refName": "Ésaïe",
+      "refNum": "53:10-12",
+      "title": "ÉSAÏE 53 · VERSETS 10-12",
+      "tpl": "livre",
+      "url": "bible.audio · Ésaïe 53"
+    },
+    {
+      "book": "bible",
+      "id": "e5310",
+      "lines": "APRÈS AVOIR LIVRÉ SA VIE EN SACRIFICE\nIL VERRA UNE POSTÉRITÉ\nET PROLONGERA SES JOURS",
+      "refDetail": "Louis Segond 1910",
+      "refName": "Ésaïe",
+      "refNum": "53:10",
+      "title": "ÉSAÏE 53 · VERSET 10",
+      "tpl": "livre",
+      "url": "bible.audio · Ésaïe 53"
+    },
+    {
+      "hebrew": "אָכֵן חֳלָיֵינוּ הוּא נָשָׂא וּמַכְאֹבֵינוּ סְבָלָם",
+      "id": "sn98b",
+      "lines": "LES RABBINS : « LE LÉPREUX DE LA MAISON DE RABBI »\nCAR IL EST DIT :\n« CE SONT NOS SOUFFRANCES QU'IL A PORTÉES »\n= ÉSAÏE 53:4, APPLIQUÉ AU MESSIE",
+      "refDetail": "cite Ésaïe 53:4",
+      "refName": "Talmud de Babylone",
+      "refNum": "Sanhédrin 98b",
+      "sub": "QUEL EST LE NOM DU MESSIE ?",
+      "title": "TALMUD DE BABYLONE",
+      "tpl": "parchemin",
+      "url": "sefaria.org/Sanhedrin.98b"
+    },
+    {
+      "hebrew": "ואל יקשה עליך שיהיה מלך המשיח מן הקמים בתחייה כי כבר נסתפקו על זה בפרק חלק",
+      "id": "abravanel",
+      "image": "ep11/assets/abravanel_pixel.png",
+      "lines": "« QUE CELA NE TE POSE PAS DE DIFFICULTÉ QUE LE ROI MESSIE\nSOIT DE CEUX QUI RESSUSCITENT, CAR ON EN DOUTAIT DÉJÀ :\nS'IL EST D'ENTRE LES VIVANTS, IL EST COMME NOTRE SAINT RABBI ;\nS'IL EST D'ENTRE LES MORTS, IL EST COMME DANIEL »",
+      "refDetail": "cite Sanhédrin 98b",
+      "refName": "Abravanel",
+      "refNum": "Yeshouot Meshiho II, 2, 1",
+      "sub": "RABBIN ET COMMENTATEUR (1437-1508)",
+      "title": "ABRAVANEL",
+      "tpl": "parchemin",
+      "url": "Yeshouot Meshiho"
+    },
+    {
+      "id": "choix",
+      "left": "LE MESSIE NE MEURT PAS\nTobias",
+      "right": "LE MESSIE MEURT… ET REVIENT\nÉsaïe 53 · Sanhédrin 98b · Abravanel",
+      "tpl": "balance"
+    }
+  ],
+  "cast": [
+    {
+      "key": "tobias",
+      "name": "Tobias"
+    },
+    {
+      "key": "sissagodson",
+      "name": "Sissagodson"
+    }
+  ],
+  "end1": "ÉSAÏE 53 · SANHÉDRIN 98B",
+  "end2": "ABRAVANEL · YESHOUOT MESHIHO",
+  "endNote": "",
+  "endRefs": "Bible Segond 1910 · Talmud (Sefaria) · Abravanel",
+  "endTitle": "LE MESSIE NE MEURT PAS ?",
+  "hook": {
+    "badge": "TOBIAS ET SES ARGUMENTS 2.0",
+    "lines": [
+      {
+        "dur": 6.94,
+        "durFor": "[firm] On ne croit pas en votre Messie, parce que le Messie ne doit pas mourir ! [emphatic] Le Messie ne meurt pas !",
+        "expr": "assure",
+        "fx": [
+          {
+            "t": "shake",
+            "word": "meurt"
+          }
+        ],
+        "id": "h1",
+        "plan": "cu",
+        "rec": true,
+        "text": "[firm] On ne croit pas en votre Messie, parce que le Messie ne doit pas mourir ! [emphatic] Le Messie ne meurt pas !",
+        "who": "tobias"
+      },
+      {
+        "dur": 5.44,
+        "durFor": "[sighs] Faut arrêter de suivre vos rabbins aveuglément… [pointed] Tobias, fais un effort : faut lire la Bible !",
+        "expr": "blase",
+        "fx": [
+          {
+            "t": "zoom",
+            "word": "Bible"
+          }
+        ],
+        "id": "h2",
+        "plan": "cu",
+        "rec": true,
+        "text": "[sighs] Faut arrêter de suivre vos rabbins aveuglément… [pointed] Tobias, fais un effort : faut lire la Bible !",
+        "who": "sham"
+      },
+      {
+        "dur": 6.29,
+        "durFor": "[chuckles] Voici Tobias, ses sophismes… et son cinéma !",
+        "fx": [],
+        "id": "j1",
+        "plan": "card:jingle",
+        "rec": false,
+        "subText": "Voici Tobias, ses sophismes… et son cinéma !",
+        "text": "[chuckles] Voici Tobias, ses sophismes… et son cinéma !",
+        "who": "vo"
+      }
+    ],
+    "text1": "LE MESSIE",
+    "text2": "NE MEURT PAS ?"
+  },
+  "jingle": false,
+  "jingleNew": {
+    "file": "jingle_tobias_cartoon.mp4",
+    "line": "j1",
+    "style": "écran VS jeu de combat rétro, ROUND 1 / FIGHT !, musique de fond cartoon (6,3 s)",
+    "text": "Voici Tobias, ses sophismes… et son cinéma !",
+    "voice": "Little Dude II – Cartoon Character"
+  },
+  "lines": [
+    {
+      "dur": 5.14,
+      "durFor": "[sports commentator, hushed] Il a dit « lis la Bible »… à un rabbin. [excited] Ça va être chaud !",
+      "expr": "amuse",
+      "fx": [],
+      "id": "l1",
+      "plan": "cu",
+      "rec": true,
+      "text": "[sports commentator, hushed] Il a dit « lis la Bible »… à un rabbin. [excited] Ça va être chaud !",
+      "who": "sissagodson"
+    },
+    {
+      "dur": 5.14,
+      "durFor": "[offended] Je lis la Torah en hébreu depuis quarante ans. [challenging] Montre-moi un verset où le Messie meurt.",
+      "expr": "enerve",
+      "fx": [
+        {
+          "expr": "assure",
+          "plan": "cu",
+          "t": "cut",
+          "word": "Montre"
+        }
+      ],
+      "id": "l2",
+      "plan": "wide",
+      "pose": "livre",
+      "rec": true,
+      "text": "[offended] Je lis la Torah en hébreu depuis quarante ans. [challenging] Montre-moi un verset où le Messie meurt.",
+      "who": "tobias"
+    },
+    {
+      "dur": 10.83,
+      "durFor": "[calm] Ésaïe 53. Verset 8 : « il était retranché de la terre des vivants, frappé pour les péchés de mon peuple ». [serious] Verset 9 : « on a mis son sépulcre parmi les méchants ».",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "RETRANCHÉ DE LA TERRE DES VIVANTS",
+          "word": "retranché"
+        },
+        {
+          "t": "souligne",
+          "target": "SON SÉPULCRE PARMI LES MÉCHANTS",
+          "word": "sépulcre"
+        }
+      ],
+      "id": "l3",
+      "plan": "card:e53a",
+      "rec": true,
+      "text": "[calm] Ésaïe 53. Verset 8 : « il était retranché de la terre des vivants, frappé pour les péchés de mon peuple ». [serious] Verset 9 : « on a mis son sépulcre parmi les méchants ».",
+      "who": "sham"
+    },
+    {
+      "dur": 12.92,
+      "durFor": "[serious] Verset 10 : « après avoir livré sa vie en sacrifice pour le péché, il prolongera ses jours ». Verset 11 : « mon serviteur juste justifiera beaucoup d'hommes ». [emphatic] Verset 12 : « il s'est livré lui-même à la mort ».",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "LIVRÉ SA VIE EN SACRIFICE",
+          "word": "sacrifice"
+        },
+        {
+          "expr": "hesitant",
+          "plan": "cu:tobias",
+          "t": "cut",
+          "word": "serviteur"
+        },
+        {
+          "plan": "card:e53b",
+          "t": "cut",
+          "word": "12"
+        },
+        {
+          "t": "souligne",
+          "target": "LIVRÉ LUI-MÊME À LA MORT",
+          "word": "mort"
+        }
+      ],
+      "id": "l3b",
+      "plan": "card:e53b",
+      "rec": true,
+      "text": "[serious] Verset 10 : « après avoir livré sa vie en sacrifice pour le péché, il prolongera ses jours ». Verset 11 : « mon serviteur juste justifiera beaucoup d'hommes ». [emphatic] Verset 12 : « il s'est livré lui-même à la mort ».",
+      "who": "sham"
+    },
+    {
+      "dur": 3.64,
+      "durFor": "[confident] Ésaïe 53, c'est Israël ! Le serviteur, c'est le peuple juif.",
+      "expr": "assure",
+      "fx": [],
+      "id": "l4",
+      "plan": "cu",
+      "rec": true,
+      "text": "[confident] Ésaïe 53, c'est Israël ! Le serviteur, c'est le peuple juif.",
+      "who": "tobias"
+    },
+    {
+      "dur": 14.42,
+      "durFor": "[serious] Ah oui ? Ton propre Talmud, Sanhédrin 98 b : « Quel est le nom du Messie ? Les rabbins disent : le lépreux de la maison de Rabbi, car il est dit : ce sont nos souffrances qu'il a portées. » [pointed] Ésaïe 53… appliqué au Messie.",
+      "expr": "sceptique",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "CE SONT NOS SOUFFRANCES",
+          "word": "souffrances"
+        },
+        {
+          "expr": "sur",
+          "plan": "cu",
+          "t": "cut",
+          "word": "appliqué"
+        }
+      ],
+      "id": "l5",
+      "plan": "card:sn98b",
+      "rec": true,
+      "subText": "Ah oui ? Ton propre Talmud, Sanhédrin 98b : « Quel est le nom du Messie ? Les rabbins disent : le lépreux de la maison de Rabbi, car il est dit : ce sont nos souffrances qu'il a portées. »  Ésaïe 53… appliqué au Messie.",
+      "text": "[serious] Ah oui ? Ton propre Talmud, Sanhédrin 98 b : « Quel est le nom du Messie ? Les rabbins disent : le lépreux de la maison de Rabbi, car il est dit : ce sont nos souffrances qu'il a portées. » [pointed] Ésaïe 53… appliqué au Messie.",
+      "who": "sham"
+    },
+    {
+      "dur": 5.14,
+      "durFor": "[pointed] Et « pour les péchés de mon peuple »… le peuple meurt pour le peuple ?",
+      "expr": "sceptique",
+      "fx": [
+        {
+          "t": "qmark",
+          "word": "peuple"
+        }
+      ],
+      "id": "l5b",
+      "plan": "cu",
+      "rec": true,
+      "text": "[pointed] Et « pour les péchés de mon peuple »… le peuple meurt pour le peuple ?",
+      "who": "sham"
+    },
+    {
+      "dur": 2.15,
+      "durFor": "[laughs] Ça tourne en rond, Tobias !",
+      "expr": "rire",
+      "fx": [
+        {
+          "t": "haha",
+          "word": "rond"
+        }
+      ],
+      "id": "l6",
+      "plan": "cu",
+      "rec": true,
+      "text": "[laughs] Ça tourne en rond, Tobias !",
+      "who": "sissagodson"
+    },
+    {
+      "dur": 9.03,
+      "durFor": "[curious] Et en plus, j'ai une question pour toi : étant donné que selon Ésaïe le Messie est mort… [pointed] comment peut-il voir ses jours prolongés, s'il est déjà mort ?",
+      "expr": "curieux",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "ET PROLONGERA SES JOURS",
+          "word": "prolongés"
+        },
+        {
+          "expr": "sur",
+          "plan": "cu",
+          "t": "cut",
+          "word": "comment"
+        }
+      ],
+      "id": "l7",
+      "plan": "card:e5310",
+      "rec": true,
+      "text": "[curious] Et en plus, j'ai une question pour toi : étant donné que selon Ésaïe le Messie est mort… [pointed] comment peut-il voir ses jours prolongés, s'il est déjà mort ?",
+      "who": "sham"
+    },
+    {
+      "dur": 0.65,
+      "durFor": "[hesitant] Euuuh…",
+      "expr": "hesitant",
+      "fx": [
+        {
+          "t": "sueur",
+          "word": "Euuuh"
+        }
+      ],
+      "id": "l8",
+      "pause": 0.5,
+      "plan": "cu",
+      "rec": true,
+      "text": "[hesitant] Euuuh…",
+      "who": "tobias"
+    },
+    {
+      "dur": 5.44,
+      "durFor": "[sports commentator, excited] Bégaye pas, Tobias ! [shouting] Tiens : Abravanel, ton propre rabbin, affirme que le Messie peut ressusciter !",
+      "expr": "insistant",
+      "fx": [],
+      "id": "l9",
+      "plan": "cu",
+      "rec": true,
+      "text": "[sports commentator, excited] Bégaye pas, Tobias ! [shouting] Tiens : Abravanel, ton propre rabbin, affirme que le Messie peut ressusciter !",
+      "who": "sissagodson"
+    },
+    {
+      "dur": 14.72,
+      "durFor": "[reading] « Que cela ne te pose pas de difficulté que le Roi Messie soit de ceux qui ressuscitent, car on en doutait déjà dans le Talmud : s'il est d'entre les vivants, il est comme notre saint Rabbi… [emphatic] s'il est d'entre les morts, il est comme Daniel. »",
+      "expr": "insistant",
+      "fx": [
+        {
+          "after": true,
+          "expr": "hesitant",
+          "plan": "cu:tobias",
+          "t": "cut",
+          "word": "Rabbi"
+        },
+        {
+          "plan": "card:abravanel",
+          "t": "cut",
+          "word": "morts"
+        }
+      ],
+      "id": "l9b",
+      "plan": "card:abravanel",
+      "rec": true,
+      "text": "[reading] « Que cela ne te pose pas de difficulté que le Roi Messie soit de ceux qui ressuscitent, car on en doutait déjà dans le Talmud : s'il est d'entre les vivants, il est comme notre saint Rabbi… [emphatic] s'il est d'entre les morts, il est comme Daniel. »",
+      "who": "sissagodson"
+    },
+    {
+      "dur": 0.65,
+      "durFor": "[nervous] Euhhh…",
+      "expr": "choque",
+      "fx": [
+        {
+          "t": "sueur",
+          "word": "Euhhh"
+        }
+      ],
+      "id": "l10",
+      "pause": 1,
+      "plan": "card:abravanel",
+      "rec": true,
+      "text": "[nervous] Euhhh…",
+      "who": "tobias"
+    },
+    {
+      "dur": 3.04,
+      "durFor": "[amused] Deuxième « euh »… [sighs] mais toujours pas de réponse.",
+      "expr": "amuse",
+      "fx": [
+        {
+          "t": "stamp",
+          "text": "EUH N°2",
+          "word": "réponse"
+        }
+      ],
+      "id": "l11",
+      "plan": "cu",
+      "rec": true,
+      "text": "[amused] Deuxième « euh »… [sighs] mais toujours pas de réponse.",
+      "who": "sham"
+    },
+    {
+      "dur": 7.84,
+      "durFor": "[firm] Un Messie qui meurt et qui revient d'entre les morts… c'est pas une invention chrétienne. [emphatic] C'est dans la Bible, et même tes rabbins l'ont écrit.",
+      "expr": "sur",
+      "fx": [
+        {
+          "plan": "card:choix",
+          "t": "cut",
+          "word": "Bible"
+        }
+      ],
+      "id": "l17",
+      "plan": "wide",
+      "pose": "explique",
+      "rec": true,
+      "text": "[firm] Un Messie qui meurt et qui revient d'entre les morts… c'est pas une invention chrétienne. [emphatic] C'est dans la Bible, et même tes rabbins l'ont écrit.",
+      "who": "sham"
+    },
+    {
+      "dur": 2.45,
+      "durFor": "[sulking] Bon… je vais demander à mon rabbin.",
+      "expr": "boude",
+      "fx": [],
+      "id": "l18",
+      "pause": 0.4,
+      "plan": "cu",
+      "rec": true,
+      "text": "[sulking] Bon… je vais demander à mon rabbin.",
+      "who": "tobias"
+    },
+    {
+      "dur": 2.15,
+      "durFor": "[sighs] Voilà. C'est exactement ça, le problème.",
+      "expr": "blase",
+      "fx": [
+        {
+          "t": "zoom",
+          "word": "problème"
+        }
+      ],
+      "id": "l19",
+      "plan": "cu",
+      "rec": true,
+      "text": "[sighs] Voilà. C'est exactement ça, le problème.",
+      "who": "sham"
+    },
+    {
+      "dur": 3.04,
+      "durFor": "[laughs] Tobias… la prochaine fois, lis Ésaïe 53 entièrement !",
+      "expr": "rire",
+      "fx": [],
+      "id": "l20",
+      "pause": 0.6,
+      "plan": "wide",
+      "rec": true,
+      "text": "[laughs] Tobias… la prochaine fois, lis Ésaïe 53 entièrement !",
+      "who": "sissagodson"
+    }
+  ],
+  "moment": "crepuscule",
+  "order": 6,
+  "title": "Le Messie ne meurt pas ?",
+  "univers": "rue",
+  "updated": "2026-10-28T00:10:53.498Z",
+  "voices": {
+    "sissagodson": "Sisagodson (clone)",
+    "tobias": "Steeve – Reflective Old and Emotional",
+    "vo": "Little Dude II – Cartoon Character"
+  }
+}

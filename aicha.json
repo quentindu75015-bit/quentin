@@ -1,0 +1,431 @@
+{
+  "cards": [
+    {
+      "book": "coran",
+      "id": "c3321",
+      "lines": "« VOUS AVEZ DANS LE MESSAGER D'ALLAH\nUN EXCELLENT MODÈLE »",
+      "refDetail": "le beau modèle",
+      "refName": "Coran",
+      "refNum": "33:21",
+      "title": "SOURATE 33 · VERSET 21",
+      "tpl": "livre",
+      "url": "quran.com/33/21"
+    },
+    {
+      "id": "choix",
+      "left": "MODÈLE POUR TOUJOURS\nCoran 33:21",
+      "right": "HOMME DE SON ÉPOQUE\n« c'était normal »",
+      "tpl": "balance"
+    },
+    {
+      "arabic": "تَزَوَّجَهَا وَهْىَ بِنْتُ سِتِّ سِنِينَ\nوَأُدْخِلَتْ عَلَيْهِ وَهْىَ بِنْتُ تِسْعٍ",
+      "grade": "Authentique (sahih)",
+      "id": "b5133",
+      "lines": "MARIÉE À SIX ANS\nMARIAGE CONSOMMÉ À NEUF ANS",
+      "refBook": "Livre 67 · hadith 69",
+      "refDetail": "selon Aïcha",
+      "refName": "Sahih al-Bukhari",
+      "refNum": "5133",
+      "sub": "SELON AÏCHA",
+      "title": "L'ÂGE D'AÏCHA",
+      "tpl": "parchemin",
+      "url": "sunnah.com/bukhari:5133"
+    },
+    {
+      "arabic": "وَلُعَبُهَا مَعَهَا",
+      "grade": "Authentique (sahih)",
+      "id": "m1422",
+      "lines": "CONDUITE CHEZ LUI À NEUF ANS\nSES POUPÉES AVEC ELLE",
+      "refBook": "Livre 16 · hadith 83",
+      "refDetail": "selon Aïcha",
+      "refName": "Sahih Muslim",
+      "refNum": "1422c",
+      "sub": "SELON AÏCHA",
+      "title": "ARRIVÉE CHEZ LUI",
+      "tpl": "parchemin",
+      "url": "sunnah.com/muslim:1422c"
+    }
+  ],
+  "cast": [],
+  "end1": "ARGUMENTS 2.0 RÉFUTÉS : 5",
+  "end2": "À SUIVRE…",
+  "endNote": "",
+  "endRefs": "",
+  "endTitle": "LE MODÈLE ÉTERNEL",
+  "hook": {
+    "badge": "TARIQ ET SES ARGUMENTS 2.0",
+    "lines": [
+      {
+        "dur": 4.89,
+        "durFor": "[disgusted] Vraiment, ceux qui ont des rapports intimes avec des fillettes… [angry] ce sont des fous !",
+        "expr": "enerve",
+        "fx": [
+          {
+            "t": "shake",
+            "word": "fous"
+          }
+        ],
+        "id": "h1",
+        "plan": "cu",
+        "rec": true,
+        "text": "[disgusted] Vraiment, ceux qui ont des rapports intimes avec des fillettes… [angry] ce sont des fous !",
+        "who": "tariq"
+      },
+      {
+        "dur": 5.19,
+        "durFor": "[calm] D'accord avec toi, Tariq. [pointed] Mais comment tu peux critiquer… ce qui est accepté chez toi ?",
+        "expr": "sceptique",
+        "fx": [
+          {
+            "t": "zoom",
+            "word": "toi"
+          }
+        ],
+        "id": "h2",
+        "plan": "cu",
+        "rec": true,
+        "text": "[calm] D'accord avec toi, Tariq. [pointed] Mais comment tu peux critiquer… ce qui est accepté chez toi ?",
+        "who": "sham"
+      },
+      {
+        "dur": 2.2,
+        "durFor": "[shocked] Chez moi ?! [defensive] N'importe quoi !",
+        "expr": "choque",
+        "fx": [
+          {
+            "t": "qmark",
+            "word": "moi"
+          }
+        ],
+        "id": "h3",
+        "plan": "cu",
+        "rec": true,
+        "text": "[shocked] Chez moi ?! [defensive] N'importe quoi !",
+        "who": "tariq"
+      }
+    ],
+    "text1": "MARIÉE À 6 ANS",
+    "text2": "ACCEPTÉ CHEZ TOI ?"
+  },
+  "jingle": true,
+  "lines": [
+    {
+      "dur": 4.29,
+      "durFor": "[serious] Mohammed et Aïcha. Mariée à six ans… mariage consommé à neuf. [teasing] Explique-moi ça.",
+      "expr": "sur",
+      "fx": [
+        {
+          "plan": "card:b5133",
+          "t": "cut",
+          "word": "Mariée"
+        },
+        {
+          "expr": "hesitant",
+          "plan": "cu:tariq",
+          "t": "cut",
+          "word": "Explique"
+        }
+      ],
+      "id": "l0",
+      "plan": "cu",
+      "rec": true,
+      "text": "[serious] Mohammed et Aïcha. Mariée à six ans… mariage consommé à neuf. [teasing] Explique-moi ça.",
+      "who": "sham"
+    },
+    {
+      "dur": 6.69,
+      "durFor": "[challenging] Facile ! [confident] Au septième siècle, tout le monde se mariait jeune. [pointed] On juge pas le passé avec les lunettes d'aujourd'hui !",
+      "fx": [
+        {
+          "expr": "assure",
+          "plan": "cu",
+          "t": "cut",
+          "word": "juge"
+        }
+      ],
+      "id": "l1",
+      "plan": "wide",
+      "pose": "pointe",
+      "rec": true,
+      "text": "[challenging] Facile ! [confident] Au septième siècle, tout le monde se mariait jeune. [pointed] On juge pas le passé avec les lunettes d'aujourd'hui !",
+      "who": "tariq"
+    },
+    {
+      "dur": 9.68,
+      "durFor": "[calm] Ah oui ? Pourtant ta sourate 33, verset 21 dit : « Vous avez dans le Messager d'Allah un excellent modèle. » [pointed] Alors, un modèle pour l'époque… ou pour toujours ?",
+      "expr": "sur",
+      "fx": [
+        {
+          "plan": "card:c3321",
+          "t": "cut",
+          "word": "sourate"
+        },
+        {
+          "t": "souligne",
+          "target": "EXCELLENT MODÈLE",
+          "word": "excellent"
+        }
+      ],
+      "id": "l2",
+      "plan": "cu",
+      "rec": true,
+      "text": "[calm] Ah oui ? Pourtant ta sourate 33, verset 21 dit : « Vous avez dans le Messager d'Allah un excellent modèle. » [pointed] Alors, un modèle pour l'époque… ou pour toujours ?",
+      "who": "sham"
+    },
+    {
+      "dur": 4.59,
+      "durFor": "[proud] Pour toujours, évidemment ! [hesitant] Mais… là, c'est différent. C'était une coutume de l'époque !",
+      "expr": "fier",
+      "fx": [
+        {
+          "expr": "hesitant",
+          "plan": "cu",
+          "t": "cut",
+          "word": "Mais"
+        }
+      ],
+      "id": "l3",
+      "plan": "cu",
+      "rec": true,
+      "src": "c3321",
+      "text": "[proud] Pour toujours, évidemment ! [hesitant] Mais… là, c'est différent. C'était une coutume de l'époque !",
+      "who": "tariq"
+    },
+    {
+      "dur": 10.28,
+      "durFor": "[pointed] Donc, sur ce point, ce n'est plus un modèle ? [serious] Choisis : soit c'est un modèle pour toutes les époques, soit c'est un homme de son époque. [emphatic] Tu peux pas avoir les deux.",
+      "expr": "sur",
+      "fx": [
+        {
+          "plan": "card:choix",
+          "t": "cut",
+          "word": "Choisis"
+        },
+        {
+          "t": "balance",
+          "word": "deux"
+        }
+      ],
+      "id": "l4",
+      "plan": "cu",
+      "rec": true,
+      "src": "c3321",
+      "text": "[pointed] Donc, sur ce point, ce n'est plus un modèle ? [serious] Choisis : soit c'est un modèle pour toutes les époques, soit c'est un homme de son époque. [emphatic] Tu peux pas avoir les deux.",
+      "who": "sham"
+    },
+    {
+      "dur": 3.99,
+      "durFor": "[defensive] De toute façon, elle était pubère ! C'est ça qui compte !",
+      "expr": "enerve",
+      "id": "l5",
+      "plan": "cu",
+      "rec": true,
+      "text": "[defensive] De toute façon, elle était pubère ! C'est ça qui compte !",
+      "who": "tariq"
+    },
+    {
+      "dur": 12.38,
+      "durFor": "[serious] C'est pas moi qui le dis. Sahih al-Bukhari, 5133 : il l'a épousée quand elle avait six ans… et il a consommé le mariage quand elle en avait neuf. [pointed] Six ans, Tariq. Tu parles de puberté à six ans ?",
+      "expr": "sur",
+      "fx": [
+        {
+          "plan": "card:b5133",
+          "t": "cut",
+          "word": "Bukhari"
+        },
+        {
+          "t": "souligne",
+          "target": "SIX ANS",
+          "word": "six"
+        },
+        {
+          "expr": "sur",
+          "plan": "cu",
+          "t": "cut",
+          "word": "Tariq"
+        }
+      ],
+      "id": "l6",
+      "plan": "cu",
+      "rec": true,
+      "text": "[serious] C'est pas moi qui le dis. Sahih al-Bukhari, 5133 : il l'a épousée quand elle avait six ans… et il a consommé le mariage quand elle en avait neuf. [pointed] Six ans, Tariq. Tu parles de puberté à six ans ?",
+      "who": "sham"
+    },
+    {
+      "dur": 6.99,
+      "durFor": "[serious] Et Sahih Muslim, 1422 : quand elle est arrivée chez lui, à neuf ans… [quiet] ses poupées étaient avec elle. [pause] Ses poupées, Tariq.",
+      "expr": "solennel",
+      "fx": [
+        {
+          "plan": "card:m1422",
+          "t": "cut",
+          "word": "Muslim"
+        },
+        {
+          "t": "souligne",
+          "target": "POUPÉES",
+          "word": "poupées"
+        },
+        {
+          "t": "musique_basse"
+        }
+      ],
+      "id": "l7",
+      "plan": "cu",
+      "rec": true,
+      "text": "[serious] Et Sahih Muslim, 1422 : quand elle est arrivée chez lui, à neuf ans… [quiet] ses poupées étaient avec elle. [pause] Ses poupées, Tariq.",
+      "who": "ichtus"
+    },
+    {
+      "dur": 3.69,
+      "durFor": "[nervous] Bon… [defensive] En vrai, des chercheurs disent qu'elle avait dix-huit ans !",
+      "expr": "hesitant",
+      "fx": [
+        {
+          "t": "sueur",
+          "word": "chercheurs"
+        }
+      ],
+      "id": "l8",
+      "plan": "cu",
+      "rec": true,
+      "src": "m1422",
+      "text": "[nervous] Bon… [defensive] En vrai, des chercheurs disent qu'elle avait dix-huit ans !",
+      "who": "tariq"
+    },
+    {
+      "dur": 9.38,
+      "durFor": "[amused] Ah ! Donc maintenant, Bukhari se trompe ? [pointed] Le livre le plus authentique après le Coran… [emphatic] et c'est Aïcha elle-même qui donne son âge, dans Bukhari ET dans Muslim !",
+      "expr": "amuse",
+      "id": "l9",
+      "plan": "cu",
+      "rec": true,
+      "src": "b5133",
+      "text": "[amused] Ah ! Donc maintenant, Bukhari se trompe ? [pointed] Le livre le plus authentique après le Coran… [emphatic] et c'est Aïcha elle-même qui donne son âge, dans Bukhari ET dans Muslim !",
+      "who": "sham"
+    },
+    {
+      "dur": 6.39,
+      "durFor": "[laughs] AHAHA ! [teasing] Mon frère, quand le hadith t'arrange, il est sahih… [amused] et quand il te dérange, il devient faible !",
+      "expr": "rire",
+      "fx": [
+        {
+          "t": "haha"
+        },
+        {
+          "color": "vert",
+          "t": "texte",
+          "target": "haut",
+          "text": "« SAHIH… QUAND ÇA M’ARRANGE »",
+          "word": "dérange"
+        }
+      ],
+      "id": "l10",
+      "plan": "cu",
+      "rec": true,
+      "text": "[laughs] AHAHA ! [teasing] Mon frère, quand le hadith t'arrange, il est sahih… [amused] et quand il te dérange, il devient faible !",
+      "who": "ichtus"
+    },
+    {
+      "dur": 2.8,
+      "durFor": "[annoyed] Arrête ! Tu juges tout avec aujourd'hui !",
+      "expr": "enerve",
+      "id": "l11",
+      "plan": "cu",
+      "rec": true,
+      "text": "[annoyed] Arrête ! Tu juges tout avec aujourd'hui !",
+      "who": "tariq"
+    },
+    {
+      "dur": 6.99,
+      "durFor": "[calm] Non, Tariq. C'est toi qui as jugé. [pointed] Tout à l'heure, tu disais quoi de ceux qui font ça avec des fillettes ?",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "zoom",
+          "word": "fillettes"
+        }
+      ],
+      "id": "l12",
+      "plan": "cu",
+      "rec": true,
+      "text": "[calm] Non, Tariq. C'est toi qui as jugé. [pointed] Tout à l'heure, tu disais quoi de ceux qui font ça avec des fillettes ?",
+      "who": "sham"
+    },
+    {
+      "dur": 2.2,
+      "durFor": "[hesitant] Euh… [reluctant] que… ce sont des fous.",
+      "expr": "hesitant",
+      "fx": [
+        {
+          "t": "sueur",
+          "word": "fous"
+        }
+      ],
+      "id": "l13",
+      "plan": "cu",
+      "rec": true,
+      "text": "[hesitant] Euh… [reluctant] que… ce sont des fous.",
+      "who": "tariq"
+    },
+    {
+      "dur": 4.89,
+      "durFor": "[pointed] Tu vois ? Tu condamnes chez les autres… [emphatic] ce que tu acceptes chez ton prophète.",
+      "expr": "sur",
+      "fx": [
+        {
+          "color": "rouge",
+          "t": "stamp",
+          "target": "centre",
+          "text": "DEUX POIDS, DEUX MESURES",
+          "word": "acceptes"
+        }
+      ],
+      "id": "l14",
+      "plan": "cu",
+      "rec": true,
+      "text": "[pointed] Tu vois ? Tu condamnes chez les autres… [emphatic] ce que tu acceptes chez ton prophète.",
+      "who": "sham"
+    },
+    {
+      "dur": 5.49,
+      "durFor": "[serious] « C'était normal à l'époque », ça marche pour un homme ordinaire. [pointed] Pas pour le modèle éternel.",
+      "expr": "insistant",
+      "id": "l15",
+      "plan": "cu",
+      "rec": true,
+      "text": "[serious] « C'était normal à l'époque », ça marche pour un homme ordinaire. [pointed] Pas pour le modèle éternel.",
+      "who": "ichtus"
+    },
+    {
+      "dur": 5.49,
+      "durFor": "[sighs] Bon… Bien joué pour cette fois-ci. [determined] Je reviendrai avec un autre argument… [proud] Celui-là, il sera IMBATTABLE !",
+      "expr": "boude",
+      "fx": [
+        {
+          "expr": "triomphant",
+          "plan": "cu",
+          "t": "cut",
+          "word": "IMBATTABLE"
+        }
+      ],
+      "id": "l16",
+      "plan": "cu",
+      "rec": true,
+      "text": "[sighs] Bon… Bien joué pour cette fois-ci. [determined] Je reviendrai avec un autre argument… [proud] Celui-là, il sera IMBATTABLE !",
+      "who": "tariq"
+    },
+    {
+      "id": "s1",
+      "rec": false,
+      "text": "Carton final : ARGUMENTS 2.0 RÉFUTÉS · À SUIVRE · encadré SOURCES (Coran 33:21 · Sahih al-Bukhari 5133 · Sahih Muslim 1422c).",
+      "who": "scene"
+    }
+  ],
+  "moment": "crepuscule",
+  "order": 4,
+  "title": "« Normal à l'époque »",
+  "univers": "rue",
+  "updated": "2026-10-24T09:50:00Z",
+  "voices": {}
+}

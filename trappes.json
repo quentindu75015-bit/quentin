@@ -1,0 +1,445 @@
+{
+  "cards": [
+    {
+      "id": "faits",
+      "lines": "Un jeune homme de 26 ans tué\nCinq blessés, dont une fillette de 12 ans\nEnquête du parquet national antiterroriste",
+      "sub": "vendredi 23 octobre 2026",
+      "title": "Trappes · La Verrière",
+      "tpl": "parchemin"
+    },
+    {
+      "id": "horsserie",
+      "sub": "TARIQ ET SES ARGUMENTS 2.0\nTRAPPES · LA VERRIÈRE · 23 OCTOBRE 2026",
+      "title": "HORS-SÉRIE",
+      "tpl": "titre"
+    },
+    {
+      "id": "ecrans",
+      "scene": "ecransB",
+      "tpl": "illus"
+    },
+    {
+      "id": "pion",
+      "scene": "pionB",
+      "tpl": "illus"
+    },
+    {
+      "id": "memorial",
+      "photo": "/tmp/claude-0/-home-claude/3754c5d2-8062-5841-bba1-b771e3ee85a0/scratchpad/ep10/assets/memorial_photo.png",
+      "scene": "memorialP",
+      "tpl": "illus"
+    },
+    {
+      "id": "maison",
+      "scene": "maison",
+      "tpl": "illus"
+    },
+    {
+      "id": "hopital",
+      "scene": "hopital",
+      "tpl": "illus"
+    },
+    {
+      "id": "commerce",
+      "scene": "commerce",
+      "tpl": "illus"
+    },
+    {
+      "id": "souffle",
+      "scene": "souffle",
+      "tpl": "illus"
+    },
+    {
+      "id": "veillee",
+      "scene": "veilleeB",
+      "tpl": "illus"
+    },
+    {
+      "id": "coeur",
+      "scene": "coeurB",
+      "tpl": "illus"
+    },
+    {
+      "id": "chambre",
+      "scene": "chambreB",
+      "tpl": "illus"
+    },
+    {
+      "id": "fenetre",
+      "scene": "fenetre",
+      "tpl": "illus"
+    },
+    {
+      "id": "voiture",
+      "scene": "voitureC",
+      "tpl": "illus"
+    },
+    {
+      "id": "noir",
+      "scene": "noir",
+      "tpl": "illus"
+    }
+  ],
+  "cast": [],
+  "end1": "PERSONNE NE MÉRITE DE MOURIR POUR CE QU’IL EST",
+  "end2": "En mémoire des victimes de Trappes et La Verrière · pensées aux victimes des émeutes",
+  "endNote": "",
+  "endRefs": "France Inter · Recto Verso (25 octobre 2026)\nCBS News · Al Jazeera (23-24 octobre 2026)",
+  "endTitle": "QUE CHACUN VEILLE À SON CŒUR",
+  "hook": {
+    "badge": "HORS-SÉRIE",
+    "lines": [
+      {
+        "fx": [
+          {
+            "color": "creme",
+            "t": "texte",
+            "target": "bas",
+            "text": "TRAPPES · 23 OCTOBRE · LE MATIN"
+          },
+          {
+            "t": "zoom_lent"
+          }
+        ],
+        "id": "pre1",
+        "pause": 4.5,
+        "plan": "card:chambre",
+        "rec": false,
+        "text": "Ouverture muette : un homme seul, de dos, devant un écran plein de commentaires haineux.",
+        "who": "scene"
+      },
+      {
+        "id": "pre2",
+        "pause": 2.5,
+        "plan": "card:fenetre",
+        "rec": false,
+        "text": "À travers les stores, des passants ordinaires dans la rue.",
+        "who": "scene"
+      },
+      {
+        "id": "pre3",
+        "pause": 5,
+        "plan": "card:voiture",
+        "rec": false,
+        "text": "Il regarde dans son coffre, le referme, marche jusqu'à la portière, monte et démarre lentement (ni arme ni victime montrées).",
+        "who": "scene"
+      },
+      {
+        "id": "pre4",
+        "pause": 0.5,
+        "plan": "card:noir",
+        "rec": false,
+        "text": "Noir.",
+        "who": "scene"
+      },
+      {
+        "dur": 3.3,
+        "durFor": "[quiet] T'as vu ce qui s'est passé à Trappes ?",
+        "expr": "neutre",
+        "fx": [
+          {
+            "t": "zoom_lent"
+          }
+        ],
+        "id": "h1",
+        "plan": "wide",
+        "rec": true,
+        "text": "[quiet] T'as vu ce qui s'est passé à Trappes ?",
+        "who": "tariq"
+      },
+      {
+        "dur": 3.3,
+        "durFor": "[somber] Ouais… [sighs] J'arrive pas à me l'enlever de la tête.",
+        "expr": "pensif",
+        "fx": [
+          {
+            "t": "zoom_lent"
+          },
+          {
+            "t": "musique_basse"
+          }
+        ],
+        "id": "h2",
+        "plan": "cu",
+        "rec": true,
+        "text": "[somber] Ouais… [sighs] J'arrive pas à me l'enlever de la tête.",
+        "who": "sham"
+      }
+    ],
+    "text1": "TRAPPES · 23 OCTOBRE",
+    "text2": "DES VIES DEVENUES DES ARGUMENTS"
+  },
+  "jingle": false,
+  "lines": [
+    {
+      "id": "hs",
+      "pause": 3,
+      "plan": "card:horsserie",
+      "rec": false,
+      "text": "Carton « HORS-SÉRIE » (3 s, note grave).",
+      "who": "scene"
+    },
+    {
+      "dur": 7.17,
+      "durFor": "[sad] Moi non plus. [bitter] Et le pire, c'est que le soir même, à la télé, tout le monde se battait déjà dessus.",
+      "expr": "hesitant",
+      "fx": [
+        {
+          "plan": "card:ecrans",
+          "t": "cut",
+          "word": "télé"
+        }
+      ],
+      "id": "l1",
+      "plan": "cu",
+      "rec": true,
+      "text": "[sad] Moi non plus. [bitter] Et le pire, c'est que le soir même, à la télé, tout le monde se battait déjà dessus.",
+      "who": "tariq"
+    },
+    {
+      "dur": 11.05,
+      "durFor": "[sighs] C'est ça qui me fait le plus mal. Ce climat médiatique très pesant… où les vies ou le malheur des autres ne servent qu'à nourrir la popularité d'un parti politique… ou d'un autre.",
+      "expr": "sur",
+      "fx": [
+        {
+          "plan": "card:ecrans",
+          "t": "cut",
+          "word": "climat"
+        },
+        {
+          "t": "zoom",
+          "word": "popularité"
+        }
+      ],
+      "id": "l2",
+      "plan": "cu",
+      "rec": true,
+      "text": "[sighs] C'est ça qui me fait le plus mal. Ce climat médiatique très pesant… où les vies ou le malheur des autres ne servent qu'à nourrir la popularité d'un parti politique… ou d'un autre.",
+      "who": "sham"
+    },
+    {
+      "dur": 4.92,
+      "durFor": "[bitter] À peine le deuil fait de la famille… ça alimente déjà la bataille politique.",
+      "expr": "boude",
+      "id": "l3",
+      "plan": "ots",
+      "rec": true,
+      "text": "[bitter] À peine le deuil fait de la famille… ça alimente déjà la bataille politique.",
+      "who": "tariq"
+    },
+    {
+      "dur": 8.14,
+      "durFor": "[serious] L'être humain a été déshumanisé. Sa douleur, ses émotions, son identité… jusqu'à même sa vie. [pointed] Tout est réutilisé médiatiquement, contre ou pour tel parti.",
+      "expr": "sur",
+      "fx": [
+        {
+          "plan": "card:pion",
+          "t": "cut",
+          "word": "douleur"
+        }
+      ],
+      "id": "l4",
+      "plan": "cu",
+      "rec": true,
+      "text": "[serious] L'être humain a été déshumanisé. Sa douleur, ses émotions, son identité… jusqu'à même sa vie. [pointed] Tout est réutilisé médiatiquement, contre ou pour tel parti.",
+      "who": "sham"
+    },
+    {
+      "dur": 3.3,
+      "durFor": "[quiet] Comme si c'étaient plus des personnes… juste des arguments.",
+      "expr": "neutre",
+      "id": "l5",
+      "plan": "cu",
+      "rec": true,
+      "text": "[quiet] Comme si c'étaient plus des personnes… juste des arguments.",
+      "who": "tariq"
+    },
+    {
+      "dur": 8.79,
+      "durFor": "[sad] Ce frère de vingt-six ans… tué juste parce qu'il était noir. [firm] La couleur de sa peau a été le seul prétexte pour qu'il perde la vie.",
+      "expr": "pensif",
+      "fx": [],
+      "id": "l6",
+      "plan": "card:memorial",
+      "rec": true,
+      "text": "[sad] Ce frère de vingt-six ans… tué juste parce qu'il était noir. [firm] La couleur de sa peau a été le seul prétexte pour qu'il perde la vie.",
+      "who": "sham"
+    },
+    {
+      "dur": 2.34,
+      "durFor": "[shaken] Et la petite de douze ans…",
+      "expr": "hesitant",
+      "id": "l7",
+      "plan": "ots",
+      "rec": true,
+      "text": "[shaken] Et la petite de douze ans…",
+      "who": "tariq"
+    },
+    {
+      "dur": 10.08,
+      "durFor": "[softly] Elle était sûrement sortie souriante de chez elle… [sad] et ce jour-là, elle n'a pas remis le pied dans la maison de sa famille. Elle a fini sur un lit d'hôpital.",
+      "expr": "pensif",
+      "fx": [
+        {
+          "plan": "card:hopital",
+          "t": "cut",
+          "word": "fini"
+        }
+      ],
+      "id": "l8",
+      "pause": 0.5,
+      "plan": "card:maison",
+      "rec": true,
+      "text": "[softly] Elle était sûrement sortie souriante de chez elle… [sad] et ce jour-là, elle n'a pas remis le pied dans la maison de sa famille. Elle a fini sur un lit d'hôpital.",
+      "who": "sham"
+    },
+    {
+      "dur": 6.21,
+      "durFor": "[sad] Et les petits commerçants, lésés après les émeutes… eux aussi, on en parle, et puis on les oublie.",
+      "expr": "hesitant",
+      "fx": [],
+      "id": "l9",
+      "plan": "card:commerce",
+      "rec": true,
+      "text": "[sad] Et les petits commerçants, lésés après les émeutes… eux aussi, on en parle, et puis on les oublie.",
+      "who": "tariq"
+    },
+    {
+      "dur": 9.43,
+      "durFor": "[firm] Tout ça à cause de la haine qui pèse… [serious] Le souffle de vie d'une personne devient un objet, utile seulement pour faire prospérer un parti… ou un autre.",
+      "expr": "sur",
+      "fx": [
+        {
+          "plan": "card:souffle",
+          "t": "cut",
+          "word": "souffle"
+        }
+      ],
+      "id": "l10",
+      "plan": "cu",
+      "rec": true,
+      "text": "[firm] Tout ça à cause de la haine qui pèse… [serious] Le souffle de vie d'une personne devient un objet, utile seulement pour faire prospérer un parti… ou un autre.",
+      "who": "sham"
+    },
+    {
+      "dur": 2.34,
+      "durFor": "[quiet] Alors… on fait quoi, nous ?",
+      "expr": "neutre",
+      "id": "l11",
+      "plan": "ots",
+      "rec": true,
+      "text": "[quiet] Alors… on fait quoi, nous ?",
+      "who": "tariq"
+    },
+    {
+      "dur": 6.53,
+      "durFor": "[warm] On commence par soi-même. [serious] Avant de choisir un camp, se rappeler qu'en face… il y a un être humain.",
+      "expr": "pensif",
+      "fx": [],
+      "id": "l12",
+      "plan": "ots",
+      "rec": true,
+      "text": "[warm] On commence par soi-même. [serious] Avant de choisir un camp, se rappeler qu'en face… il y a un être humain.",
+      "who": "sham"
+    },
+    {
+      "dur": 2.01,
+      "durFor": "[thoughtful] Chacun peut garder ses idées…",
+      "expr": "neutre",
+      "id": "l13",
+      "plan": "cu",
+      "rec": true,
+      "text": "[thoughtful] Chacun peut garder ses idées…",
+      "who": "tariq"
+    },
+    {
+      "dur": 5.56,
+      "durFor": "[firm] Bien sûr. Mais aucune idée ne donne le droit de toucher à la vie de l'autre.",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "zoom",
+          "word": "vie"
+        }
+      ],
+      "id": "l14",
+      "plan": "cu",
+      "rec": true,
+      "text": "[firm] Bien sûr. Mais aucune idée ne donne le droit de toucher à la vie de l'autre.",
+      "who": "sham"
+    },
+    {
+      "dur": 3.63,
+      "durFor": "[softly] Une idée, ça se discute. [pause] Une vie, ça se respecte.",
+      "expr": "pensif",
+      "fx": [
+        {
+          "color": "creme",
+          "t": "texte",
+          "target": "citation",
+          "text": "Une idée, ça se discute. · Une vie, ça se respecte.",
+          "word": "vie"
+        }
+      ],
+      "id": "l15",
+      "plan": "cu",
+      "rec": true,
+      "text": "[softly] Une idée, ça se discute. [pause] Une vie, ça se respecte.",
+      "who": "sham"
+    },
+    {
+      "dur": 13.3,
+      "durFor": "[solemn] Pensées aux victimes, et à leurs familles. [sad] Aux victimes défigurées des émeutes, aux petits commerçants qui devaient nourrir leurs familles. [sharp exhale] Et aux autorités qui essaient de faire régner la justice sans faire de mal.",
+      "expr": "pensif",
+      "fx": [
+        {
+          "t": "zoom_lent"
+        },
+        {
+          "plan": "card:commerce",
+          "t": "cut",
+          "word": "commerçants"
+        },
+        {
+          "plan": "card:veillee",
+          "t": "cut",
+          "word": "autorités"
+        }
+      ],
+      "id": "l16",
+      "pause": 0.9,
+      "plan": "card:veillee",
+      "rec": true,
+      "text": "[solemn] Pensées aux victimes, et à leurs familles. [sad] Aux victimes défigurées des émeutes, aux petits commerçants qui devaient nourrir leurs familles. [sharp exhale] Et aux autorités qui essaient de faire régner la justice sans faire de mal.",
+      "who": "sham"
+    },
+    {
+      "dur": 2.66,
+      "durFor": "[long pause] Et que chacun veille à son cœur.",
+      "expr": "pensif",
+      "fx": [
+        {
+          "t": "zoom_lent"
+        }
+      ],
+      "id": "l17",
+      "pause": 1.2,
+      "plan": "card:coeur",
+      "rec": true,
+      "text": "[long pause] Et que chacun veille à son cœur.",
+      "who": "sham"
+    },
+    {
+      "id": "s1",
+      "rec": false,
+      "text": "Carton final : « QUE CHACUN VEILLE À SON CŒUR » · En mémoire des victimes de Trappes et La Verrière · pensées aux victimes des émeutes · sources.",
+      "who": "scene"
+    }
+  ],
+  "moment": "nuit",
+  "order": 5,
+  "title": "Hors-série · Trappes · Que chacun veille à son cœur",
+  "univers": "rooftop",
+  "updated": "2026-10-25T21:30:00Z",
+  "voices": {}
+}

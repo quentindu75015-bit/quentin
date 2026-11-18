@@ -1,0 +1,332 @@
+{
+  "cards": [
+    {
+      "arabic": "اسْمَعُوا وَأَطِيعُوا وَإِنِ اسْتُعْمِلَ عَلَيْكُمْ عَبْدٌ حَبَشِيٌّ كَأَنَّ رَأْسَهُ زَبِيبَةٌ",
+      "id": "bukhari",
+      "lines": "« ÉCOUTEZ ET OBÉISSEZ, MÊME SI L'ON PLACE À VOTRE TÊTE\nUN ESCLAVE ABYSSIN DONT LA TÊTE EST COMME UN RAISIN SEC »",
+      "refDetail": "rapporté par Anas",
+      "refName": "Ṣaḥīḥ al-Bukhārī",
+      "refNum": "n° 7142",
+      "sub": "HADITH",
+      "title": "SAHIH AL-BUKHARI",
+      "tpl": "parchemin",
+      "url": "sunnah.com/bukhari:7142"
+    },
+    {
+      "arabic": "وإنما شبه رأس الحبشي بالزبيبة لتجمعها ولكون شعره أسود … وهو تمثيل في الحقارة وبشاعة الصورة وعدم الاعتداد بها",
+      "id": "ibnhajar",
+      "lines": "« UNE IMAGE DE LA BASSESSE, DE LA LAIDEUR DE L'APPARENCE\nET DU PEU DE CONSIDÉRATION QU'ON LUI ACCORDE »",
+      "refDetail": "Ibn Ḥajar al-ʿAsqalānī",
+      "refName": "Fatḥ al-bārī",
+      "refNum": "XIII, p. 131",
+      "sub": "FATḤ AL-BĀRĪ",
+      "title": "IBN HAJAR",
+      "tpl": "parchemin",
+      "url": "islamweb.net · Fatḥ al-bārī 13/131"
+    },
+    {
+      "arabic": "وشعر رأسه مقطقط إشارة إلى بشاعة صورته",
+      "id": "munawi",
+      "lines": "« SES CHEVEUX SONT TRÈS FRISÉS,\nCE QUI INDIQUE LA LAIDEUR DE SON APPARENCE »",
+      "refDetail": "al-Munāwī",
+      "refName": "Fayḍ al-qadīr",
+      "refNum": "I, p. 513",
+      "sub": "FAYḌ AL-QADĪR",
+      "title": "AL-MUNAWI",
+      "tpl": "parchemin",
+      "url": "Fayḍ al-qadīr 1/513"
+    },
+    {
+      "arabic": "فإن العبد خسيس في العادة، ثم سواده نقص آخر",
+      "id": "nawawi",
+      "lines": "« L'ESCLAVE EST VIL D'ORDINAIRE,\nPUIS SA NOIRCEUR EST UN DÉFAUT SUPPLÉMENTAIRE »",
+      "refDetail": "al-Nawawī, hadith d'Umm al-Ḥuṣayn",
+      "refName": "Sharḥ Ṣaḥīḥ Muslim",
+      "refNum": "IX, p. 421",
+      "sub": "SHARḤ ṢAḤĪḤ MUSLIM",
+      "title": "AL-NAWAWI",
+      "tpl": "parchemin",
+      "url": "islamweb.net · Sharḥ Muslim 9/421"
+    },
+    {
+      "book": "bible",
+      "hebrew": "וַתְּדַבֵּר מִרְיָם וְאַהֲרֹן בְּמֹשֶׁה עַל־אֹדוֹת הָאִשָּׁה הַכֻּשִׁית",
+      "id": "nombres",
+      "lines": "« MARIE ET AARON PARLÈRENT CONTRE MOÏSE\nAU SUJET DE LA FEMME ÉTHIOPIENNE QU'IL AVAIT PRISE »\n« MARIE ÉTAIT FRAPPÉE D'UNE LÈPRE, BLANCHE COMME LA NEIGE »",
+      "refDetail": "Louis Segond 1910",
+      "refName": "Nombres",
+      "refNum": "12, 1 · 12, 10",
+      "sub": "1 ET 10",
+      "title": "NOMBRES 12",
+      "tpl": "livre",
+      "url": "Nombres 12"
+    }
+  ],
+  "cast": [
+    {
+      "key": "tariq",
+      "name": "Tariq"
+    },
+    {
+      "key": "sham",
+      "name": "Sham"
+    },
+    {
+      "key": "ichtus",
+      "name": "JMS"
+    },
+    {
+      "key": "foule",
+      "name": "La foule (figurants)"
+    }
+  ],
+  "end1": "BUKHARI 7142 · IBN HAJAR · AL-MUNAWI · AL-NAWAWI",
+  "end2": "NOMBRES 12 : CELLE QUI MÉPRISE EST RÉPRIMANDÉE",
+  "endRefs": "Ṣaḥīḥ al-Bukhārī 7142 · Fatḥ al-bārī 13/131 · Fayḍ al-qadīr 1/513 · Sharḥ Ṣaḥīḥ Muslim 9/421 · Nombres 12,1 et 12,10 (Segond 1910)",
+  "endTitle": "L'ÉTHIOPIEN ET LE RAISIN SEC",
+  "hook": {
+    "badge": "TARIQ ET SES ARGUMENTS 2.0",
+    "lines": [
+      {
+        "dur": 8.53,
+        "durFor": "[fier, triomphant] Vous voyez ? Le Prophète a dit : obéissez, même à un esclave éthiopien dont la tête est comme un raisin sec ! [satisfait] L'islam, c'est l'égalité !",
+        "expr": "triomphant",
+        "fx": [],
+        "id": "h1",
+        "plan": "wide",
+        "rec": true,
+        "text": "[fier, triomphant] Vous voyez ? Le Prophète a dit : obéissez, même à un esclave éthiopien dont la tête est comme un raisin sec ! [satisfait] L'islam, c'est l'égalité !",
+        "who": "tariq"
+      },
+      {
+        "dur": 1.6,
+        "durFor": "[foule enthousiaste, cris] Ouiiiii, TARIQ !",
+        "expr": "neutre",
+        "fx": [
+          {
+            "t": "foule",
+            "word": "TARIQ"
+          },
+          {
+            "color": "dore",
+            "t": "texte",
+            "text": "OUIIII, TARIQ !",
+            "word": "TARIQ"
+          }
+        ],
+        "id": "h1b",
+        "plan": "wide",
+        "rec": true,
+        "text": "[foule enthousiaste, cris] Ouiiiii, TARIQ !",
+        "who": "foule"
+      },
+      {
+        "dur": 7.92,
+        "durFor": "[choqué, criant] WHAT ?! WHAT ?! Il fout quoi, Tariq ?! [incrédule] Pourquoi il compare la tête de l'homme éthiopien noir à une tête de raisin sec ?",
+        "expr": "incredule",
+        "fx": [
+          {
+            "t": "shake",
+            "word": "WHAT"
+          },
+          {
+            "color": "jaune",
+            "t": "texte",
+            "text": "WHAT ?!",
+            "word": "WHAT"
+          }
+        ],
+        "id": "h2",
+        "plan": "cu:ichtus",
+        "rec": true,
+        "text": "[choqué, criant] WHAT ?! WHAT ?! Il fout quoi, Tariq ?! [incrédule] Pourquoi il compare la tête de l'homme éthiopien noir à une tête de raisin sec ?",
+        "who": "ichtus"
+      }
+    ],
+    "text1": "« UNE TÊTE COMME UN RAISIN SEC »",
+    "text2": "PREUVE D'ÉGALITÉ ?"
+  },
+  "jingle": true,
+  "lines": [
+    {
+      "dur": 10.08,
+      "durFor": "[posé] Le hadith existe bien. Sahih al-Bukhari, hadith 7142 : [lisant] « Écoutez et obéissez, même si l'on place à votre tête un esclave éthiopien dont la tête est comme un raisin sec. »",
+      "expr": "sur",
+      "fx": [],
+      "id": "l2",
+      "plan": "card:bukhari",
+      "rec": true,
+      "text": "[posé] Le hadith existe bien. Sahih al-Bukhari, hadith 7142 : [lisant] « Écoutez et obéissez, même si l'on place à votre tête un esclave éthiopien dont la tête est comme un raisin sec. »",
+      "who": "sham"
+    },
+    {
+      "dur": 3.29,
+      "durFor": "[éclate de rire] AHAHAHAH ! Mais attends, c'est quoi ce délire, là ?",
+      "expr": "rire",
+      "id": "lzz7eck4",
+      "plan": "cu:ichtus",
+      "rec": true,
+      "text": "[éclate de rire] AHAHAHAH ! Mais attends, c'est quoi ce délire, là ?",
+      "who": "ichtus"
+    },
+    {
+      "dur": 2.05,
+      "durFor": "[soupir, amusé] Ahlala, JMS… moi-même, j'en reviens pas.",
+      "expr": "blase",
+      "id": "lop9npm4",
+      "plan": "cu:sham",
+      "rec": true,
+      "text": "[soupir, amusé] Ahlala, JMS… moi-même, j'en reviens pas.",
+      "who": "sham"
+    },
+    {
+      "dur": 8.53,
+      "durFor": "[riant] AHAHAH, eh, mon ventre ! [curieux] Mais sérieux, pourquoi il compare la tête de l'homme noir éthiopien à une tête de raisin sec… c'est quoi le rapport ?",
+      "expr": "rire",
+      "id": "l9o8gzl4",
+      "plan": "cu:ichtus",
+      "rec": true,
+      "text": "[riant] AHAHAH, eh, mon ventre ! [curieux] Mais sérieux, pourquoi il compare la tête de l'homme noir éthiopien à une tête de raisin sec… c'est quoi le rapport ?",
+      "who": "ichtus"
+    },
+    {
+      "dur": 6.68,
+      "durFor": "[agacé, sûr de lui] Mais attends, tu parles pas arabe, tu peux pas comprendre le hadith ! [insistant] Faut lire ce que disent les savants !",
+      "expr": "enerve",
+      "fx": [],
+      "id": "lt1",
+      "plan": "cu:tariq",
+      "rec": true,
+      "text": "[agacé, sûr de lui] Mais attends, tu parles pas arabe, tu peux pas comprendre le hadith ! [insistant] Faut lire ce que disent les savants !",
+      "who": "tariq"
+    },
+    {
+      "dur": 6.99,
+      "durFor": "[amusé, défiant] Ah oui ? Tu veux qu'on prenne les savants ? [confiant] Bah vas-y, on va prendre tes savants pour mieux comprendre le hadith.",
+      "expr": "clin",
+      "fx": [],
+      "id": "ls1",
+      "plan": "cu:sham",
+      "rec": true,
+      "text": "[amusé, défiant] Ah oui ? Tu veux qu'on prenne les savants ? [confiant] Bah vas-y, on va prendre tes savants pour mieux comprendre le hadith.",
+      "who": "sham"
+    },
+    {
+      "dur": 18.72,
+      "durFor": "[posé] Et Ibn Hajar répond à ta question, dans Fath al-Bari, tome 13 : [lisant] « Il a comparé la tête de l'Éthiopien au raisin sec, parce qu'elle est ramassée et que ses cheveux sont noirs. » [appuyé] Et il ajoute : [lisant] « C'est une image de la bassesse, de la laideur de l'apparence et du peu de considération qu'on lui accorde. »",
+      "expr": "sur",
+      "fx": [],
+      "id": "l4",
+      "plan": "card:ibnhajar",
+      "rec": true,
+      "text": "[posé] Et Ibn Hajar répond à ta question, dans Fath al-Bari, tome 13 : [lisant] « Il a comparé la tête de l'Éthiopien au raisin sec, parce qu'elle est ramassée et que ses cheveux sont noirs. » [appuyé] Et il ajoute : [lisant] « C'est une image de la bassesse, de la laideur de l'apparence et du peu de considération qu'on lui accorde. »",
+      "who": "sham"
+    },
+    {
+      "dur": 6.06,
+      "durFor": "[incrédule] La laideur ?! Eh, mais c'est vraiment des oufs, ces savants ?! Juste à cause de ses cheveux ?",
+      "expr": "incredule",
+      "fx": [],
+      "id": "l5",
+      "plan": "auto",
+      "rec": true,
+      "text": "[incrédule] La laideur ?! Eh, mais c'est vraiment des oufs, ces savants ?! Juste à cause de ses cheveux ?",
+      "who": "ichtus"
+    },
+    {
+      "dur": 7.92,
+      "durFor": "[posé] Al-Munawi va dans le même sens, dans Fayd al-Qadir : [lisant] « Ses cheveux sont très frisés, ce qui indique la laideur de son apparence. »",
+      "expr": "sur",
+      "fx": [],
+      "id": "l6",
+      "plan": "card:munawi",
+      "rec": true,
+      "text": "[posé] Al-Munawi va dans le même sens, dans Fayd al-Qadir : [lisant] « Ses cheveux sont très frisés, ce qui indique la laideur de son apparence. »",
+      "who": "sham"
+    },
+    {
+      "dur": 6.37,
+      "durFor": "[whispers] Mais waaah, imagine t'as des cheveux crépus et tu entends ça… [réfléchi] Et sa couleur de peau, personne n'en parle ?",
+      "expr": "pensif",
+      "fx": [],
+      "id": "l7",
+      "plan": "auto",
+      "rec": true,
+      "text": "[whispers] Mais waaah, imagine t'as des cheveux crépus et tu entends ça… [réfléchi] Et sa couleur de peau, personne n'en parle ?",
+      "who": "ichtus"
+    },
+    {
+      "dur": 3.29,
+      "durFor": "[sérieux] Mais c'est pas tout, JMS. Écoute ce que dit l'imam al-Nawawi.",
+      "id": "lwuhp13f",
+      "plan": "auto",
+      "rec": true,
+      "text": "[sérieux] Mais c'est pas tout, JMS. Écoute ce que dit l'imam al-Nawawi.",
+      "who": "sham"
+    },
+    {
+      "dur": 7.61,
+      "durFor": "[grave] Dans son commentaire de Sahih Muslim, sur un hadith voisin : [lisant, lent] « L'esclave est vil d'ordinaire, puis sa noirceur est un défaut supplémentaire. »",
+      "expr": "sur",
+      "fx": [],
+      "id": "l8",
+      "plan": "card:nawawi",
+      "rec": true,
+      "text": "[grave] Dans son commentaire de Sahih Muslim, sur un hadith voisin : [lisant, lent] « L'esclave est vil d'ordinaire, puis sa noirceur est un défaut supplémentaire. »",
+      "who": "sham"
+    },
+    {
+      "dur": 5.45,
+      "durFor": "[choqué] Sa noirceur… un défaut ? En plus, un défaut supplémentaire ?! [criant] MAIS ON EST OÙ, LÀ ?!",
+      "expr": "incredule",
+      "fx": [],
+      "id": "l9",
+      "plan": "auto",
+      "rec": true,
+      "text": "[choqué] Sa noirceur… un défaut ? En plus, un défaut supplémentaire ?! [criant] MAIS ON EST OÙ, LÀ ?!",
+      "who": "ichtus"
+    },
+    {
+      "dur": 2.05,
+      "durFor": "[hésitant] Euh… C'est juste une image !",
+      "expr": "hesitant",
+      "fx": [],
+      "id": "l9b",
+      "plan": "cu:tariq",
+      "rec": true,
+      "text": "[hésitant] Euh… C'est juste une image !",
+      "who": "tariq"
+    },
+    {
+      "dur": 6.37,
+      "durFor": "[amer] C'est juste une image… et ce n'est pas si grave, puisque ce n'est pas de ta communauté qu'on parle !",
+      "expr": "solennel",
+      "fx": [],
+      "id": "l11",
+      "plan": "auto",
+      "rec": true,
+      "text": "[amer] C'est juste une image… et ce n'est pas si grave, puisque ce n'est pas de ta communauté qu'on parle !",
+      "who": "ichtus"
+    },
+    {
+      "dur": 9.77,
+      "durFor": "[sérieux] Exactement. [bored] Déjà qu'un prophète compare la tête d'un homme africain à une tête de raisin sec… [appuyé] Mais en plus de cela, que l'homme noir éthiopien soit utilisé comme symbole d'infériorité !",
+      "id": "l5n0usoj",
+      "plan": "auto",
+      "rec": true,
+      "text": "[sérieux] Exactement. [bored] Déjà qu'un prophète compare la tête d'un homme africain à une tête de raisin sec… [appuyé] Mais en plus de cela, que l'homme noir éthiopien soit utilisé comme symbole d'infériorité !",
+      "who": "sham"
+    }
+  ],
+  "moment": "jour",
+  "order": 14,
+  "title": "L'Éthiopien à la tête de raisin sec",
+  "univers": "rue",
+  "updated": "2026-11-17T19:22:57.820Z",
+  "voices": {
+    "foule": "3-4 voix de la bibliothèque superposées (ou ElevenLabs Sound Effects)",
+    "ichtus": "JMS",
+    "sham": "Quentin – Clone",
+    "tariq": "Mouhcine – French"
+  }
+}

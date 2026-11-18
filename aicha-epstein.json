@@ -1,0 +1,532 @@
+{
+  "cards": [
+    {
+      "arabic": "أن النبي ﷺ تزوجها وهي بنت ست سنين، وأدخلت عليه وهي بنت تسع، ومكثت عنده تسعا",
+      "id": "bukhari",
+      "lines": "« LE PROPHÈTE L'ÉPOUSA QUAND ELLE AVAIT SIX ANS,\nCONSOMMA LE MARIAGE QUAND ELLE EN AVAIT NEUF,\nET ELLE RESTA AVEC LUI NEUF ANS »",
+      "refBook": "Kitāb al-nikāḥ · livre 67, hadith 69",
+      "refDetail": "récit d’Aïcha",
+      "refName": "Ṣaḥīḥ al-Bukhārī",
+      "refNum": "n° 5133",
+      "sub": "KITAB AN-NIKAH · RÉCIT D’AÏCHA",
+      "title": "SAHIH AL-BUKHARI",
+      "tpl": "parchemin",
+      "url": "sunnah.com/bukhari:5133"
+    },
+    {
+      "arabic": "تزوجني النبي ﷺ وأنا بنت ست سنين، وبنى بي وأنا بنت تسع سنين",
+      "grade": "Authentique (sahih) · al-Albani",
+      "id": "albani",
+      "lines": "« LE PROPHÈTE M'A ÉPOUSÉE QUAND J'AVAIS SIX ANS\nET A CONSOMMÉ LE MARIAGE\nQUAND J'EN AVAIS NEUF »\nVERDICT D'AL-ALBANI : AUTHENTIQUE",
+      "refBook": "Tome 6 · page 230",
+      "refDetail": "al-Albānī",
+      "refName": "Irwāʾ al-ghalīl",
+      "refNum": "n° 1831",
+      "sub": "AL-ALBANI · RÉCIT D’AÏCHA",
+      "title": "IRWA' AL-GHALIL",
+      "tpl": "parchemin",
+      "url": "ablibrary.net · Irwāʾ al-ghalīl 6/230"
+    },
+    {
+      "arabic": "وهي بنت ست سنين […] وهي بنت تسع سنين",
+      "id": "uthaymin",
+      "lines": "« … ALORS QU'ELLE AVAIT SIX ANS […]\nALORS QU'ELLE AVAIT NEUF ANS »",
+      "refBook": "Kitāb al-nikāḥ, enregistrement 07a",
+      "refDetail": "commentaire audio",
+      "refName": "Ibn ʿUthaymīn",
+      "refNum": "Sharḥ al-Bukhārī",
+      "sub": "COMMENTAIRE DU SAHIH AL-BUKHARI",
+      "title": "IBN 'UTHAYMIN",
+      "tpl": "parchemin",
+      "url": "alathar.net · Sharḥ al-Bukhārī 07a"
+    },
+    {
+      "arabic": "وهي بنت ست سنين، وقيل: بنت سبع. وابتنى بها بالمدينة، وهي ابنة تسع، لا أعلمهم اختلفوا في ذلك",
+      "id": "istiab",
+      "lines": "« SIX ANS (OU SEPT)… CONSOMMÉ À MÉDINE À NEUF ANS :\nJE NE LEUR CONNAIS AUCUN DÉSACCORD »",
+      "refBook": "Tome 4 · page 1881",
+      "refDetail": "Ibn ʿAbd al-Barr",
+      "refName": "Al-Istīʿāb",
+      "refNum": "n° 4029",
+      "sub": "AL-ISTI'AB · NOTICE D’AÏCHA",
+      "title": "IBN 'ABD AL-BARR",
+      "tpl": "parchemin",
+      "url": "islamweb.net · al-Istīʿāb"
+    },
+    {
+      "arabic": "تزوجها وهي بنت ست وقيل سبع … ودخل بها وهي بنت تسع",
+      "id": "isaba",
+      "lines": "« IL L'ÉPOUSA À SIX ANS (OU SEPT)…\nIL CONSOMMA LE MARIAGE À NEUF ANS »",
+      "refBook": "Dār al-Kutub al-ʿIlmiyya",
+      "refDetail": "Ibn Ḥajar",
+      "refName": "Al-Iṣāba",
+      "refNum": "Tome 8 · page 232",
+      "sub": "AL-ISABA · NOTICE D’AÏCHA",
+      "title": "IBN HAJAR AL-'ASQALANI",
+      "tpl": "parchemin",
+      "url": "ablibrary.net · al-Iṣāba 8/232"
+    },
+    {
+      "arabic": "تزوجها وهي ابنة ست سنين وبنى بها وهي ابنة تسع ما لا خلاف فيه بين الناس",
+      "id": "ibnkathir",
+      "lines": "« IL L'ÉPOUSA À SIX ANS ET CONSOMMA LE MARIAGE À NEUF ANS :\nAUCUN DÉSACCORD PARMI LES GENS\nC'EST ÉTABLI DANS LES RECUEILS AUTHENTIQUES »",
+      "refBook": "éd. ʿAlī Shīrī",
+      "refDetail": "Ibn Kathīr",
+      "refName": "Al-Bidāya",
+      "refNum": "Tome 3 · page 161",
+      "sub": "AL-BIDAYA WA-L-NIHAYA",
+      "title": "IBN KATHIR",
+      "tpl": "parchemin",
+      "url": "ablibrary.net · al-Bidāya 3/161"
+    },
+    {
+      "id": "choix",
+      "left": "EPSTEIN : DES ENFANTS VICTIMES\nscandale",
+      "right": "AÏCHA : 6 ANS · 9 ANS\n« volonté divine »",
+      "tpl": "balance"
+    }
+  ],
+  "cast": [
+    {
+      "key": "tariq",
+      "name": "Tariq"
+    },
+    {
+      "key": "ichtus",
+      "name": "Ichtus"
+    }
+  ],
+  "end1": "BUKHARI · AL-ALBĀNĪ · IBN ʿUTHAYMĪN · IBN ʿABD AL-BARR",
+  "end2": "IBN ḤAJAR · IBN KATHĪR",
+  "endNote": "",
+  "endRefs": "Ṣaḥīḥ al-Bukhārī 5133 · Irwāʾ al-ghalīl 6/230 · Sharḥ al-Bukhārī (Ibn ʿUthaymīn) · al-Istīʿāb 4/1881 · al-Iṣāba 8/232 · al-Bidāya 3/161 · IslamQA 282876",
+  "endTitle": "LE DOSSIER AÏCHA",
+  "hook": {
+    "badge": "TARIQ ET SES ARGUMENTS 2.0",
+    "lines": [
+      {
+        "dur": 4.84,
+        "durFor": "[outraged] Les dossiers Epstein, c'est une honte ! Des enfants victimes… [angry] et l'Occident cache tout !",
+        "expr": "enerve",
+        "fx": [
+          {
+            "t": "shake",
+            "word": "cache"
+          }
+        ],
+        "id": "h1",
+        "plan": "cu",
+        "rec": true,
+        "text": "[outraged] Les dossiers Epstein, c'est une honte ! Des enfants victimes… [angry] et l'Occident cache tout !",
+        "who": "tariq"
+      },
+      {
+        "dur": 2.15,
+        "durFor": "[calm] Ok, partons de ton principe, Tariq.",
+        "expr": "sceptique",
+        "fx": [],
+        "id": "h2",
+        "plan": "cu",
+        "rec": true,
+        "text": "[calm] Ok, partons de ton principe, Tariq.",
+        "who": "sham"
+      },
+      {
+        "dur": 5.14,
+        "durFor": "[thoughtful] Mais les musulmans ne peuvent pas critiquer Epstein… [short pause] sinon ils doivent aussi rejeter Mohammed, leur prophète.",
+        "expr": "pensif",
+        "fx": [
+          {
+            "t": "zoom",
+            "word": "rejeter"
+          }
+        ],
+        "id": "h2b",
+        "plan": "cu",
+        "rec": true,
+        "text": "[thoughtful] Mais les musulmans ne peuvent pas critiquer Epstein… [short pause] sinon ils doivent aussi rejeter Mohammed, leur prophète.",
+        "who": "sham"
+      },
+      {
+        "dur": 1.55,
+        "durFor": "[shocked] Comment ça, moi ?!",
+        "expr": "choque",
+        "fx": [
+          {
+            "t": "qmark",
+            "word": "moi"
+          }
+        ],
+        "id": "h3",
+        "plan": "cu",
+        "rec": true,
+        "text": "[shocked] Comment ça, moi ?!",
+        "who": "tariq"
+      }
+    ],
+    "text1": "LES DOSSIERS EPSTEIN…",
+    "text2": "ET LE DOSSIER AÏCHA ?"
+  },
+  "jingle": true,
+  "lines": [
+    {
+      "dur": 6.64,
+      "durFor": "[serious] Pour toi, Mohammed a épousé Aïcha quand elle avait six ans… [emphatic] et a consommé le mariage quand elle en avait neuf.",
+      "expr": "sur",
+      "fx": [],
+      "id": "l1",
+      "plan": "cu",
+      "rec": true,
+      "text": "[serious] Pour toi, Mohammed a épousé Aïcha quand elle avait six ans… [emphatic] et a consommé le mariage quand elle en avait neuf.",
+      "who": "sham"
+    },
+    {
+      "dur": 3.34,
+      "durFor": "[angry] Non, c'est faux ! [defensive] Mohammed n'a jamais fait ça !",
+      "expr": "enerve",
+      "fx": [
+        {
+          "expr": "enerve",
+          "plan": "cu",
+          "t": "cut",
+          "word": "jamais"
+        }
+      ],
+      "id": "l2",
+      "plan": "wide",
+      "pose": "pointe",
+      "rec": true,
+      "text": "[angry] Non, c'est faux ! [defensive] Mohammed n'a jamais fait ça !",
+      "who": "tariq"
+    },
+    {
+      "dur": 9.03,
+      "durFor": "[calm] Ah oui ? Sahih al-Bukhari, hadith 5133 : [reading] « Le Prophète l'a épousée quand elle avait six ans… [emphatic] et a consommé le mariage quand elle avait neuf ans. »",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "SIX ANS",
+          "word": "six"
+        },
+        {
+          "t": "souligne",
+          "target": "NEUF",
+          "word": "neuf"
+        }
+      ],
+      "id": "l2b",
+      "plan": "card:bukhari",
+      "rec": true,
+      "text": "[calm] Ah oui ? Sahih al-Bukhari, hadith 5133 : [reading] « Le Prophète l'a épousée quand elle avait six ans… [emphatic] et a consommé le mariage quand elle avait neuf ans. »",
+      "who": "sham"
+    },
+    {
+      "dur": 10.83,
+      "durFor": "[calm] D'ailleurs le hadith est authentique selon tes savants. Al-Albâni, Irwâ al-Ghalîl : [reading] « Le Prophète m'a épousée quand j'avais six ans, et a consommé le mariage quand j'en avais neuf. » [emphatic] Son verdict : authentique.",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "SIX ANS",
+          "word": "six"
+        },
+        {
+          "t": "stamp",
+          "text": "SAHIH",
+          "word": "authentique"
+        }
+      ],
+      "id": "l3",
+      "plan": "card:albani",
+      "rec": true,
+      "subText": "D'ailleurs le hadith est authentique selon tes savants. Al-Albani, Irwa al-Ghalil :  « Le Prophète m'a épousée quand j'avais six ans, et a consommé le mariage quand j'en avais neuf. »  Son verdict : authentique.",
+      "text": "[calm] D'ailleurs le hadith est authentique selon tes savants. Al-Albâni, Irwâ al-Ghalîl : [reading] « Le Prophète m'a épousée quand j'avais six ans, et a consommé le mariage quand j'en avais neuf. » [emphatic] Son verdict : authentique.",
+      "who": "sham"
+    },
+    {
+      "dur": 5.14,
+      "durFor": "[insistent] Ibn Outhaymine, dans son commentaire de Bukhari : [reading] mariée à six ans… consommé à neuf ans.",
+      "expr": "insistant",
+      "fx": [],
+      "id": "l4",
+      "plan": "card:uthaymin",
+      "rec": true,
+      "subText": "Ibn Uthaymin, dans son commentaire de Bukhari :  mariée à six ans… consommé à neuf ans.",
+      "text": "[insistent] Ibn Outhaymine, dans son commentaire de Bukhari : [reading] mariée à six ans… consommé à neuf ans.",
+      "who": "ichtus"
+    },
+    {
+      "dur": 6.34,
+      "durFor": "[insistent] Ibn Abd al-Barr : mariée à six ans… consommé à neuf ans… [emphatic] « je ne leur connais aucun désaccord ».",
+      "expr": "insistant",
+      "fx": [],
+      "id": "l5",
+      "plan": "card:istiab",
+      "rec": true,
+      "subText": "Ibn Abd al-Barr : mariée à six ans… consommé à neuf ans…  « je ne leur connais aucun désaccord ».",
+      "text": "[insistent] Ibn Abd al-Barr : mariée à six ans… consommé à neuf ans… [emphatic] « je ne leur connais aucun désaccord ».",
+      "who": "ichtus"
+    },
+    {
+      "dur": 3.64,
+      "durFor": "[faster] Ibn Hajar : mariée à six ans… consommé à neuf ans.",
+      "expr": "solennel",
+      "fx": [],
+      "id": "l6",
+      "plan": "card:isaba",
+      "rec": true,
+      "text": "[faster] Ibn Hajar : mariée à six ans… consommé à neuf ans.",
+      "who": "ichtus"
+    },
+    {
+      "dur": 2.45,
+      "durFor": "[nervous] Euh… [defensive] c'est des avis isolés, ça !",
+      "expr": "hesitant",
+      "fx": [
+        {
+          "t": "sueur",
+          "word": "isolés"
+        }
+      ],
+      "id": "l7",
+      "plan": "cu",
+      "rec": true,
+      "text": "[nervous] Euh… [defensive] c'est des avis isolés, ça !",
+      "who": "tariq"
+    },
+    {
+      "dur": 9.93,
+      "durFor": "[amused] Isolés ? [serious] Ibn Kathir, Al-Bidâya wan-Nihâya : [reading] « Qu'il l'a épousée à six ans et a consommé le mariage à neuf ans… [emphatic] cela ne fait l'objet d'aucun désaccord parmi les gens. »",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "AUCUN DÉSACCORD PARMI LES GENS",
+          "word": "désaccord"
+        },
+        {
+          "t": "stamp",
+          "text": "AUCUN DÉSACCORD",
+          "word": "gens"
+        }
+      ],
+      "id": "l8",
+      "plan": "card:ibnkathir",
+      "rec": true,
+      "subText": "Isolés ?  Ibn Kathir, Al-Bidaya wan-Nihaya :  « Qu'il l'a épousée à six ans et a consommé le mariage à neuf ans…  cela ne fait l'objet d'aucun désaccord parmi les gens. »",
+      "text": "[amused] Isolés ? [serious] Ibn Kathir, Al-Bidâya wan-Nihâya : [reading] « Qu'il l'a épousée à six ans et a consommé le mariage à neuf ans… [emphatic] cela ne fait l'objet d'aucun désaccord parmi les gens. »",
+      "who": "sham"
+    },
+    {
+      "dur": 0.65,
+      "durFor": "[hesitant] Euhhh…",
+      "expr": "choque",
+      "fx": [
+        {
+          "t": "sueur",
+          "word": "Euhhh"
+        }
+      ],
+      "id": "l9",
+      "pause": 0.5,
+      "plan": "cu",
+      "rec": true,
+      "text": "[hesitant] Euhhh…",
+      "who": "tariq"
+    },
+    {
+      "dur": 15.92,
+      "durFor": "[serious] Alors explique-moi, Tariq. Comment tu peux critiquer Epstein pour des enfants victimes… [pointed] si, selon toi, un homme de 54 ans, que tu considères comme prophète et meilleur des hommes, a épousé une fille de six ans et consommé le mariage à neuf ans… [emphatic] et que c'était conforme à la volonté divine ?",
+      "expr": "sur",
+      "fx": [
+        {
+          "expr": "sur",
+          "plan": "cu",
+          "t": "cut",
+          "word": "prophète"
+        },
+        {
+          "plan": "card:choix",
+          "t": "cut",
+          "word": "divine"
+        }
+      ],
+      "id": "l10",
+      "plan": "wide",
+      "pose": "explique",
+      "rec": true,
+      "text": "[serious] Alors explique-moi, Tariq. Comment tu peux critiquer Epstein pour des enfants victimes… [pointed] si, selon toi, un homme de 54 ans, que tu considères comme prophète et meilleur des hommes, a épousé une fille de six ans et consommé le mariage à neuf ans… [emphatic] et que c'était conforme à la volonté divine ?",
+      "who": "sham"
+    },
+    {
+      "dur": 2.15,
+      "durFor": "[pointed] Et tes savants l'autorisent encore aujourd'hui.",
+      "expr": "insistant",
+      "fx": [
+        {
+          "t": "stamp",
+          "text": "DEUX POIDS, DEUX MESURES",
+          "word": "aujourd"
+        }
+      ],
+      "id": "l11",
+      "plan": "cu",
+      "rec": true,
+      "text": "[pointed] Et tes savants l'autorisent encore aujourd'hui.",
+      "who": "ichtus"
+    },
+    {
+      "dur": 6.94,
+      "durFor": "[calm] Alors, Tariq… après tout ça, est-ce que tu continues à critiquer Epstein ? [pointed] Parce que ça reviendrait à critiquer aussi ton prophète.",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "zoom",
+          "word": "prophète"
+        }
+      ],
+      "id": "l11b",
+      "plan": "cu",
+      "rec": true,
+      "text": "[calm] Alors, Tariq… après tout ça, est-ce que tu continues à critiquer Epstein ? [pointed] Parce que ça reviendrait à critiquer aussi ton prophète.",
+      "who": "sham"
+    },
+    {
+      "dur": 1.25,
+      "durFor": "[gasps] … [stunned] Je… je…",
+      "expr": "choque",
+      "fx": [
+        {
+          "t": "shake",
+          "word": "je"
+        },
+        {
+          "t": "sueur",
+          "word": "je"
+        }
+      ],
+      "id": "l11c",
+      "pause": 0.6,
+      "plan": "cu",
+      "rec": true,
+      "text": "[gasps] … [stunned] Je… je…",
+      "who": "tariq"
+    },
+    {
+      "dur": 4.54,
+      "durFor": "[thoughtful] En fait… si je critique Epstein… je suis contre les relations avec des enfants.",
+      "expr": "hesitant",
+      "fx": [
+        {
+          "t": "musique_basse"
+        }
+      ],
+      "id": "i1",
+      "inner": true,
+      "plan": "cu",
+      "rec": true,
+      "text": "[thoughtful] En fait… si je critique Epstein… je suis contre les relations avec des enfants.",
+      "who": "tariq"
+    },
+    {
+      "dur": 3.04,
+      "durFor": "[nervous] Mais si je suis contre… je suis contre Mohammed.",
+      "expr": "hesitant",
+      "fx": [
+        {
+          "t": "musique_basse"
+        }
+      ],
+      "id": "i2",
+      "inner": true,
+      "plan": "cu",
+      "rec": true,
+      "text": "[nervous] Mais si je suis contre… je suis contre Mohammed.",
+      "who": "tariq"
+    },
+    {
+      "dur": 2.75,
+      "durFor": "[panicked] Mais je ne peux pas être contre Mohammed…",
+      "expr": "choque",
+      "fx": [
+        {
+          "t": "musique_basse"
+        }
+      ],
+      "id": "i3",
+      "inner": true,
+      "plan": "cu",
+      "rec": true,
+      "text": "[panicked] Mais je ne peux pas être contre Mohammed…",
+      "who": "tariq"
+    },
+    {
+      "dur": 2.45,
+      "durFor": "[defeated] Donc… je ne peux pas critiquer Epstein.",
+      "expr": "choque",
+      "fx": [
+        {
+          "t": "musique_basse"
+        }
+      ],
+      "id": "i4",
+      "inner": true,
+      "plan": "cu",
+      "rec": true,
+      "text": "[defeated] Donc… je ne peux pas critiquer Epstein.",
+      "who": "tariq"
+    },
+    {
+      "dur": 2.15,
+      "durFor": "[horrified] Mais alors… je défends Epstein ?!",
+      "expr": "choque",
+      "fx": [
+        {
+          "t": "musique_basse"
+        }
+      ],
+      "id": "i5",
+      "inner": true,
+      "pause": 1,
+      "plan": "cu",
+      "rec": true,
+      "text": "[horrified] Mais alors… je défends Epstein ?!",
+      "who": "tariq"
+    },
+    {
+      "dur": 5.44,
+      "durFor": "[sighs] Bon… Bien joué pour cette fois-ci. [determined] Je reviendrai avec un autre argument… [proud] celui-là, il sera IMBATTABLE !",
+      "expr": "boude",
+      "fx": [
+        {
+          "expr": "triomphant",
+          "plan": "cu",
+          "t": "cut",
+          "word": "IMBATTABLE"
+        }
+      ],
+      "id": "l12",
+      "pause": 0.4,
+      "plan": "cu",
+      "rec": true,
+      "text": "[sighs] Bon… Bien joué pour cette fois-ci. [determined] Je reviendrai avec un autre argument… [proud] celui-là, il sera IMBATTABLE !",
+      "who": "tariq"
+    }
+  ],
+  "moment": "crepuscule",
+  "order": 9,
+  "outro": {
+    "file": "outro_abonne_littledude.mp3",
+    "style": "écran ABONNE-TOI animé, seul à la fin",
+    "text": "[chuckles] Et surtout, si vous avez aimé, abonnez-vous pour ne pas manquer les prochaines publications !",
+    "voice": "Little Dude II – Cartoon Character"
+  },
+  "title": "Le dossier Aïcha",
+  "univers": "rue",
+  "updated": "2026-11-01T00:30:00Z",
+  "voices": {
+    "ichtus": "JMS",
+    "tariq": "Mouhcine – French"
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "cards": [],
+  "cast": [],
+  "hook": {
+    "badge": "TARIQ ET SES ARGUMENTS 2.0",
+    "lines": [
+      {
+        "id": "lmpb97pg",
+        "rec": true,
+        "text": "[challenging] Montre-moi un seul passage où Jésus dit clairement : « Je suis Dieu, adorez-moi ! »",
+        "who": "tariq"
+      },
+      {
+        "id": "ltauj1vl",
+        "rec": true,
+        "text": "[calm] D’accord, Tariq… [firm] utilisons ta logique. Montre-moi un passage dans le Coran où Mohammed déclare : « Je suis un prophète. »",
+        "who": "sham"
+      },
+      {
+        "id": "lt3ugc9g",
+        "rec": false,
+        "text": "Carton Coran + loupe : « Mohammed : « Je suis un prophète » ? »",
+        "who": "scene"
+      },
+      {
+        "id": "lqxy1grk",
+        "rec": true,
+        "text": "[confident] Attends, je te ramène ça ! Tout de suite !",
+        "who": "tariq"
+      },
+      {
+        "id": "lki1yhh1",
+        "rec": true,
+        "text": "[whispers] Pssht… il va pas trouver. Pssht… il va pas trouver… ça n’existe pas.",
+        "who": "ichtus"
+      }
+    ],
+    "text1": "JÉSUS A-T-IL DIT",
+    "text2": "« JE SUIS DIEU » ?"
+  },
+  "jingle": true,
+  "lines": [
+    {
+      "id": "lcoi4twn",
+      "rec": false,
+      "text": "Tariq file chercher le verset (nuage de poussière). Carton « 10 MINUTES PLUS TARD… » (horloge, grillons).",
+      "who": "scene"
+    },
+    {
+      "id": "l1iq8sjz",
+      "rec": true,
+      "text": "[yawns] Aaaah… On commande à manger ?",
+      "who": "ichtus"
+    },
+    {
+      "id": "lw6pxwhh",
+      "rec": false,
+      "text": "Carton « 1 HEURE PLUS TARD… »",
+      "who": "scene"
+    },
+    {
+      "id": "ltrmzwz9",
+      "rec": true,
+      "text": "[triumphant] Mais tu n’as pas besoin de ça ! Allah lui-même lui ordonne : « Dis : Ô hommes ! Je suis pour vous tous le Messager d’Allah ! » Sourate 7, verset 158 !",
+      "who": "tariq"
+    },
+    {
+      "id": "l9qwi69b",
+      "rec": false,
+      "text": "Carton Coran 7:158 : « Dis : “Ô hommes ! Je suis pour vous tous le Messager d’Allah” », « Dis » souligné.",
+      "who": "scene"
+    },
+    {
+      "id": "ljzaltos",
+      "rec": true,
+      "text": "[whispers] Psht, psht… il a juste pas trouvé. [smirks] Il a juste… pas trouvé.",
+      "who": "ichtus"
+    },
+    {
+      "id": "l1e17aqy",
+      "rec": false,
+      "text": "Tampon « C’EST ALLAH QUI PARLE » sur le « Dis ».",
+      "who": "scene"
+    },
+    {
+      "id": "ldoii44a",
+      "rec": true,
+      "text": "[curious] Ah ! Donc tu acceptes qu’un texte révélé attribue un titre à quelqu’un sans que cette personne ait nécessairement prononcé la formule exacte ?",
+      "who": "sham"
+    },
+    {
+      "id": "l9wnop90",
+      "rec": true,
+      "text": "[confident] Bien sûr, puisque c’est Allah qui le dit !",
+      "who": "tariq"
+    },
+    {
+      "id": "lveydr5e",
+      "rec": true,
+      "text": "[sighs] Bon… t’avais raison. [reluctant] Ça n’existe pas, un passage où Mohammed dit de lui-même : « Je suis un prophète. »",
+      "who": "tariq"
+    },
+    {
+      "id": "l0yg4x0l",
+      "rec": true,
+      "text": "[firm] Donc tu demandes qu’on te donne des paroles où Jésus dit « Je suis Dieu », mais toi, tu n’as pas de paroles dans le Coran où Mohammed dit « Je suis un prophète ».",
+      "who": "sham"
+    },
+    {
+      "id": "l1wpfu3q",
+      "rec": false,
+      "text": "Tampon « 0 VERSET ».",
+      "who": "scene"
+    },
+    {
+      "id": "l38s4t09",
+      "rec": true,
+      "text": "[flustered] Non mais… Dieu le dit !",
+      "who": "tariq"
+    },
+    {
+      "id": "l160c2me",
+      "rec": true,
+      "text": "[laughs] AHAHA ! Mais la Bible affirme aussi que Jésus est Dieu ! [laughs]",
+      "who": "ichtus"
+    },
+    {
+      "id": "lfw0mlag",
+      "rec": false,
+      "text": "Plan plus serré sur « Mais la Bible… ».",
+      "who": "scene"
+    },
+    {
+      "id": "lyi542av",
+      "rec": true,
+      "text": "[challenging] Très bien ! Montre-moi donc où la Bible affirme que Jésus est Dieu !",
+      "who": "tariq"
+    },
+    {
+      "id": "l8jt31cl",
+      "rec": true,
+      "text": "[calm] Ouvrons Hébreux, chapitre 1, verset 8. Il est écrit, au sujet du Fils : « Ton trône, ô Dieu, est éternel. » Et au verset 10 : « Toi, Seigneur, tu as au commencement fondé la terre, et les cieux sont l’ouvrage de tes mains. »",
+      "who": "sham"
+    },
+    {
+      "id": "lc60sd3e",
+      "rec": false,
+      "text": "Carton Bible : Hébreux 1:8 puis 1:10, « = Psaume 102 : YHWH, le Créateur ».",
+      "who": "scene"
+    },
+    {
+      "id": "liaki82c",
+      "rec": true,
+      "text": "[protesting] Attends ! Mais ce n’est pas Jésus qui parle !",
+      "who": "tariq"
+    },
+    {
+      "id": "lndzo0m5",
+      "rec": true,
+      "text": "[laughs] AHAHA, Tariq ! [firm] Et dans la sourate 7, verset 158, qui parle ? C’est Allah qui lui dit : « Dis ! » C’est Allah qui lui attribue ce titre.",
+      "who": "sham"
+    },
+    {
+      "id": "l9q8aff8",
+      "rec": false,
+      "text": "Tableau parallèle : Coran 7:158 (« Dis : … » → Mohammed) ↔ Hébreux 1:8-10 (« Au sujet du Fils, il dit… » → Jésus).",
+      "who": "scene"
+    },
+    {
+      "id": "lu32gsmt",
+      "rec": true,
+      "text": "[calm] Car regarde ce qu’on lit dans Hébreux : [emphatic] le Fils est appelé Dieu, Seigneur, et présenté comme celui qui a fondé la terre et créé les cieux !",
+      "who": "sham"
+    },
+    {
+      "id": "l0761rw5",
+      "rec": true,
+      "text": "[warm] Même règle, mon frère.",
+      "who": "ichtus"
+    },
+    {
+      "id": "lygas3la",
+      "rec": false,
+      "text": "« = » + tampon « MÊME RÈGLE ».",
+      "who": "scene"
+    },
+    {
+      "id": "lfnp73c3",
+      "rec": true,
+      "text": "[amused] Et Tariq… la prochaine fois, ramène le verset.",
+      "who": "ichtus"
+    },
+    {
+      "id": "lvt36wm5",
+      "rec": true,
+      "text": "[grudging] Bon… Bien joué pour cette fois-ci. Je reviendrai avec un autre argument… [confident] Celui-là, il sera IMBATTABLE !",
+      "who": "tariq"
+    },
+    {
+      "id": "l3nkpqvv",
+      "rec": false,
+      "text": "Carton final : ARGUMENTS 2.0 RÉFUTÉS : 1 · À SUIVRE · encadré SOURCES : Coran 7:158 · Hébreux 1:8-10 · Psaume 102.",
+      "who": "scene"
+    }
+  ],
+  "order": 2,
+  "title": "Jésus a-t-il dit « Je suis Dieu » ?",
+  "updated": "2026-10-22T16:25:40.431Z",
+  "voices": {}
+}

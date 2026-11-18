@@ -1,0 +1,595 @@
+{
+  "cards": [
+    {
+      "book": "bible",
+      "id": "marc10",
+      "lines": "« PLUSIEURS LE REPRENAIENT\nPOUR LE FAIRE TAIRE »\n« JÉSUS S'ARRÊTA »\n« VA, TA FOI T'A SAUVÉ »",
+      "refDetail": "Louis Segond",
+      "refName": "Marc",
+      "refNum": "10:46-52",
+      "title": "MARC 10:46-52",
+      "tpl": "livre"
+    },
+    {
+      "book": "coran",
+      "id": "c80",
+      "lines": "« IL S'EST RENFROGNÉ\nET IL S'EST DÉTOURNÉ\nPARCE QUE L'AVEUGLE EST VENU À LUI »",
+      "refName": "Coran",
+      "refNum": "80:1-10",
+      "title": "SOURATE 80 · VERSETS 1-2",
+      "tpl": "livre",
+      "url": "quran.com/80/1-10"
+    },
+    {
+      "arabic": "وعبس في وجه ابن أم مكتوم وأعرض عنه وأقبل على الآخر",
+      "id": "kathir80",
+      "lines": "« IL SE RENFROGNA DEVANT IBN UMM MAKTÛM,\nSE DÉTOURNA DE LUI\nET SE TOURNA VERS L'AUTRE »",
+      "refName": "Ibn Kathîr",
+      "refNum": "Tafsîr, sourate 80",
+      "sub": "IL PARLAIT À UN NOTABLE DE QURAYCH",
+      "title": "IBN KATHÎR · SOURATE 80",
+      "tpl": "parchemin",
+      "url": "quran.ksu.edu.sa/tafseer/katheer/sura80-aya1.html"
+    },
+    {
+      "book": "bible",
+      "id": "jean829",
+      "lines": "« CELUI QUI M'A ENVOYÉ EST AVEC MOI…\nJE FAIS TOUJOURS CE QUI LUI EST AGRÉABLE »",
+      "refDetail": "Louis Segond",
+      "refName": "Jean",
+      "refNum": "8:29",
+      "title": "JEAN 8:29",
+      "tpl": "livre"
+    },
+    {
+      "book": "coran",
+      "id": "c3337",
+      "lines": "« TU CACHAIS EN TOI-MÊME\nCE QU'ALLAH ALLAIT RENDRE PUBLIC,\nTU CRAIGNAIS LES HOMMES,\nALORS QU'ALLAH EST PLUS DIGNE\nQUE TU LE CRAIGNES »",
+      "refName": "Coran",
+      "refNum": "33:37",
+      "title": "SOURATE 33 · VERSET 37",
+      "tpl": "livre",
+      "url": "quran.com/33/37"
+    },
+    {
+      "id": "recap",
+      "left": "JÉSUS\nGUÉRIT L'AVEUGLE\nFAIT TOUJOURS CE QUI PLAÎT AU PÈRE\nSANS PÉCHÉ",
+      "right": "MOHAMMED\nREPRIS POUR L'AVEUGLE\nREPRIS POUR AVOIR CRAINT LES HOMMES\nCORRIGÉ PAR DIEU",
+      "tpl": "balance"
+    },
+    {
+      "book": "bible",
+      "id": "jean178",
+      "lines": "« CAR JE LEUR AI DONNÉ\nLES PAROLES QUE TU M'AS DONNÉES ;\nET ILS LES ONT REÇUES »",
+      "refDetail": "Louis Segond",
+      "refName": "Jean",
+      "refNum": "17:8",
+      "title": "JEAN 17:8",
+      "tpl": "livre"
+    },
+    {
+      "arabic": "رآها رسول الله صلى الله عليه وسلم فأعجبته، وهي في حبال مولاه",
+      "id": "tabarirecit",
+      "lines": "« LE MESSAGER D'ALLAH LA VIT\nET ELLE LUI PLUT,\nALORS QU'ELLE ÉTAIT MARIÉE À SON AFFRANCHI »",
+      "refName": "al-Tabarî",
+      "refNum": "Jâmiʿ al-Bayân, 33:37",
+      "sub": "EXÉGÈSE CLASSIQUE · RÉCIT DISCUTÉ",
+      "title": "AL-TABARÎ · 33:37",
+      "tpl": "parchemin",
+      "url": "quran.ksu.edu.sa/tafseer/tabary/sura33-aya37.html"
+    },
+    {
+      "arabic": "وتخفي في نفسك محبة فراقه إياها لتتزوجها إن هو فارقها",
+      "id": "tabari3337",
+      "lines": "« TU CACHAIS EN TOI-MÊME TON DÉSIR\nQU'IL SE SÉPARE D'ELLE,\nAFIN DE L'ÉPOUSER S'IL LA QUITTAIT »",
+      "refName": "al-Tabarî",
+      "refNum": "Jâmiʿ al-Bayân, 33:37",
+      "sub": "EXÉGÈSE CLASSIQUE · RÉCIT DISCUTÉ",
+      "title": "AL-TABARÎ · 33:37",
+      "tpl": "parchemin",
+      "url": "quran.ksu.edu.sa/tafseer/tabary/sura33-aya37.html"
+    }
+  ],
+  "cast": [
+    {
+      "key": "tariq",
+      "name": "Tariq"
+    },
+    {
+      "key": "sham",
+      "name": "Sham"
+    },
+    {
+      "key": "ichtus",
+      "name": "Ichtus"
+    }
+  ],
+  "end1": "DEUX MODÈLES",
+  "end2": "DEUX CRITÈRES",
+  "endNote": "Interprétations exégétiques classiques ; récits discutés.",
+  "endRefs": "Marc 10:46-52 · Coran 80:1-10 · Ibn Kathîr (sourate 80) · Jean 8:29 · Coran 33:37 · al-Tabarî, Jâmiʿ al-Bayân (33:37) · Jean 17:8",
+  "endTitle": "JÉSUS OU MOHAMMED ?",
+  "hook": {
+    "badge": "TARIQ ET SES ARGUMENTS 2.0",
+    "lines": [
+      {
+        "dur": 7.59,
+        "durFor": "[confident] Mohammed est le modèle parfait : [proud] il respecte les faibles… [emphatic] il craint Allah avant les hommes… [confident] et il accomplit la volonté d'Allah !",
+        "expr": "fier",
+        "fx": [
+          {
+            "t": "zoom",
+            "word": "parfait"
+          },
+          {
+            "t": "shake",
+            "word": "hommes"
+          }
+        ],
+        "id": "h1",
+        "plan": "cu",
+        "rec": true,
+        "text": "[confident] Mohammed est le modèle parfait : [proud] il respecte les faibles… [emphatic] il craint Allah avant les hommes… [confident] et il accomplit la volonté d'Allah !",
+        "who": "tariq"
+      },
+      {
+        "dur": 4.49,
+        "durFor": "[chuckles] Évidemment que non ! [confident] Jésus est largement meilleur. [amused] C'est tellement évident, y'a pas photo !",
+        "expr": "amuse",
+        "fx": [
+          {
+            "t": "zoom",
+            "word": "meilleur"
+          }
+        ],
+        "id": "l1",
+        "plan": "cu",
+        "rec": true,
+        "text": "[chuckles] Évidemment que non ! [confident] Jésus est largement meilleur. [amused] C'est tellement évident, y'a pas photo !",
+        "who": "sham"
+      }
+    ],
+    "text1": "JÉSUS OU MOHAMMED",
+    "text2": "LE MEILLEUR MODÈLE ?"
+  },
+  "jingle": true,
+  "lines": [
+    {
+      "dur": 6.34,
+      "durFor": "[calm] Comparons-les selon deux critères : celui qui agit le mieux envers son prochain… [serious] et celui qui accomplit le plan divin.",
+      "expr": "sceptique",
+      "fx": [
+        {
+          "t": "texte",
+          "text": "1. LE PROCHAIN",
+          "word": "prochain"
+        },
+        {
+          "t": "texte",
+          "text": "2. LE PLAN DIVIN",
+          "word": "plan"
+        }
+      ],
+      "id": "l2",
+      "plan": "cu",
+      "rec": true,
+      "text": "[calm] Comparons-les selon deux critères : celui qui agit le mieux envers son prochain… [serious] et celui qui accomplit le plan divin.",
+      "who": "sham"
+    },
+    {
+      "dur": 1.2,
+      "durFor": "[confident] Vas-y, [challenging] je t'écoute !",
+      "expr": "assure",
+      "fx": [],
+      "id": "l3",
+      "plan": "wide",
+      "pose": "bras_croises",
+      "rec": true,
+      "text": "[confident] Vas-y, [challenging] je t'écoute !",
+      "who": "tariq"
+    },
+    {
+      "dur": 2.5,
+      "durFor": "[calm] Regarde, Tariq. Deux aveugles… [short pause] deux réactions.",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "zoom_lent",
+          "word": "aveugles"
+        }
+      ],
+      "id": "l3b",
+      "plan": "cu",
+      "rec": true,
+      "text": "[calm] Regarde, Tariq. Deux aveugles… [short pause] deux réactions.",
+      "who": "sham"
+    },
+    {
+      "dur": 6.04,
+      "durFor": "[calm] Marc 10 : Bartimée, un mendiant aveugle, appelle Jésus. [serious] La foule le repousse. [emphatic] Jésus s'arrête… et le guérit !",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "POUR LE FAIRE TAIRE",
+          "word": "repousse"
+        },
+        {
+          "t": "souligne",
+          "target": "TA FOI T'A SAUVÉ",
+          "word": "guérit"
+        }
+      ],
+      "id": "l4",
+      "plan": "card:marc10",
+      "rec": true,
+      "text": "[calm] Marc 10 : Bartimée, un mendiant aveugle, appelle Jésus. [serious] La foule le repousse. [emphatic] Jésus s'arrête… et le guérit !",
+      "who": "sham"
+    },
+    {
+      "dur": 2.1,
+      "durFor": "[proud] Mohammed aussi prenait soin des pauvres !",
+      "expr": "fier",
+      "fx": [],
+      "id": "l5",
+      "plan": "cu",
+      "rec": true,
+      "text": "[proud] Mohammed aussi prenait soin des pauvres !",
+      "who": "tariq"
+    },
+    {
+      "dur": 6.04,
+      "durFor": "[reading] Sourate 80 : « Il s'est renfrogné et il s'est détourné… [pointed] parce que l'aveugle est venu à lui. »",
+      "expr": "insistant",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "IL S'EST DÉTOURNÉ",
+          "word": "détourné"
+        },
+        {
+          "t": "stamp",
+          "text": "SOURATE 80",
+          "word": "aveugle"
+        }
+      ],
+      "id": "l6",
+      "plan": "card:c80",
+      "rec": true,
+      "text": "[reading] Sourate 80 : « Il s'est renfrogné et il s'est détourné… [pointed] parce que l'aveugle est venu à lui. »",
+      "who": "ichtus"
+    },
+    {
+      "dur": 5.44,
+      "durFor": "[calm] Ibn Kathîr raconte qu'il parlait aux notables de Quraych… [pointed] et qu'il s'est détourné de l'aveugle pour eux.",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "SE TOURNA VERS L'AUTRE",
+          "word": "détourné"
+        }
+      ],
+      "id": "l7",
+      "plan": "card:kathir80",
+      "rec": true,
+      "text": "[calm] Ibn Kathîr raconte qu'il parlait aux notables de Quraych… [pointed] et qu'il s'est détourné de l'aveugle pour eux.",
+      "who": "sham"
+    },
+    {
+      "dur": 1.5,
+      "durFor": "[defensive] Mais Allah l'a corrigé !",
+      "expr": "enerve",
+      "fx": [],
+      "id": "l8",
+      "plan": "cu",
+      "rec": true,
+      "text": "[defensive] Mais Allah l'a corrigé !",
+      "who": "tariq"
+    },
+    {
+      "dur": 3.89,
+      "durFor": "[calm] Exact ! [pointed] Donc, cela prouve que Mohammed avait mal agi envers cet aveugle.",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "zoom",
+          "word": "mal"
+        }
+      ],
+      "id": "l9",
+      "plan": "cu",
+      "rec": true,
+      "text": "[calm] Exact ! [pointed] Donc, cela prouve que Mohammed avait mal agi envers cet aveugle.",
+      "who": "sham"
+    },
+    {
+      "dur": 2.45,
+      "durFor": "[hesitant] Oui, mais… [nervous] il a changé ensuite !",
+      "expr": "hesitant",
+      "fx": [
+        {
+          "t": "sueur",
+          "word": "mais"
+        }
+      ],
+      "id": "l10",
+      "plan": "cu",
+      "rec": true,
+      "text": "[hesitant] Oui, mais… [nervous] il a changé ensuite !",
+      "who": "tariq"
+    },
+    {
+      "dur": 10.53,
+      "durFor": "[pointed] Je compare leurs réactions, Tariq. Pas leur repentir ! [emphatic] Le seul qui doit être corrigé, c'est Mohammed, [serious] étant donné qu'il fait des fautes et des péchés… [calm] ce qui n'est pas le cas de Jésus.",
+      "expr": "sur",
+      "fx": [
+        {
+          "expr": "hesitant",
+          "plan": "cu:tariq",
+          "t": "cut",
+          "word": "étant"
+        },
+        {
+          "plan": "cu",
+          "t": "cut",
+          "word": "Jésus"
+        }
+      ],
+      "id": "l11",
+      "plan": "cu",
+      "rec": true,
+      "text": "[pointed] Je compare leurs réactions, Tariq. Pas leur repentir ! [emphatic] Le seul qui doit être corrigé, c'est Mohammed, [serious] étant donné qu'il fait des fautes et des péchés… [calm] ce qui n'est pas le cas de Jésus.",
+      "who": "sham"
+    },
+    {
+      "dur": 5.09,
+      "durFor": "[serious] Jésus déclare, Jean 8, verset 29 : [reading] « Je fais toujours ce qui lui est agréable. »",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "JE FAIS TOUJOURS CE QUI LUI EST AGRÉABLE",
+          "word": "toujours"
+        }
+      ],
+      "id": "l13",
+      "plan": "card:jean829",
+      "rec": true,
+      "text": "[serious] Jésus déclare, Jean 8, verset 29 : [reading] « Je fais toujours ce qui lui est agréable. »",
+      "who": "sham"
+    },
+    {
+      "dur": 6.64,
+      "durFor": "[reading] Coran 33, verset 37 : « Tu cachais en toi-même ce qu'Allah allait rendre public… [serious] et tu craignais les hommes. »",
+      "expr": "solennel",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "TU CACHAIS EN TOI-MÊME",
+          "word": "cachais"
+        },
+        {
+          "t": "souligne",
+          "target": "TU CRAIGNAIS LES HOMMES",
+          "word": "craignais"
+        }
+      ],
+      "id": "l14",
+      "plan": "card:c3337",
+      "rec": true,
+      "text": "[reading] Coran 33, verset 37 : « Tu cachais en toi-même ce qu'Allah allait rendre public… [serious] et tu craignais les hommes. »",
+      "who": "ichtus"
+    },
+    {
+      "dur": 11.43,
+      "durFor": "[pointed] Donc ici, on voit bien que ton prophète cachait en lui-même quelque chose qu'Allah allait révéler… [emphatic] car il allait épouser la femme de son propre fils adoptif ! [serious] Et Allah lui reproche de craindre les hommes !",
+      "expr": "sur",
+      "fx": [
+        {
+          "expr": "choque",
+          "plan": "cu:tariq",
+          "t": "cut",
+          "word": "épouser"
+        },
+        {
+          "plan": "card:c3337",
+          "t": "cut",
+          "word": "reproche"
+        },
+        {
+          "t": "souligne",
+          "target": "TU CRAIGNAIS LES HOMMES",
+          "word": "craindre"
+        }
+      ],
+      "id": "l15",
+      "plan": "card:c3337",
+      "rec": true,
+      "text": "[pointed] Donc ici, on voit bien que ton prophète cachait en lui-même quelque chose qu'Allah allait révéler… [emphatic] car il allait épouser la femme de son propre fils adoptif ! [serious] Et Allah lui reproche de craindre les hommes !",
+      "who": "sham"
+    },
+    {
+      "dur": 4.84,
+      "durFor": "[defensive] Oui, c'est vrai, mais c'est normal ! [hesitant] Mohammed n'est qu'un homme… il n'est pas parfait.",
+      "expr": "hesitant",
+      "fx": [
+        {
+          "t": "sueur",
+          "word": "parfait"
+        }
+      ],
+      "id": "l4a3l43e",
+      "plan": "cu",
+      "rec": true,
+      "text": "[defensive] Oui, c'est vrai, mais c'est normal ! [hesitant] Mohammed n'est qu'un homme… il n'est pas parfait.",
+      "who": "tariq"
+    },
+    {
+      "dur": 4.24,
+      "durFor": "[pointed] Justement ! [confident] Jésus, quant à lui, est parfait… sans fautes ni péchés !",
+      "expr": "insistant",
+      "fx": [
+        {
+          "t": "zoom",
+          "word": "parfait"
+        }
+      ],
+      "id": "lnfwf7dq",
+      "plan": "cu",
+      "rec": true,
+      "text": "[pointed] Justement ! [confident] Jésus, quant à lui, est parfait… sans fautes ni péchés !",
+      "who": "ichtus"
+    },
+    {
+      "dur": 9.03,
+      "durFor": "[serious] D'ailleurs, al-Tabarî, l'un des plus grands exégètes du Coran, dit aussi dans son tafsîr que Mohammed désirait la femme de son fils adoptif… [pointed] alors qu'ils étaient encore mariés !",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "ELLE LUI PLUT",
+          "word": "désirait"
+        },
+        {
+          "plan": "card:tabari3337",
+          "t": "cut",
+          "word": "encore"
+        },
+        {
+          "t": "souligne",
+          "target": "QU'IL SE SÉPARE D'ELLE",
+          "word": "mariés"
+        }
+      ],
+      "id": "l16b",
+      "plan": "card:tabarirecit",
+      "rec": true,
+      "text": "[serious] D'ailleurs, al-Tabarî, l'un des plus grands exégètes du Coran, dit aussi dans son tafsîr que Mohammed désirait la femme de son fils adoptif… [pointed] alors qu'ils étaient encore mariés !",
+      "who": "sham"
+    },
+    {
+      "dur": 0.6,
+      "durFor": "[shocked] Quoi ?!",
+      "expr": "choque",
+      "fx": [
+        {
+          "t": "qmark",
+          "word": "Quoi"
+        }
+      ],
+      "id": "l17",
+      "plan": "cu",
+      "rec": true,
+      "text": "[shocked] Quoi ?!",
+      "who": "tariq"
+    },
+    {
+      "dur": 12.87,
+      "durFor": "[calm] Alors que Jésus, Jean 17, verset 8, a révélé tout ce qui devait être révélé, sans rien cacher ni se faire corriger ensuite : [reading] « Car je leur ai donné les paroles que tu m'as données ; et ils les ont reçues. »",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "souligne",
+          "target": "LES PAROLES QUE TU M'AS DONNÉES",
+          "word": "paroles"
+        }
+      ],
+      "id": "l21",
+      "plan": "card:jean178",
+      "rec": true,
+      "text": "[calm] Alors que Jésus, Jean 17, verset 8, a révélé tout ce qui devait être révélé, sans rien cacher ni se faire corriger ensuite : [reading] « Car je leur ai donné les paroles que tu m'as données ; et ils les ont reçues. »",
+      "who": "sham"
+    },
+    {
+      "dur": 0.95,
+      "durFor": "[hesitant] Oui, mais…",
+      "expr": "hesitant",
+      "fx": [
+        {
+          "t": "sueur",
+          "word": "mais"
+        }
+      ],
+      "id": "l22",
+      "plan": "cu",
+      "rec": true,
+      "text": "[hesitant] Oui, mais…",
+      "who": "tariq"
+    },
+    {
+      "dur": 15.42,
+      "durFor": "[confident] Là, on peut bien voir que Jésus est largement supérieur, [pointed] tandis que ton prophète se comporte mal… [emphatic] et Dieu doit le corriger et le reprendre souvent ! [short pause] [calm] Entre celui qui ne fait aucune faute ni péché, et celui qui en fait… [pointed] qui est le meilleur exemple, Tariq ?",
+      "expr": "sur",
+      "fx": [
+        {
+          "plan": "card:recap",
+          "t": "cut",
+          "word": "tandis"
+        },
+        {
+          "t": "balance",
+          "word": "supérieur"
+        },
+        {
+          "plan": "cu",
+          "t": "cut",
+          "word": "Entre"
+        },
+        {
+          "t": "zoom_lent",
+          "word": "meilleur"
+        }
+      ],
+      "id": "fin1",
+      "plan": "cu",
+      "rec": true,
+      "text": "[confident] Là, on peut bien voir que Jésus est largement supérieur, [pointed] tandis que ton prophète se comporte mal… [emphatic] et Dieu doit le corriger et le reprendre souvent !",
+      "who": "sham"
+    },
+    {
+      "dur": 6.99,
+      "durFor": "[short pause] [calm] Entre celui qui ne fait aucune faute ni péché, et celui qui en fait… [pointed] qui est le meilleur exemple, Tariq ?",
+      "expr": "curieux",
+      "fx": [
+        {
+          "t": "zoom_lent",
+          "word": "meilleur"
+        }
+      ],
+      "id": "lby9va7k",
+      "plan": "cu",
+      "rec": true,
+      "text": "[short pause] [calm] Entre celui qui ne fait aucune faute ni péché, et celui qui en fait… [pointed] qui est le meilleur exemple, Tariq ?",
+      "who": "sham"
+    },
+    {
+      "dur": 2.8,
+      "durFor": "[nervous] Hmmm… [sighs] bon… [reluctant] je vais revenir plus tard.",
+      "expr": "boude",
+      "fx": [
+        {
+          "t": "sueur",
+          "word": "Hmmm"
+        }
+      ],
+      "id": "fin2",
+      "plan": "wide",
+      "pose": "bras_croises",
+      "rec": true,
+      "text": "[nervous] Hmmm… [sighs] bon… [reluctant] je vais revenir plus tard.",
+      "who": "tariq"
+    }
+  ],
+  "moment": "crepuscule",
+  "order": 12,
+  "reglages": "v3 + scènes 2D papier découpé : scène 1 (aveugle) diptyque Jéricho / La Mecque de « Regarde, Tariq » à « il a changé ensuite » ; scène 2 (33:37 → Jean 17:8) rideau de papier, légère ; 60 fps, caméra continue, pas plus de 8 s sans mouvement",
+  "title": "Jésus ou Mohammed : le meilleur modèle ?",
+  "univers": "rue",
+  "updated": "2026-11-11T15:58:03.791Z",
+  "voices": {
+    "ichtus": "JMS",
+    "sham": "Quentin – Clone",
+    "tariq": "Mouhcine – French"
+  }
+}

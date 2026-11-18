@@ -1,0 +1,688 @@
+{
+  "cards": [
+    {
+      "id": "tel",
+      "sub": "CANDIDATE FICTIVE",
+      "title": "DISCOURS FICTIF",
+      "tpl": "telephone"
+    },
+    {
+      "id": "principe",
+      "lines": "MUSULMANS\nJUIFS\nCHRÉTIENS",
+      "stamp": "VALIDÉ PAR TARIQ",
+      "sub": "PAS D'EXPULSION\nÀ CAUSE DE LA RELIGION",
+      "title": "LE PRINCIPE DE TARIQ",
+      "tpl": "fiche"
+    },
+    {
+      "arabic": "لَأُخْرِجَنَّ الْيَهُودَ وَالنَّصَارَى مِنْ جَزِيرَةِ الْعَرَبِ\nحَتَّى لَا أَدَعَ إِلَّا مُسْلِمًا",
+      "grade": "Authentique (sahih)",
+      "id": "hadith",
+      "lines": "« JE FERAI CERTES SORTIR\nLES JUIFS ET LES CHRÉTIENS\nDE LA PÉNINSULE ARABIQUE,\nAU POINT DE N’Y LAISSER\nQUE DES MUSULMANS. »",
+      "refBook": "Livre 32 · hadith 75",
+      "refDetail": "selon Umar",
+      "refName": "Sahih Muslim",
+      "refNum": "1767a",
+      "sub": "SELON ʿUMAR",
+      "title": "ṢAḤĪḤ MUSLIM — 1767a",
+      "tpl": "parchemin",
+      "url": "sunnah.com/muslim:1767a"
+    },
+    {
+      "id": "split",
+      "left": "LA CANDIDATE\n(FICTIVE)",
+      "right": "LE HADITH\nMUSLIM 1767a",
+      "tpl": "ecran"
+    }
+  ],
+  "cast": [],
+  "end1": "MÊME RÈGLE.",
+  "end2": "POUR TOUT LE MONDE.",
+  "endNote": "Candidate et discours politique fictifs",
+  "endRefs": "",
+  "endTitle": "L'EXPULSION",
+  "hook": {
+    "badge": "TARIQ ET SES ARGUMENTS 2.0 · SCÈNE FICTIVE",
+    "lines": [
+      {
+        "id": "x01",
+        "rec": false,
+        "text": "Ouverture directe sur Tariq en gros plan, rouge de colère. La vidéo démarre sur « Les gens votent à droite… ».",
+        "who": "scene"
+      },
+      {
+        "dur": 2.43,
+        "durFor": "[annoyed] Pfff… regarde ce qui se passe en France ! [frustrated] Les gens votent à droite… tous des fachos !",
+        "expr": "assure",
+        "fx": [
+          {
+            "t": "shake",
+            "word": "fachos"
+          },
+          {
+            "t": "zoom",
+            "word": "fachos"
+          }
+        ],
+        "id": "x02",
+        "plan": "cu",
+        "rec": false,
+        "subText": "Les gens votent à droite… tous des fachos !",
+        "text": "[annoyed] Pfff… regarde ce qui se passe en France ! [frustrated] Les gens votent à droite… tous des fachos !",
+        "who": "tariq"
+      },
+      {
+        "id": "s01",
+        "rec": false,
+        "text": "Sur « tous des fachos ! », zoom pixel brutal : Tariq tape du poing, l'écran tremble.",
+        "who": "scene"
+      },
+      {
+        "id": "s18",
+        "rec": false,
+        "text": "Coupe sur Sham, petit sourire en coin.",
+        "who": "scene"
+      },
+      {
+        "dur": 2.07,
+        "durFor": "[teasing] Mais Mohammed était un facho, lui, non ?",
+        "expr": "amuse",
+        "id": "x44",
+        "plan": "cu",
+        "rec": false,
+        "text": "[teasing] Mais Mohammed était un facho, lui, non ?",
+        "who": "sham"
+      },
+      {
+        "id": "s19",
+        "rec": false,
+        "text": "Retour sur Tariq qui pointe Sham du doigt, zoom brutal.",
+        "who": "scene"
+      },
+      {
+        "dur": 1,
+        "durFor": "[outraged] Prouve-le-moi !",
+        "expr": "assure",
+        "fx": [
+          {
+            "t": "shake"
+          },
+          {
+            "t": "zoom"
+          }
+        ],
+        "id": "x45",
+        "plan": "cu",
+        "rec": false,
+        "text": "[outraged] Prouve-le-moi !",
+        "who": "tariq"
+      },
+      {
+        "id": "s20",
+        "rec": false,
+        "text": "Coupe sur Sham, sûr de lui, qui fait craquer ses doigts.",
+        "who": "scene"
+      },
+      {
+        "dur": 1.21,
+        "durFor": "[confident] OK, pas de souci !",
+        "expr": "sur",
+        "id": "x46",
+        "plan": "cu",
+        "rec": false,
+        "text": "[confident] OK, pas de souci !",
+        "who": "sham"
+      }
+    ],
+    "text1": "EXPULSER",
+    "text2": "POUR SA RELIGION ?"
+  },
+  "jingle": true,
+  "lines": [
+    {
+      "dur": 1.73,
+      "durFor": "[calling out] Eh, Tariq ! Viens voir ça.",
+      "id": "x05",
+      "plan": "wide",
+      "pose": "tel",
+      "rec": false,
+      "text": "[calling out] Eh, Tariq ! Viens voir ça.",
+      "who": "balzaac"
+    },
+    {
+      "id": "x06",
+      "plan": "card:tel",
+      "rec": false,
+      "text": "Balzaac entre dans le champ et tend son téléphone. Plein écran sur le téléphone : bandeau rouge « DISCOURS FICTIF » · « CANDIDATE FICTIVE ».",
+      "who": "scene"
+    },
+    {
+      "dur": 3.06,
+      "durFor": "[angry] Si je suis élue, j'expulserai les musulmans de France !",
+      "fx": [
+        {
+          "t": "foule",
+          "word": "France"
+        }
+      ],
+      "id": "x07",
+      "plan": "card:tel",
+      "rec": false,
+      "text": "[angry] Si je suis élue, j'expulserai les musulmans de France !",
+      "who": "cand"
+    },
+    {
+      "id": "x08",
+      "pause": 2.1,
+      "rec": false,
+      "text": "La foule encourage derrière (cris, applaudissements, sifflets), les silhouettes lèvent les bras… puis pause de la vidéo ⏸, l'image s'assombrit.",
+      "who": "scene"
+    },
+    {
+      "id": "s04",
+      "rec": false,
+      "text": "Tariq pointe l'écran du doigt. Plan large sur les trois.",
+      "who": "scene"
+    },
+    {
+      "dur": 3.34,
+      "durFor": "[indignant] Voilà ! Regarde à quel point elle est méchante, cette fasciste !",
+      "fx": [
+        {
+          "expr": "fier",
+          "plan": "cu",
+          "t": "cut",
+          "word": "méchante"
+        }
+      ],
+      "id": "x09",
+      "plan": "wide",
+      "pose": "pointe",
+      "rec": false,
+      "text": "[indignant] Voilà ! Regarde à quel point elle est méchante, cette fasciste !",
+      "who": "tariq"
+    },
+    {
+      "dur": 1.37,
+      "durFor": "[curious] Qu'est-ce qui te choque précisément ?",
+      "expr": "curieux",
+      "id": "x10",
+      "plan": "cu",
+      "rec": false,
+      "text": "[curious] Qu'est-ce qui te choque précisément ?",
+      "who": "sham"
+    },
+    {
+      "id": "s05",
+      "rec": false,
+      "text": "Pendant la tirade : deux zooms pixel sur Tariq, qui gesticule de plus en plus.",
+      "who": "scene"
+    },
+    {
+      "dur": 7.29,
+      "durFor": "[outraged] Elle veut chasser des gens parce qu'ils sont musulmans ! [insistent] Ils peuvent vivre tranquillement, respecter leurs voisins… [frustrated] elle veut quand même les expulser !",
+      "expr": "assure",
+      "id": "x11",
+      "plan": "cu",
+      "rec": false,
+      "text": "[outraged] Elle veut chasser des gens parce qu'ils sont musulmans ! [insistent] Ils peuvent vivre tranquillement, respecter leurs voisins… [frustrated] elle veut quand même les expulser !",
+      "who": "tariq"
+    },
+    {
+      "id": "s06",
+      "rec": false,
+      "text": "Balzaac, bras croisés, très calme. La fiche « LE PRINCIPE DE TARIQ » commence à s'écrire.",
+      "who": "scene"
+    },
+    {
+      "dur": 3.57,
+      "durFor": "[calm][probing] Donc ce que tu condamnes, c'est de faire de leur religion un motif d'expulsion ?",
+      "expr": "calme",
+      "fx": [
+        {
+          "plan": "card:principe",
+          "t": "cut",
+          "word": "condamnes"
+        }
+      ],
+      "id": "x12",
+      "plan": "cu",
+      "rec": false,
+      "text": "[calm][probing] Donc ce que tu condamnes, c'est de faire de leur religion un motif d'expulsion ?",
+      "who": "balzaac"
+    },
+    {
+      "dur": 0.88,
+      "durFor": "[emphatic] Évidemment !",
+      "id": "x13",
+      "plan": "card:principe",
+      "rec": false,
+      "text": "[emphatic] Évidemment !",
+      "who": "tariq"
+    },
+    {
+      "dur": 2.6,
+      "durFor": "[thoughtful] Que ce soient des musulmans, des juifs ou des chrétiens ?",
+      "id": "x14",
+      "plan": "card:principe",
+      "rec": false,
+      "text": "[thoughtful] Que ce soient des musulmans, des juifs ou des chrétiens ?",
+      "who": "sham"
+    },
+    {
+      "dur": 1.83,
+      "durFor": "[confident] Oui ! [suspicious] Pourquoi tu me demandes ça ?",
+      "fx": [
+        {
+          "expr": "hesitant",
+          "plan": "cu",
+          "t": "cut",
+          "word": "pourquoi"
+        }
+      ],
+      "id": "x15",
+      "plan": "card:principe",
+      "rec": false,
+      "text": "[confident] Oui ! [suspicious] Pourquoi tu me demandes ça ?",
+      "who": "tariq"
+    },
+    {
+      "expr": "sur",
+      "id": "x16",
+      "pause": 1.08,
+      "plan": "cu:sham",
+      "rec": false,
+      "text": "Fiche « LE PRINCIPE DE TARIQ » : PAS D'EXPULSION À CAUSE DE LA RELIGION · les cases ☑ MUSULMANS ☑ JUIFS ☑ CHRÉTIENS se cochent une à une, puis le tampon vert « VALIDÉ PAR TARIQ » claque.",
+      "who": "scene"
+    },
+    {
+      "dur": 1.84,
+      "durFor": "[calm] Parce que je voudrais te montrer un autre texte.",
+      "expr": "sur",
+      "id": "x17",
+      "plan": "cu",
+      "rec": false,
+      "text": "[calm] Parce que je voudrais te montrer un autre texte.",
+      "who": "sham"
+    },
+    {
+      "id": "x18",
+      "plan": "card:hadith",
+      "rec": false,
+      "text": "Sham sort un vieux parchemin, la lumière baisse, la musique devient grave. Parchemin plein écran : « ṢAḤĪḤ MUSLIM — 1767a » · « SELON ʿUMAR », le texte s'écrit ligne par ligne.",
+      "who": "scene"
+    },
+    {
+      "dur": 8.1,
+      "durFor": "[serious] Selon ʿUmar, Mohammed a déclaré : [slowly] « Je ferai certes sortir les juifs et les chrétiens de la Péninsule Arabique, au point de n'y laisser que des musulmans. »",
+      "fx": [
+        {
+          "t": "nuit"
+        },
+        {
+          "t": "souligne",
+          "target": "CHRÉTIENS",
+          "word": "musulmans"
+        }
+      ],
+      "id": "x19",
+      "pause": 0.8,
+      "plan": "card:hadith",
+      "rec": false,
+      "text": "[serious] Selon ʿUmar, Mohammed a déclaré : [slowly] « Je ferai certes sortir les juifs et les chrétiens de la Péninsule Arabique, au point de n'y laisser que des musulmans. »",
+      "who": "sham"
+    },
+    {
+      "expr": "hesitant",
+      "fx": [
+        {
+          "t": "sueur"
+        }
+      ],
+      "id": "s07",
+      "plan": "cu:tariq",
+      "rec": false,
+      "text": "« LES JUIFS ET LES CHRÉTIENS » se souligne en rouge. Silence : gros plan sur Tariq, une goutte de sueur pixel glisse sur sa tempe.",
+      "who": "scene"
+    },
+    {
+      "dur": 3.06,
+      "durFor": "[hesitant] Attends… [defensive] ce n'est pas pareil ! Il y a un contexte !",
+      "expr": "hesitant",
+      "fx": [
+        {
+          "expr": "assure",
+          "plan": "cu",
+          "t": "cut",
+          "word": "contexte"
+        },
+        {
+          "t": "qmark",
+          "word": "pareil"
+        }
+      ],
+      "id": "x20",
+      "plan": "cu",
+      "rec": false,
+      "src": "hadith",
+      "text": "[hesitant] Attends… [defensive] ce n'est pas pareil ! Il y a un contexte !",
+      "who": "tariq"
+    },
+    {
+      "id": "s08",
+      "rec": false,
+      "text": "Tariq agite les mains, petit « ?! » vert au-dessus de sa tête.",
+      "who": "scene"
+    },
+    {
+      "dur": 3.49,
+      "durFor": "[laughs] Ahahahaha ! [mocking] quand c'est vous il y a toujours un contexte !",
+      "expr": "rire",
+      "fx": [
+        {
+          "t": "haha"
+        }
+      ],
+      "id": "x21",
+      "plan": "cu",
+      "rec": false,
+      "src": "hadith",
+      "text": "[laughs] Ahahahaha ! [mocking] quand c'est vous il y a toujours un contexte !",
+      "who": "sham"
+    },
+    {
+      "id": "s09",
+      "rec": false,
+      "text": "Sham éclate de rire, des « HA HA HA » pixel rebondissent autour de lui. Balzaac retient un sourire.",
+      "who": "scene"
+    },
+    {
+      "dur": 1.55,
+      "durFor": "[outraged][defensive] Je ne connais pas ce passage !",
+      "expr": "hesitant",
+      "id": "x22",
+      "plan": "cu",
+      "rec": false,
+      "src": "hadith",
+      "text": "[outraged][defensive] Je ne connais pas ce passage !",
+      "who": "tariq"
+    },
+    {
+      "id": "s10",
+      "rec": false,
+      "text": "Tariq détourne les yeux et croise les bras. Balzaac pose la main sur son épaule.",
+      "who": "scene"
+    },
+    {
+      "id": "s11",
+      "rec": false,
+      "text": "Pendant la réplique : retour sur la fiche du principe. Sur le mot « islamophobe », un tampon rouge « ISLAMOPHOBE » claque à côté de MUSULMANS.",
+      "who": "scene"
+    },
+    {
+      "dur": 6.96,
+      "durFor": "[calm] Attends, on applique ta règle. [firm] Si elle dit « j'expulse tous les musulmans », c'est islamophobe, raciste, xénophobe… [leaning in] t'es d'accord ?",
+      "expr": "insistant",
+      "fx": [
+        {
+          "plan": "card:principe",
+          "t": "cut",
+          "word": "elle"
+        },
+        {
+          "t": "stamp",
+          "target": "MUSULMANS",
+          "text": "ISLAMOPHOBE",
+          "word": "islamophobe"
+        }
+      ],
+      "id": "x24",
+      "plan": "cu",
+      "rec": false,
+      "src": "hadith",
+      "text": "[calm] Attends, on applique ta règle. [firm] Si elle dit « j'expulse tous les musulmans », c'est islamophobe, raciste, xénophobe… [leaning in] t'es d'accord ?",
+      "who": "balzaac"
+    },
+    {
+      "dur": 0.89,
+      "durFor": "[emphatic] Évidemment !",
+      "expr": "fier",
+      "id": "x25",
+      "plan": "cu",
+      "rec": false,
+      "src": "hadith",
+      "text": "[emphatic] Évidemment !",
+      "who": "tariq"
+    },
+    {
+      "id": "x27",
+      "rec": false,
+      "text": "Pendant la réplique, les tampons tombent au rythme de Balzaac : « CHRISTIANOPHOBE » à côté de CHRÉTIENS, puis « ANTISÉMITE » à côté de JUIFS (énorme, l'écran tremble), et enfin « MÊME RÈGLE » doré en travers de la fiche. (Prise de Tariq « Évidemment ! » réutilisée.)",
+      "who": "scene"
+    },
+    {
+      "dur": 9.2,
+      "durFor": "[pointed] Alors si ça, c'est islamophobe… [slowly] « faire sortir les juifs et les chrétiens », c'est christianophobe et xénophobe… [short pause][emphatic, rising] ET antisémite ! [beat][calm] Même règle, mon frère.",
+      "fx": [
+        {
+          "t": "stamp",
+          "target": "CHRÉTIENS",
+          "text": "CHRISTIANOPHOBE",
+          "word": "christianophobe"
+        },
+        {
+          "t": "stamp",
+          "target": "JUIFS",
+          "text": "ANTISÉMITE",
+          "word": "antisémite"
+        },
+        {
+          "t": "shake",
+          "word": "antisémite"
+        },
+        {
+          "color": "or",
+          "t": "stamp",
+          "target": "centre",
+          "text": "MÊME RÈGLE",
+          "word": "règle"
+        }
+      ],
+      "id": "x26",
+      "plan": "card:principe",
+      "rec": false,
+      "src": "hadith",
+      "text": "[pointed] Alors si ça, c'est islamophobe… [slowly] « faire sortir les juifs et les chrétiens », c'est christianophobe et xénophobe… [short pause][emphatic, rising] ET antisémite ! [beat][calm] Même règle, mon frère.",
+      "who": "balzaac"
+    },
+    {
+      "id": "s12",
+      "rec": false,
+      "text": "Tariq lève le menton, bras croisés, sûr de lui.",
+      "who": "scene"
+    },
+    {
+      "dur": 3.7,
+      "durFor": "[stubborn] Mais pour moi, c'est un prophète : [confident] il avait forcément une raison juste !",
+      "expr": "fier",
+      "id": "x36",
+      "plan": "cu",
+      "rec": false,
+      "src": "hadith",
+      "text": "[stubborn] Mais pour moi, c'est un prophète : [confident] il avait forcément une raison juste !",
+      "who": "tariq"
+    },
+    {
+      "id": "s13",
+      "rec": false,
+      "text": "Pendant la réplique : écran partagé. À gauche la candidate « FASCISTE ! », à droite le parchemin « UNE RAISON JUSTE ? ». Sur « deux poids, deux mesures », une balance pixel penche d'un coup et le tampon « DEUX POIDS, DEUX MESURES » claque.",
+      "who": "scene"
+    },
+    {
+      "dur": 5.6,
+      "durFor": "[mimicking Tariq] Elle, c'est une fasciste… [sarcastic] mais Mohammed, il avait forcément une raison ? [beat][firm] Ça s'appelle deux poids, deux mesures.",
+      "fx": [
+        {
+          "color": "rouge",
+          "t": "texte",
+          "target": "gauche",
+          "text": "« FASCISTE ! »",
+          "word": "fasciste"
+        },
+        {
+          "color": "vert",
+          "t": "texte",
+          "target": "droite",
+          "text": "« UNE RAISON JUSTE ? »",
+          "word": "raison"
+        },
+        {
+          "t": "balance",
+          "word": "poids"
+        },
+        {
+          "t": "stamp",
+          "target": "centre",
+          "text": "DEUX POIDS, DEUX MESURES",
+          "word": "poids"
+        }
+      ],
+      "id": "x37",
+      "pause": 0.6,
+      "plan": "card:split",
+      "rec": false,
+      "src": "hadith",
+      "text": "[mimicking Tariq] Elle, c'est une fasciste… [sarcastic] mais Mohammed, il avait forcément une raison ? [beat][firm] Ça s'appelle deux poids, deux mesures.",
+      "who": "sham"
+    },
+    {
+      "id": "s14",
+      "rec": false,
+      "text": "La musique se coupe presque. Plan fixe sur Balzaac ; pendant sa longue pause, Tariq baisse les yeux.",
+      "who": "scene"
+    },
+    {
+      "dur": 7.53,
+      "durFor": "[calm][serious] Le plus difficile, ce n'est pas de reconnaître une injustice chez quelqu'un qu'on déteste. [long pause][softly] C'est de poser la même question à quelqu'un qu'on admire.",
+      "expr": "solennel",
+      "fx": [
+        {
+          "after": true,
+          "expr": "hesitant",
+          "plan": "cu:tariq",
+          "t": "cut",
+          "word": "déteste"
+        },
+        {
+          "expr": "bienveillant",
+          "plan": "cu",
+          "t": "cut",
+          "word": "C'est"
+        },
+        {
+          "t": "musique_basse"
+        }
+      ],
+      "id": "x38",
+      "plan": "cu",
+      "rec": false,
+      "src": "hadith",
+      "text": "[calm][serious] Le plus difficile, ce n'est pas de reconnaître une injustice chez quelqu'un qu'on déteste. [long pause][softly] C'est de poser la même question à quelqu'un qu'on admire.",
+      "who": "balzaac"
+    },
+    {
+      "id": "s17",
+      "rec": false,
+      "text": "Sham se tourne vers Tariq, bras croisés. La question du début revient à l'écran : « TOUS DES FACHOS ? »",
+      "who": "scene"
+    },
+    {
+      "dur": 2.2,
+      "durFor": "[pointed] Alors ? [beat] Mohammed était un facho ou pas ?",
+      "expr": "sur",
+      "fx": [
+        {
+          "color": "vert",
+          "t": "texte",
+          "target": "haut",
+          "text": "« TOUS DES FACHOS ? »",
+          "word": "facho"
+        },
+        {
+          "t": "musique_basse"
+        }
+      ],
+      "id": "x47",
+      "plan": "cu",
+      "rec": false,
+      "src": "hadith",
+      "text": "[pointed] Alors ? [beat] Mohammed était un facho ou pas ?",
+      "who": "sham"
+    },
+    {
+      "id": "s15",
+      "rec": false,
+      "text": "Tariq soupire et sort son téléphone pour chercher.",
+      "who": "scene"
+    },
+    {
+      "dur": 3.55,
+      "durFor": "[sighs] Bon… [reluctant] je vais chercher les explications de ce hadith.",
+      "expr": "hesitant",
+      "id": "x39",
+      "plan": "cu",
+      "rec": false,
+      "src": "hadith",
+      "text": "[sighs] Bon… [reluctant] je vais chercher les explications de ce hadith.",
+      "who": "tariq"
+    },
+    {
+      "id": "s16",
+      "rec": false,
+      "text": "Zoom lent sur Sham, regard caméra.",
+      "who": "scene"
+    },
+    {
+      "dur": 4.96,
+      "durFor": "[calm] Cherche bien. [beat][leaning in] L'excuse que tu vas trouver… [slowly, cold] la candidate pourra la reprendre mot pour mot.",
+      "expr": "sur",
+      "fx": [
+        {
+          "t": "zoom_lent"
+        }
+      ],
+      "id": "x40",
+      "plan": "cu",
+      "rec": false,
+      "src": "hadith",
+      "text": "[calm] Cherche bien. [beat][leaning in] L'excuse que tu vas trouver… [slowly, cold] la candidate pourra la reprendre mot pour mot.",
+      "who": "sham"
+    },
+    {
+      "expr": "choque",
+      "fx": [
+        {
+          "t": "sueur"
+        }
+      ],
+      "id": "x42",
+      "pause": 1,
+      "plan": "cu:tariq",
+      "rec": false,
+      "text": "Gros plan sur Tariq, bouche bée, le téléphone à la main. Une seconde de silence total.",
+      "who": "scene"
+    },
+    {
+      "id": "x41",
+      "rec": false,
+      "text": "Carton final : « L'EXPULSION » tombe lettre par lettre · « MÊME RÈGLE. POUR TOUT LE MONDE. » · « Ṣaḥīḥ Muslim, 1767a · Candidate et discours politique fictifs ».",
+      "who": "scene"
+    }
+  ],
+  "moment": "crepuscule",
+  "order": 1,
+  "title": "L'expulsion",
+  "univers": "rue",
+  "updated": "2026-10-22T16:10:00Z",
+  "voices": {}
+}

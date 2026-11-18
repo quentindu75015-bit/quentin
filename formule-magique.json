@@ -1,0 +1,416 @@
+{
+  "cards": [
+    {
+      "book": "coran",
+      "id": "loupe",
+      "lines": "ISSA : « JE SUIS LE MESSIE » ?\nMOHAMMED : « JE SUIS UN PROPHÈTE » ?",
+      "title": "CORAN",
+      "tpl": "livre"
+    },
+    {
+      "id": "dix",
+      "title": "2 HEURES PLUS TARD…",
+      "tpl": "titre"
+    },
+    {
+      "id": "heure",
+      "title": "6 HEURES PLUS TARD…",
+      "tpl": "titre"
+    },
+    {
+      "book": "coran",
+      "id": "c345",
+      "lines": "« SON NOM SERA AL-MASÎH,\nÎSÂ, FILS DE MARIE »",
+      "refDetail": "trad. Hamidullah",
+      "refName": "Coran",
+      "refNum": "3:45",
+      "title": "SOURATE 3 · VERSET 45",
+      "tpl": "livre",
+      "url": "quran.com/3/45"
+    },
+    {
+      "book": "bible",
+      "id": "heb",
+      "lines": "« TON TRÔNE, Ô DIEU, EST ÉTERNEL »\n« TOI, SEIGNEUR, TU AS FONDÉ LA TERRE »\n= PSAUME 102 : YHWH, LE CRÉATEUR",
+      "refDetail": "= Psaume 102 · Louis Segond",
+      "refName": "Hébreux",
+      "refNum": "1:8-10",
+      "title": "HÉBREUX 1:8-10",
+      "tpl": "livre"
+    },
+    {
+      "id": "parallele",
+      "left": "CORAN 3:45\nAllah le nomme « Messie » → Issa",
+      "right": "HÉBREUX 1:8-10\nDieu le nomme « Dieu » → Jésus",
+      "tpl": "ecran"
+    }
+  ],
+  "cast": [],
+  "end1": "ARGUMENTS 2.0 RÉFUTÉS : 1",
+  "end2": "À SUIVRE…",
+  "endNote": "",
+  "endRefs": "",
+  "endTitle": "LA FORMULE MAGIQUE",
+  "hook": {
+    "badge": "TARIQ ET SES ARGUMENTS 2.0",
+    "lines": [
+      {
+        "dur": 3.68,
+        "durFor": "[confident] Montre-moi un passage dans la BIBLE… [emphatic] où Jésus dit : « Je suis Dieu » !",
+        "expr": "assure",
+        "fx": [
+          {
+            "t": "zoom",
+            "word": "BIBLE"
+          }
+        ],
+        "id": "h1",
+        "plan": "cu",
+        "rec": false,
+        "text": "[confident] Montre-moi un passage dans la BIBLE… [emphatic] où Jésus dit : « Je suis Dieu » !",
+        "who": "tariq"
+      },
+      {
+        "dur": 3.02,
+        "durFor": "[teasing] Toujours le même argument… tu vas encore perdre, Tariq…",
+        "expr": "blase",
+        "fx": [
+          {
+            "expr": "clin",
+            "plan": "cu",
+            "t": "cut",
+            "word": "perdre"
+          }
+        ],
+        "id": "h2",
+        "plan": "cu",
+        "rec": false,
+        "text": "[teasing] Toujours le même argument… tu vas encore perdre, Tariq…",
+        "who": "sham"
+      }
+    ],
+    "text1": "JÉSUS A-T-IL DIT",
+    "text2": "« JE SUIS DIEU » ?"
+  },
+  "jingle": true,
+  "lines": [
+    {
+      "dur": 8.53,
+      "durFor": "[challenging] Alors aujourd'hui, c'est la bonne : mon argument, cette fois-ci, est imbattable ! [serious] Montre-moi un passage dans la Bible où Jésus dit : « Je suis Dieu, adorez-moi ! »",
+      "id": "l1",
+      "plan": "wide",
+      "pose": "pointe",
+      "rec": false,
+      "text": "[challenging] Alors aujourd'hui, c'est la bonne : mon argument, cette fois-ci, est imbattable ! [serious] Montre-moi un passage dans la Bible où Jésus dit : « Je suis Dieu, adorez-moi ! »",
+      "who": "tariq"
+    },
+    {
+      "dur": 8.78,
+      "durFor": "[calm] D'accord, Tariq… [pointed] montre-moi un passage dans le Coran où Issa déclare : « Je suis le Messie. » [long pause] [excited] Ou encore, trouve-moi un passage dans le Coran où Mohammed dit : « Je suis un prophète. »",
+      "expr": "sur",
+      "fx": [
+        {
+          "plan": "card:loupe",
+          "t": "cut",
+          "word": "Coran"
+        }
+      ],
+      "id": "l2",
+      "plan": "cu",
+      "rec": false,
+      "text": "[calm] D'accord, Tariq… [pointed] montre-moi un passage dans le Coran où Issa déclare : « Je suis le Messie. » [long pause] [excited] Ou encore, trouve-moi un passage dans le Coran où Mohammed dit : « Je suis un prophète. »",
+      "who": "sham"
+    },
+    {
+      "dur": 1.83,
+      "durFor": "[confident] Attends, je te ramène ça ! Tout de suite !",
+      "expr": "fier",
+      "id": "l3",
+      "plan": "cu",
+      "rec": false,
+      "text": "[confident] Attends, je te ramène ça ! Tout de suite !",
+      "who": "tariq"
+    },
+    {
+      "id": "s1",
+      "plan": "wide",
+      "pose": "pointe",
+      "rec": false,
+      "text": "Tariq file chercher le verset (nuage de poussière).",
+      "who": "scene"
+    },
+    {
+      "id": "s2",
+      "pause": 1.5,
+      "plan": "card:dix",
+      "rec": false,
+      "text": "Carton « 2 HEURES PLUS TARD… » (horloge, grillons).",
+      "who": "scene"
+    },
+    {
+      "dur": 2.62,
+      "durFor": "[sighs] Aaaah… [bored] On commande à manger ?",
+      "expr": "pensif",
+      "id": "l4",
+      "plan": "cu",
+      "rec": false,
+      "text": "[sighs] Aaaah… [bored] On commande à manger ?",
+      "who": "ichtus"
+    },
+    {
+      "id": "s3",
+      "pause": 1,
+      "plan": "card:heure",
+      "rec": false,
+      "text": "Carton « 6 HEURES PLUS TARD… »",
+      "who": "scene"
+    },
+    {
+      "dur": 7.99,
+      "durFor": "[sighs] Tu avais raison, ça n'existe pas ! [emphatic] Mais Allah affirme lui-même qu'Issa est le Messie, dans la sourate 3, verset 45 !",
+      "expr": "triomphant",
+      "fx": [
+        {
+          "plan": "card:c345",
+          "t": "cut",
+          "word": "sourate"
+        }
+      ],
+      "id": "l5",
+      "plan": "cu",
+      "rec": false,
+      "text": "[sighs] Tu avais raison, ça n'existe pas ! [emphatic] Mais Allah affirme lui-même qu'Issa est le Messie, dans la sourate 3, verset 45 !",
+      "who": "tariq"
+    },
+    {
+      "dur": 5.46,
+      "durFor": "[whispers] Psht, psht… il a juste pas trouvé. [laughs] AHAHAHAHA ! Il a juste… pas trouvé.",
+      "expr": "chuchote",
+      "fx": [
+        {
+          "color": "rouge",
+          "t": "stamp",
+          "target": "centre",
+          "text": "VERSET INTROUVABLE",
+          "word": "trouvé"
+        }
+      ],
+      "id": "l6",
+      "plan": "cu",
+      "rec": false,
+      "src": "c345",
+      "text": "[whispers] Psht, psht… il a juste pas trouvé. [laughs] AHAHAHAHA ! Il a juste… pas trouvé.",
+      "who": "ichtus"
+    },
+    {
+      "dur": 5.41,
+      "durFor": "[curious] Ah ! Donc tu acceptes qu'un texte attribue un titre à quelqu'un sans que cette personne ait nécessairement prononcé la formule exacte ?",
+      "expr": "declic",
+      "id": "l7",
+      "plan": "cu",
+      "rec": false,
+      "src": "c345",
+      "text": "[curious] Ah ! Donc tu acceptes qu'un texte attribue un titre à quelqu'un sans que cette personne ait nécessairement prononcé la formule exacte ?",
+      "who": "sham"
+    },
+    {
+      "dur": 1.98,
+      "durFor": "[confident] Bien sûr, puisque c'est Allah qui le dit !",
+      "expr": "fier",
+      "id": "l8",
+      "plan": "cu",
+      "rec": false,
+      "src": "c345",
+      "text": "[confident] Bien sûr, puisque c'est Allah qui le dit !",
+      "who": "tariq"
+    },
+    {
+      "dur": 6.38,
+      "durFor": "[pointed] Donc tu demandes qu'on te donne des paroles où Jésus dit « Je suis Dieu », mais toi, tu n'as pas de paroles dans le Coran où Mohammed dit « Je suis un prophète ».",
+      "expr": "sur",
+      "fx": [
+        {
+          "color": "rouge",
+          "t": "stamp",
+          "target": "centre",
+          "text": "0 VERSET",
+          "word": "prophète"
+        },
+        {
+          "t": "shake",
+          "word": "prophète"
+        }
+      ],
+      "id": "l9",
+      "plan": "cu",
+      "rec": false,
+      "text": "[pointed] Donc tu demandes qu'on te donne des paroles où Jésus dit « Je suis Dieu », mais toi, tu n'as pas de paroles dans le Coran où Mohammed dit « Je suis un prophète ».",
+      "who": "sham"
+    },
+    {
+      "dur": 1.43,
+      "durFor": "[defensive] Non mais… Dieu le dit !",
+      "expr": "enerve",
+      "id": "l10",
+      "plan": "cu",
+      "rec": false,
+      "text": "[defensive] Non mais… Dieu le dit !",
+      "who": "tariq"
+    },
+    {
+      "dur": 3.8,
+      "durFor": "[laughs] AHAHA ! [emphatic] Mais la Bible affirme aussi que Jésus est Dieu !",
+      "expr": "rire",
+      "fx": [
+        {
+          "t": "haha"
+        },
+        {
+          "expr": "insistant",
+          "plan": "cu",
+          "t": "cut",
+          "word": "Mais"
+        },
+        {
+          "t": "zoom",
+          "word": "Bible"
+        }
+      ],
+      "id": "l11",
+      "plan": "cu",
+      "rec": false,
+      "text": "[laughs] AHAHA ! [emphatic] Mais la Bible affirme aussi que Jésus est Dieu !",
+      "who": "ichtus"
+    },
+    {
+      "dur": 3.04,
+      "durFor": "[challenging] Très bien ! Montre-moi donc où la Bible affirme que Jésus est Dieu !",
+      "expr": "assure",
+      "id": "l12",
+      "plan": "cu",
+      "rec": false,
+      "text": "[challenging] Très bien ! Montre-moi donc où la Bible affirme que Jésus est Dieu !",
+      "who": "tariq"
+    },
+    {
+      "dur": 16.86,
+      "durFor": "[calm] Ouvrons Hébreux, chapitre 1, verset 8. [serious] Il est écrit, au sujet du Fils : « Ton trône, ô Dieu, est éternel. » Et au verset 10 : « Toi, Seigneur, tu as au commencement fondé la terre, et les cieux sont l'ouvrage de tes mains. » [playful] Donc ici, non seulement Jésus est appelé Dieu, mais il est aussi le Créateur des cieux et de la terre !",
+      "id": "l13",
+      "plan": "card:heb",
+      "rec": false,
+      "text": "[calm] Ouvrons Hébreux, chapitre 1, verset 8. [serious] Il est écrit, au sujet du Fils : « Ton trône, ô Dieu, est éternel. » Et au verset 10 : « Toi, Seigneur, tu as au commencement fondé la terre, et les cieux sont l'ouvrage de tes mains. » [playful] Donc ici, non seulement Jésus est appelé Dieu, mais il est aussi le Créateur des cieux et de la terre !",
+      "who": "sham"
+    },
+    {
+      "dur": 1.98,
+      "durFor": "[outraged] Attends ! Mais ce n'est pas Jésus qui parle !",
+      "expr": "choque",
+      "id": "l14",
+      "plan": "cu",
+      "rec": false,
+      "src": "heb",
+      "text": "[outraged] Attends ! Mais ce n'est pas Jésus qui parle !",
+      "who": "tariq"
+    },
+    {
+      "dur": 11.55,
+      "durFor": "[bored] Ohhhhh, Tariq ! Fais un effort, tu comprends toujours rien… [exasperated] Ohlalala… [pointed] Et dans la sourate 3, verset 45, est-ce Issa qui prononce les mots « Je suis le Messie » ? [emphatic] Non ! C'est Allah qui lui attribue ce titre.",
+      "expr": "blase",
+      "fx": [
+        {
+          "expr": "hesitant",
+          "plan": "cu:tariq",
+          "t": "cut",
+          "word": "comprends"
+        },
+        {
+          "expr": "agace",
+          "plan": "cu",
+          "t": "cut",
+          "word": "Ohlalala"
+        },
+        {
+          "plan": "card:parallele",
+          "t": "cut",
+          "word": "sourate"
+        }
+      ],
+      "id": "l15",
+      "plan": "cu",
+      "rec": false,
+      "text": "[bored] Ohhhhh, Tariq ! Fais un effort, tu comprends toujours rien… [exasperated] Ohlalala… [pointed] Et dans la sourate 3, verset 45, est-ce Issa qui prononce les mots « Je suis le Messie » ? [emphatic] Non ! C'est Allah qui lui attribue ce titre.",
+      "who": "sham"
+    },
+    {
+      "dur": 6.31,
+      "durFor": "[emphatic] Car regarde ce qu'on lit dans Hébreux : le Fils est appelé Dieu, Seigneur, et présenté comme celui qui a fondé la terre et créé les cieux !",
+      "id": "l16",
+      "plan": "card:heb",
+      "rec": false,
+      "text": "[emphatic] Car regarde ce qu'on lit dans Hébreux : le Fils est appelé Dieu, Seigneur, et présenté comme celui qui a fondé la terre et créé les cieux !",
+      "who": "sham"
+    },
+    {
+      "dur": 1.07,
+      "durFor": "[calm] Même règle, mon frère.",
+      "fx": [
+        {
+          "color": "or",
+          "t": "stamp",
+          "target": "centre",
+          "text": "MÊME RÈGLE",
+          "word": "règle"
+        }
+      ],
+      "id": "l17",
+      "plan": "card:parallele",
+      "rec": false,
+      "text": "[calm] Même règle, mon frère.",
+      "who": "ichtus"
+    },
+    {
+      "dur": 2.51,
+      "durFor": "[teasing] Et Tariq… la prochaine fois, ramène le verset.",
+      "expr": "bienveillant",
+      "id": "l18",
+      "plan": "cu",
+      "rec": false,
+      "text": "[teasing] Et Tariq… la prochaine fois, ramène le verset.",
+      "who": "ichtus"
+    },
+    {
+      "dur": 6.1,
+      "durFor": "[sighs] Bon… Bien joué pour cette fois-ci. [determined] Je reviendrai avec un autre argument… [proud] Celui-là, il sera IMBATTABLE !",
+      "expr": "boude",
+      "fx": [
+        {
+          "expr": "triomphant",
+          "plan": "cu",
+          "t": "cut",
+          "word": "IMBATTABLE"
+        },
+        {
+          "t": "shake",
+          "word": "IMBATTABLE"
+        }
+      ],
+      "id": "l19",
+      "plan": "cu",
+      "rec": false,
+      "text": "[sighs] Bon… Bien joué pour cette fois-ci. [determined] Je reviendrai avec un autre argument… [proud] Celui-là, il sera IMBATTABLE !",
+      "who": "tariq"
+    },
+    {
+      "id": "s4",
+      "rec": false,
+      "text": "Carton final : ARGUMENTS 2.0 RÉFUTÉS : 1 · À SUIVRE · encadré SOURCES (Coran 3:45 · Hébreux 1:8-10 · Psaume 102).",
+      "who": "scene"
+    }
+  ],
+  "moment": "crepuscule",
+  "order": 2,
+  "title": "La formule magique",
+  "univers": "rue",
+  "updated": "2026-10-22T17:36:00Z",
+  "voices": {}
+}

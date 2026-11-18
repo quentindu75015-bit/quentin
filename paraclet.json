@@ -1,0 +1,373 @@
+{
+  "cards": [
+    {
+      "book": "bible",
+      "id": "jean",
+      "lines": "« IL CONVAINCRA LE MONDE DE PÉCHÉ,\nDE JUSTICE ET DE JUGEMENT » (16:8)\n« LE PARACLET, L'ESPRIT SAINT » (14:26)",
+      "refDetail": "Louis Segond",
+      "refName": "Jean",
+      "refNum": "16:8 · 14:26",
+      "title": "JEAN 16:8 · 14:26",
+      "tpl": "livre"
+    },
+    {
+      "arabic": "أَبْكِي لِلَّذِي عَرَضَ عَلَىَّ أَصْحَابُكَ مِنْ أَخْذِهِمُ الْفِدَاءَ",
+      "grade": "Authentique (sahih)",
+      "id": "badr",
+      "lines": "70 PRISONNIERS\nABOU BAKR : LA RANÇON\nOMAR : LES EXÉCUTER\nLE PROPHÈTE CHOISIT ABOU BAKR\nLE LENDEMAIN : IL PLEURE",
+      "refBook": "Livre 32 · hadith 69",
+      "refDetail": "selon Umar",
+      "refName": "Sahih Muslim",
+      "refNum": "1763",
+      "sub": "SELON ʿUMAR",
+      "title": "BATAILLE DE BADR",
+      "tpl": "parchemin",
+      "url": "sunnah.com/muslim:1763"
+    },
+    {
+      "book": "coran",
+      "id": "c867",
+      "lines": "« IL N'APPARTIENT PAS À UN PROPHÈTE\nDE FAIRE DES PRISONNIERS… »\n« VOUS VOULEZ LES BIENS DE CE MONDE »\n+ 8:68 : UN CHÂTIMENT TERRIBLE",
+      "refName": "Coran",
+      "refNum": "8:67-68",
+      "title": "SOURATE 8 · VERSETS 67-68",
+      "tpl": "livre",
+      "url": "quran.com/8/67-68"
+    },
+    {
+      "id": "compare",
+      "left": "LE PARACLET (JEAN 16:8)\nconvainc le monde de jugement",
+      "right": "MOHAMMED À BADR\nréfuté par Omar (Coran 8:67)",
+      "tpl": "ecran"
+    }
+  ],
+  "cast": [],
+  "end1": "ARGUMENTS 2.0 RÉFUTÉS : 4",
+  "end2": "À SUIVRE…",
+  "endNote": "",
+  "endRefs": "",
+  "endTitle": "LE PARACLET CORRIGÉ",
+  "hook": {
+    "badge": "TARIQ ET SES ARGUMENTS 2.0",
+    "lines": [
+      {
+        "dur": 3.02,
+        "durFor": "[confident] Le Paraclet annoncé par Jésus… [proud] c'est Mohammed !",
+        "expr": "fier",
+        "id": "h1",
+        "plan": "cu",
+        "rec": false,
+        "text": "[confident] Le Paraclet annoncé par Jésus… [proud] c'est Mohammed !",
+        "who": "tariq"
+      },
+      {
+        "dur": 2.36,
+        "durFor": "[teasing] Donc Mohammed… c'est le Saint-Esprit ?",
+        "expr": "sceptique",
+        "fx": [
+          {
+            "t": "zoom",
+            "word": "Saint-Esprit"
+          }
+        ],
+        "id": "h2",
+        "plan": "cu",
+        "rec": false,
+        "text": "[teasing] Donc Mohammed… c'est le Saint-Esprit ?",
+        "who": "sham"
+      },
+      {
+        "dur": 1.02,
+        "durFor": "[proud] Exactement !",
+        "expr": "triomphant",
+        "id": "h3",
+        "plan": "cu",
+        "rec": false,
+        "text": "[proud] Exactement !",
+        "who": "tariq"
+      },
+      {
+        "dur": 4.72,
+        "durFor": "[laughs] AHAHA ! [teasing] Alors ton Saint-Esprit ne fait que se tromper et corriger par Dieu !",
+        "expr": "rire",
+        "fx": [
+          {
+            "t": "haha"
+          },
+          {
+            "expr": "hesitant",
+            "plan": "cu:tariq",
+            "t": "cut",
+            "word": "tromper"
+          }
+        ],
+        "id": "h4",
+        "plan": "cu",
+        "rec": false,
+        "text": "[laughs] AHAHA ! [teasing] Alors ton Saint-Esprit ne fait que se tromper et corriger par Dieu !",
+        "who": "ichtus"
+      }
+    ],
+    "text1": "MOHAMMED",
+    "text2": "= LE SAINT-ESPRIT ?"
+  },
+  "jingle": true,
+  "lines": [
+    {
+      "dur": 8.14,
+      "durFor": "[excited] Les gars, cette fois, c'est la bonne ! [confident] Mohammed est annoncé dans la Bible ! Jésus parle du Paraclet dans Jean 16… [proud] eh ben, le Paraclet, c'est Mohammed !",
+      "fx": [
+        {
+          "expr": "fier",
+          "plan": "cu",
+          "t": "cut",
+          "word": "Jésus"
+        }
+      ],
+      "id": "l1",
+      "plan": "wide",
+      "pose": "pointe",
+      "rec": false,
+      "text": "[excited] Les gars, cette fois, c'est la bonne ! [confident] Mohammed est annoncé dans la Bible ! Jésus parle du Paraclet dans Jean 16… [proud] eh ben, le Paraclet, c'est Mohammed !",
+      "who": "tariq"
+    },
+    {
+      "dur": 10.36,
+      "durFor": "[calm] D'accord, Tariq. Lisons ce que fait le Paraclet. [serious] Jean 16, verset 8 : « Il convaincra le monde de péché, de justice et de jugement. » [pointed] Et Jean 14 dit que le Paraclet… c'est l'Esprit Saint !",
+      "expr": "sur",
+      "fx": [
+        {
+          "plan": "card:jean",
+          "t": "cut",
+          "word": "Jean"
+        },
+        {
+          "t": "souligne",
+          "target": "JUGEMENT",
+          "word": "jugement"
+        }
+      ],
+      "id": "l2",
+      "plan": "cu",
+      "rec": false,
+      "text": "[calm] D'accord, Tariq. Lisons ce que fait le Paraclet. [serious] Jean 16, verset 8 : « Il convaincra le monde de péché, de justice et de jugement. » [pointed] Et Jean 14 dit que le Paraclet… c'est l'Esprit Saint !",
+      "who": "sham"
+    },
+    {
+      "dur": 1.87,
+      "durFor": "[confident] Ben oui… et c'est Mohammed !",
+      "expr": "assure",
+      "id": "l3",
+      "plan": "cu",
+      "rec": false,
+      "src": "jean",
+      "text": "[confident] Ben oui… et c'est Mohammed !",
+      "who": "tariq"
+    },
+    {
+      "dur": 9.31,
+      "durFor": "[serious] Alors regardons. Bataille de Badr, Sahih Muslim 1763 : 70 prisonniers. Abou Bakr conseille de les garder comme rançon. Omar conseille de les exécuter.",
+      "expr": "sur",
+      "fx": [
+        {
+          "plan": "card:badr",
+          "t": "cut",
+          "word": "Badr"
+        }
+      ],
+      "id": "l4",
+      "plan": "cu",
+      "rec": false,
+      "text": "[serious] Alors regardons. Bataille de Badr, Sahih Muslim 1763 : 70 prisonniers. Abou Bakr conseille de les garder comme rançon. Omar conseille de les exécuter.",
+      "who": "sham"
+    },
+    {
+      "dur": 3.36,
+      "durFor": "[proud] Et le Prophète choisit l'avis d'Abou Bakr. La miséricorde !",
+      "expr": "fier",
+      "id": "l5",
+      "plan": "cu",
+      "rec": false,
+      "src": "badr",
+      "text": "[proud] Et le Prophète choisit l'avis d'Abou Bakr. La miséricorde !",
+      "who": "tariq"
+    },
+    {
+      "dur": 8.7,
+      "durFor": "[pointed] Non, Tariq. Oublie pas : selon toi, Mohammed, c'est le Paraclet… [teasing] donc tu peux aussi l'appeler Saint-Esprit. Dis plutôt : « Le Saint-Esprit choisit l'avis d'Abou Bakr. »",
+      "expr": "clin",
+      "id": "l6",
+      "plan": "cu",
+      "rec": false,
+      "src": "badr",
+      "text": "[pointed] Non, Tariq. Oublie pas : selon toi, Mohammed, c'est le Paraclet… [teasing] donc tu peux aussi l'appeler Saint-Esprit. Dis plutôt : « Le Saint-Esprit choisit l'avis d'Abou Bakr. »",
+      "who": "sham"
+    },
+    {
+      "dur": 4.16,
+      "durFor": "[hesitant] Euh… si tu veux… le Saint-Esprit choisit l'avis d'Abou Bakr.",
+      "expr": "hesitant",
+      "fx": [
+        {
+          "t": "sueur",
+          "word": "Saint-Esprit"
+        }
+      ],
+      "id": "l7",
+      "plan": "cu",
+      "rec": false,
+      "src": "badr",
+      "text": "[hesitant] Euh… si tu veux… le Saint-Esprit choisit l'avis d'Abou Bakr.",
+      "who": "tariq"
+    },
+    {
+      "dur": 13.37,
+      "durFor": "[serious] Sauf que le lendemain, Omar le trouve en larmes, car Mohammed, votre Saint-Esprit, avait choisi le mauvais jugement. Sourate 8, verset 67 : « Il n'appartient pas à un prophète de faire des prisonniers… Vous voulez les biens de ce monde ! » Et le verset suivant parle d'un châtiment terrible.",
+      "fx": [
+        {
+          "t": "nuit",
+          "word": "lendemain"
+        },
+        {
+          "plan": "card:c867",
+          "t": "cut",
+          "word": "Sourate"
+        },
+        {
+          "t": "souligne",
+          "target": "PRISONNIERS",
+          "word": "prisonniers"
+        }
+      ],
+      "id": "l8",
+      "plan": "card:badr",
+      "rec": false,
+      "text": "[serious] Sauf que le lendemain, Omar le trouve en larmes, car Mohammed, votre Saint-Esprit, avait choisi le mauvais jugement. Sourate 8, verset 67 : « Il n'appartient pas à un prophète de faire des prisonniers… Vous voulez les biens de ce monde ! » Et le verset suivant parle d'un châtiment terrible.",
+      "who": "sham"
+    },
+    {
+      "dur": 2.87,
+      "durFor": "[hesitant] Euh… [defensive] Allah lui a juste montré le meilleur choix !",
+      "expr": "hesitant",
+      "id": "l9",
+      "plan": "cu",
+      "rec": false,
+      "src": "c867",
+      "text": "[hesitant] Euh… [defensive] Allah lui a juste montré le meilleur choix !",
+      "who": "tariq"
+    },
+    {
+      "dur": 6.85,
+      "durFor": "[pointed] Donc… le Saint-Esprit s'est fait réfuter par son compagnon… en ce qui concerne le jugement divin ! [emphatic] Lui qui devait convaincre le monde… de jugement.",
+      "expr": "sur",
+      "fx": [
+        {
+          "color": "rouge",
+          "t": "stamp",
+          "target": "centre",
+          "text": "RÉFUTÉ PAR OMAR",
+          "word": "jugement"
+        }
+      ],
+      "id": "l10",
+      "plan": "cu",
+      "rec": false,
+      "src": "c867",
+      "text": "[pointed] Donc… le Saint-Esprit s'est fait réfuter par son compagnon… en ce qui concerne le jugement divin ! [emphatic] Lui qui devait convaincre le monde… de jugement.",
+      "who": "sham"
+    },
+    {
+      "dur": 11.8,
+      "durFor": "[laughs] AHAHA ! Attends, Tariq ! Ton Paraclet, celui qui doit convaincre le monde… il demande conseil, il prend la mauvaise option… et c'est Omar qui avait raison ! [amused] C'est un GPS qui demande la route au passager !",
+      "expr": "rire",
+      "fx": [
+        {
+          "t": "haha"
+        },
+        {
+          "color": "vert",
+          "t": "texte",
+          "target": "haut",
+          "text": "« GPS QUI DEMANDE LA ROUTE »",
+          "word": "GPS"
+        }
+      ],
+      "id": "l11",
+      "plan": "cu",
+      "rec": false,
+      "text": "[laughs] AHAHA ! Attends, Tariq ! Ton Paraclet, celui qui doit convaincre le monde… il demande conseil, il prend la mauvaise option… et c'est Omar qui avait raison ! [amused] C'est un GPS qui demande la route au passager !",
+      "who": "ichtus"
+    },
+    {
+      "dur": 1.47,
+      "durFor": "[defensive] Mais… c'est pas pareil !",
+      "expr": "enerve",
+      "fx": [
+        {
+          "t": "qmark",
+          "word": "pareil"
+        }
+      ],
+      "id": "l12",
+      "plan": "cu",
+      "rec": false,
+      "text": "[defensive] Mais… c'est pas pareil !",
+      "who": "tariq"
+    },
+    {
+      "dur": 6.63,
+      "durFor": "[calm] Le Paraclet convainc le monde. [pointed] Mohammed, votre Saint-Esprit, lui, se fait réfuter par son disciple… et c'est Omar qui avait vu juste.",
+      "id": "l13",
+      "plan": "card:compare",
+      "rec": false,
+      "text": "[calm] Le Paraclet convainc le monde. [pointed] Mohammed, votre Saint-Esprit, lui, se fait réfuter par son disciple… et c'est Omar qui avait vu juste.",
+      "who": "sham"
+    },
+    {
+      "dur": 5.18,
+      "durFor": "[teasing] Mon frère… ton Paraclet a lui-même besoin d'un Paraclet ! [laughs] AHAHAHA !",
+      "expr": "rire",
+      "fx": [
+        {
+          "t": "haha",
+          "word": "AHAHAHA"
+        }
+      ],
+      "id": "l14",
+      "plan": "cu",
+      "rec": false,
+      "text": "[teasing] Mon frère… ton Paraclet a lui-même besoin d'un Paraclet ! [laughs] AHAHAHA !",
+      "who": "ichtus"
+    },
+    {
+      "dur": 6.4,
+      "durFor": "[sighs] Bon… Bien joué pour cette fois-ci. [determined] Je reviendrai avec un autre argument… [proud] Celui-là, il sera IMBATTABLE !",
+      "expr": "boude",
+      "fx": [
+        {
+          "expr": "triomphant",
+          "plan": "cu",
+          "t": "cut",
+          "word": "IMBATTABLE"
+        }
+      ],
+      "id": "l15",
+      "plan": "cu",
+      "rec": false,
+      "text": "[sighs] Bon… Bien joué pour cette fois-ci. [determined] Je reviendrai avec un autre argument… [proud] Celui-là, il sera IMBATTABLE !",
+      "who": "tariq"
+    },
+    {
+      "id": "s1",
+      "rec": false,
+      "text": "Carton final : ARGUMENTS 2.0 RÉFUTÉS : 4 · À SUIVRE · encadré SOURCES (Jean 16:8 · 14:26 · Sahih Muslim 1763 · Coran 8:67-68).",
+      "who": "scene"
+    }
+  ],
+  "moment": "crepuscule",
+  "order": 3,
+  "title": "Le Paraclet corrigé",
+  "univers": "rue",
+  "updated": "2026-10-22T18:05:00Z",
+  "voices": {}
+}
